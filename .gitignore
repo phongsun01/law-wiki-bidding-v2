@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+
+# Backups
+backups/
+*.bak
+
+# Outputs
+outputs/
+
+# Raw sources (optional - uncomment if you don't want to commit raw files)
+# raw/
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
+*.tmp

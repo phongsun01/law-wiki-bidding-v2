@@ -1,0 +1,61 @@
+---
+law_id: luat-dau-thau-2023
+article_number: 73
+title: Nội dung hợp đồng dự án đầu tư kinh doanh
+chapter: 7
+chapter_title: Thông tin về đấu thầu
+effective_date: 2024-01-01
+last_amended: 2024-01-01
+amendment_history: Luật 22/2023/QH15
+status: active
+summary: 'Hợp đồng dự án đầu tư kinh doanh bao gồm các nội dung cơ bản sau đây:'
+related_articles:
+- 71
+- 72
+- 74
+clauses: 2
+threshold_vnd: null
+method: null
+applies_to:
+- nhà-đầu-tư
+- cơ-quan-có-thẩm-quyền
+tags:
+- hợp-đồng
+- dự-án-đầu-tư-kinh-doanh
+- nội-dung
+total_clauses: 2
+anchors:
+- khoan-1
+- khoan-2
+---
+
+# Điều 73. Nội dung hợp đồng dự án đầu tư kinh doanh
+
+**Thuộc:** [[chuong-7-hop-dong]]
+
+## Khoản 1. Nội dung cơ bản {#khoan-1}
+
+Hợp đồng dự án đầu tư kinh doanh bao gồm các nội dung cơ bản sau đây:
+
+- **Điểm a.** Thông tin về các bên ký kết hợp đồng, thời điểm có hiệu lực của hợp đồng, thời hạn hợp đồng; {#khoan-1-diem-a}
+
+- **Điểm b.** Thông tin về dự án đầu tư kinh doanh, bao gồm: mục tiêu, địa điểm, tiến độ thực hiện dự án; quy mô và tổng vốn đầu tư; điều kiện sử dụng đất và tài nguyên khác (nếu có); phương án, yêu cầu về bồi thường, hỗ trợ, tái định cư và tổ chức xây dựng công trình phụ trợ (nếu có); bảo đảm an toàn và bảo vệ môi trường; trường hợp bất khả kháng và phương án xử lý trong trường hợp bất khả kháng; {#khoan-1-diem-b}
+
+- **Điểm c.** Trách nhiệm thực hiện thủ tục bồi thường, hỗ trợ, tái định cư và tổ chức xây dựng công trình phụ trợ (nếu có); giao đất, cho thuê đất (nếu có); {#khoan-1-diem-c}
+
+- **Điểm d.** Nghĩa vụ của nhà đầu tư trong việc thực hiện các cam kết đã đề xuất trong hồ sơ dự thầu; việc thành lập doanh nghiệp để quản lý dự án đầu tư kinh doanh (nếu có); {#khoan-1-diem-d}
+
+- **Điểm đ.** Bảo đảm thực hiện hợp đồng; các nguyên tắc, điều kiện sửa đổi, chấm dứt hợp đồng; chuyển nhượng quyền và nghĩa vụ của các bên; {#khoan-1-diem-đ}
+
+- **Điểm e.** Pháp luật điều chỉnh hợp đồng và cơ chế giải quyết tranh chấp. {#khoan-1-diem-e}
+
+## Khoản 2. Quy định chi tiết {#khoan-2}
+
+Chính phủ quy định chi tiết Điều này.
+
+---
+
+**Ghi chú:**
+- Hợp đồng dự án đầu tư kinh doanh có 6 nội dung cơ bản (a-e)
+- Bao gồm thông tin bên ký kết, thông tin dự án, trách nhiệm bồi thường, nghĩa vụ nhà đầu tư, bảo đảm thực hiện, pháp luật điều chỉnh
+- Chính phủ quy định chi tiết
