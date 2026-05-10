@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Nhà thầu, nhà đầu tư phải thực hiện một trong các biện pháp sau đây để bảo
   đảm trách nhiệm dự thầu trong thời gian xác định theo yêu cầu của hồ sơ mời thầu:'
-related_articles: []
+related_articles: [4, 9, 16, 20, 21, 22, 24, 68, 75]
 clauses: 10
 tags:
 - bảo-đảm-dự-thầu

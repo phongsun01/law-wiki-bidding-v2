@@ -11,11 +11,7 @@ status: active
 summary: Chủ đầu tư áp dụng một trong các hình thức lựa chọn nhà thầu quy định tại
   khoản 1 Điều 20 của Luật này trong các trường hợp và đáp ứng điều kiện quy định
   tại các điều 21, 22, 23, 24, 25, 26, 27, 28, 2
-related_articles:
-- 20
-- 21
-- 22
-- 23
+related_articles: [4, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 29]
 clauses: 3
 applies_to:
 - chủ-đầu-tư

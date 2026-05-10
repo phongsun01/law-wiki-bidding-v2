@@ -10,9 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: Cơ quan có thẩm quyền công bố dự án đầu tư kinh doanh trên Hệ thống mạng
   đấu thầu quốc gia làm cơ sở tổ chức lựa chọn nhà đầu tư.
-related_articles:
-- 46
-- 48
+related_articles: [4, 46, 48, 50]
 clauses: 2
 threshold_vnd: null
 method: null

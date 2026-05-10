@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: Hoạt động độc lập, khách quan khi tiến hành thẩm định.
-related_articles:
+related_articles: [4, 53, 54, 80, 82]
 - 80
 - 86
 clauses: 6

@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: Phê duyệt kế hoạch tổng thể lựa chọn nhà thầu quy định tại Điều 36 của Luật
   này.
-related_articles:
+related_articles: [4, 5, 6, 7, 17, 36, 40, 41, 78, 88]
 - 36
 - 17
 - 78

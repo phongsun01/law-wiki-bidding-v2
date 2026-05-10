@@ -10,9 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Cơ sở khám bệnh, chữa bệnh có thể lựa chọn nhà thầu cung cấp hóa chất, vật
   tư xét nghiệm, thiết bị y tế theo một trong các cách thức sau đây:'
-related_articles:
-- 53
-- 56
+related_articles: [4, 28, 53, 56]
 clauses: 4
 threshold_vnd: null
 method: null

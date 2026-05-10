@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: Ngôn ngữ sử dụng đối với đấu thầu trong nước là **tiếng Việt**.
-related_articles: []
+related_articles: [4, 11, 13, 44]
 clauses: 2
 tags:
 - ngôn-ngữ

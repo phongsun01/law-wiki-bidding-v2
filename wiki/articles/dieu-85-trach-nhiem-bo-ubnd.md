@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: Thực hiện quản lý nhà nước đối với hoạt động đấu thầu trong phạm vi quản
   lý.
-related_articles:
+related_articles: [4, 83, 84, 86]
 - 84
 - 86
 clauses: 5

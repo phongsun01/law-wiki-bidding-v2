@@ -10,11 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: a) Phương thức một giai đoạn một túi hồ sơ được áp dụng trong trường hợp
   đấu thầu rộng rãi, đấu thầu hạn chế lựa chọn nhà đầu tư;
-related_articles:
-- 34
-- 30
-- 31
-- 32
+related_articles: [4, 30, 31, 32, 34]
 clauses: 4
 threshold_vnd: null
 method: null

@@ -9,9 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Sửa đổi hợp đồng có thể thực hiện trong các trường hợp sau đây:'
-related_articles:
-- 67
-- 69
+related_articles: [4, 63, 69, 71]
 clauses: 6
 threshold_vnd: null
 method: null

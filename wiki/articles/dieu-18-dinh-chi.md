@@ -11,7 +11,7 @@ status: active
 summary: Khi có bằng chứng tổ chức, cá nhân tham gia hoạt động đấu thầu có hành vi
   quy định tại Điều 16 của Luật này hoặc hành vi vi phạm quy định của pháp luật có
   liên quan dẫn đến không bảo đảm cạnh tranh, c
-related_articles: []
+related_articles: [4, 16, 17, 40, 87]
 clauses: 1
 tags:
 - đình-chỉ

@@ -9,10 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Quy trình, thủ tục lựa chọn nhà thầu bao gồm một hoặc một số công việc sau:'
-related_articles:
-- 42
-- 44
-- 45
+related_articles: [4, 20, 38, 42, 44, 45, 46]
 clauses: 2
 threshold_vnd: null
 method: null

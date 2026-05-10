@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ khi đáp ứng đủ các điều
   kiện sau đây:'
-related_articles: []
+related_articles: [4, 6, 26, 87]
 clauses: 4
 tags:
 - tư-cách-hợp-lệ

@@ -11,11 +11,7 @@ status: amended
 summary: Đấu thầu trước là việc thực hiện trước một số thủ tục trước khi điều ước
   quốc tế, thỏa thuận vay nước ngoài được ký kết đối với dự án sử dụng vốn ODA, vốn
   vay ưu đãi nước ngoài hoặc trước khi dự án đư
-related_articles:
-- 38
-- 40
-- 43
-- 14
+related_articles: [4, 14, 17, 38, 40, 43]
 clauses: 7
 threshold_vnd: null
 method: đấu-thầu-trước

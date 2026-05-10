@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Nhà thầu nộp hồ sơ quan tâm, hồ sơ dự sơ tuyển phải độc lập về pháp lý và
   độc lập về tài chính với các bên sau đây:'
-related_articles: []
+related_articles: [4, 5, 7, 16]
 clauses: 6
 tags:
 - cạnh-tranh

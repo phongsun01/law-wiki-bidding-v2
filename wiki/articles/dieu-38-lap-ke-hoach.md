@@ -11,11 +11,7 @@ status: amended
 summary: 'a)<sup>84</sup>(#footnote-84) Quyết định phê duyệt dự án và tài liệu có
   liên quan, trừ trường hợp gói thầu cần thực hiện trước khi phê duyệt dự án; quyết
   định phê duyệt nhiệm vụ quy hoạch và tài liệu '
-related_articles:
-- 37
-- 39
-- 40
-- 42
+related_articles: [4, 36, 37, 39, 40, 42]
 clauses: 2
 threshold_vnd: null
 method: null

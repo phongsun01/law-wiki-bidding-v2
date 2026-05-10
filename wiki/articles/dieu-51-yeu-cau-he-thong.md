@@ -10,9 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: Công khai, không hạn chế truy cập, tiếp cận đối với thông tin được đăng tải
   công khai trên Hệ thống mạng đấu thầu quốc gia.
-related_articles:
-- 50
-- 52
+related_articles: [4, 50, 52]
 clauses: 6
 threshold_vnd: null
 method: null

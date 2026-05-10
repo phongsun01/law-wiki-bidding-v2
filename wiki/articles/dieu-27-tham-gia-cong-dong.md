@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: "Cộng đồng dân cư, tổ, nhóm thợ đủ năng lực tại địa phương nơi có gói thầu được giao thực hiện toàn bộ hoặc một phần gói thầu thuộc chương trình mục tiêu quốc gia, chương trình đầu tư công mà Nhà nước "
-related_articles: [20, 26]
+related_articles: [4, 20, 26]
 clauses: 1
 threshold_vnd: 5000000000
 method: tham-gia-cộng-đồng

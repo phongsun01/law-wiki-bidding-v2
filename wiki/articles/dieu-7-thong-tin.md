@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Thông tin về lựa chọn nhà thầu bao gồm:'
-related_articles: []
+related_articles: [8, 16, 47]
 clauses: 2
 tags:
 - thông-tin

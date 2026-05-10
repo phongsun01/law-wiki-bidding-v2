@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: ~~1~~<sup>138</sup>(#footnote-138). ~~Đối với lựa chọn nhà thầu:~~
-related_articles:
+related_articles: [4, 17, 20, 21, 78, 80]
 - 77
 - 78
 - 17

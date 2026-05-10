@@ -9,7 +9,7 @@ last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15, Luật 90/2025/QH15
 status: repealed
 summary: Điều này đã bị bãi bỏ theo Luật 90/2025/QH15
-related_articles: [89, 91]
+related_articles: [1, 4, 89, 91]
 ---
 
 # ~~Điều 90~~. ~~Điều kiện xem xét, giải quyết kiến nghị~~

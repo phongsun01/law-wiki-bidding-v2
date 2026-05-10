@@ -10,10 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Chào hàng cạnh tranh được áp dụng đối với gói thầu có giá gói thầu trong
   hạn mức theo quy định của Chính phủ thuộc một trong các trường hợp sau đây:'
-related_articles:
-- 20
-- 21
-- 30
+related_articles: [4, 20, 21, 22]
 clauses: 2
 threshold_vnd: null
 method: chào-hàng-cạnh-tranh

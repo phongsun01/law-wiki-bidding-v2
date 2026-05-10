@@ -10,10 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Nhà thầu phải thực hiện một trong các biện pháp sau đây để bảo đảm trách
   nhiệm thực hiện hợp đồng:'
-related_articles:
-- 14
-- 66
-- 67
+related_articles: [4, 14, 63, 67, 69]
 clauses: 6
 threshold_vnd: null
 method: null

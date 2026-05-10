@@ -10,9 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh trong nước phải
   thực hiện trên Hệ thống mạng đấu thầu quốc gia theo lộ trình sau đây:'
-related_articles:
-- 51
-- 52
+related_articles: [4, 21, 22, 24, 51, 52]
 clauses: 5
 threshold_vnd: null
 method: đấu-thầu-qua-mạng

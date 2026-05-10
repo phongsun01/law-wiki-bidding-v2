@@ -9,17 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Các hình thức lựa chọn nhà thầu bao gồm:'
-related_articles:
-- 21
-- 22
-- 23
-- 24
-- 25
-- 26
-- 27
-- 28
-- 29
-- 29
+related_articles: [4, 21, 22, 23, 24, 25, 26, 27, 28, 29, 29]
 clauses: 2
 applies_to:
 - gói-thầu

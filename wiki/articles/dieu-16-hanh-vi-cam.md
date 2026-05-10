@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: "Lợi dụng chức vụ, quyền hạn để gây ảnh hưởng, can thiệp trái pháp luật vào hoạt động đấu thầu dưới mọi hình thức."
-related_articles: []
+related_articles: [4, 5, 6, 10, 14, 17, 18, 42, 44, 56, 87]
 clauses: 9
 tags: ['hành-vi-cấm', 'vi-phạm', 'thông-thầu', 'gian-lận']
 ---

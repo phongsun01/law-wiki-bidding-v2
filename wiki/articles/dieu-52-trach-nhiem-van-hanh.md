@@ -10,9 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: Bảo đảm an toàn thông tin, an ninh mạng, bảo mật cơ sở dữ liệu của Hệ thống
   mạng đấu thầu quốc gia.
-related_articles:
-- 50
-- 51
+related_articles: [4, 50, 51]
 clauses: 8
 threshold_vnd: null
 method: null

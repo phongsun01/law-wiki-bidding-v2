@@ -9,10 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Thời gian tổ chức lựa chọn nhà thầu được quy định như sau:'
-related_articles:
-- 43
-- 44
-- 49
+related_articles: [4, 43, 44, 49]
 clauses: 3
 threshold_vnd: null
 method: null

@@ -11,7 +11,7 @@ status: amended
 summary: 'a) **Chủ đầu tư** có trách nhiệm đăng tải thông tin quy định tại các điểm
   a, g, h, i và k khoản 1 [[dieu-7-thong-tin]] của Luật này (thông tin về dự án, kế
   hoạch, kết quả lựa chọn, hợp đồng, xử lý vi '
-related_articles: []
+related_articles: [4, 7]
 clauses: 4
 tags:
 - đăng-tải-thông-tin

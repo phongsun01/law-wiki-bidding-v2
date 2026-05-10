@@ -13,9 +13,7 @@ status: amended
 summary: a) Phương pháp giá thấp nhất được áp dụng đối với gói thầu mà các đề xuất
   về kỹ thuật, tài chính, thương mại được coi là cùng một mặt bằng khi đáp ứng các
   yêu cầu của hồ sơ mời thầu;
-related_articles:
-- 59
-- 61
+related_articles: [4, 30, 31, 59, 61]
 clauses: 4
 threshold_vnd: null
 method: null

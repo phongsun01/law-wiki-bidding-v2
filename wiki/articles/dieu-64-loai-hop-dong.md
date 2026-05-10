@@ -11,10 +11,7 @@ status: active
 summary: a) Hợp đồng trọn gói được áp dụng đối với gói thầu mà tại thời điểm lựa chọn
   nhà thầu, phạm vi công việc, yêu cầu kỹ thuật, thời gian thực hiện gói thầu được
   xác định rõ, ít có khả năng thay đổi về kh
-related_articles:
-- 65
-- 66
-- 67
+related_articles: [4, 39, 63, 65, 67, 69]
 clauses: 8
 threshold_vnd: null
 method: null

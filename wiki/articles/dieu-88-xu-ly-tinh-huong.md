@@ -11,7 +11,7 @@ status: active
 summary: Trường hợp phát sinh tình huống chưa được quy định cụ thể, rõ ràng trong
   kế hoạch lựa chọn nhà thầu; hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu,
   hồ sơ yêu cầu và các nội dung khác trong ho
-related_articles:
+related_articles: [4, 77, 86, 87, 89]
 - 6
 - 89
 clauses: 4

@@ -11,10 +11,7 @@ status: active
 summary: Kế hoạch lựa chọn nhà thầu được lập cho toàn bộ dự án, dự toán mua sắm. Đối
   với dự toán mua sắm, kế hoạch lựa chọn nhà thầu có thể được lập trên cơ sở dự toán
   mua sắm của năm ngân sách và dự kiến dự t
-related_articles:
-- 36
-- 38
-- 39
+related_articles: [4, 36, 38, 39]
 clauses: 5
 threshold_vnd: null
 method: null

@@ -9,10 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: Các bên ký kết hợp đồng có trách nhiệm thực hiện theo hợp đồng đã ký kết.
-related_articles:
-- 67
-- 68
-- 70
+related_articles: [4, 63, 68, 70, 71]
 clauses: 3
 threshold_vnd: null
 method: null

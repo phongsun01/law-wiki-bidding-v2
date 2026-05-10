@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: Đối với đấu thầu trong nước, nhà thầu, nhà đầu tư chỉ được chào thầu bằng
   **Đồng Việt Nam**.
-related_articles: []
+related_articles: [4, 11, 12, 44]
 clauses: 2
 tags:
 - đồng-tiền

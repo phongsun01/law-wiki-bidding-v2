@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: Ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về đấu thầu.
-related_articles:
+related_articles: [4, 84, 85, 86, 87]
 - 84
 - 85
 - 86

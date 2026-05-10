@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Hồ sơ đề xuất về tài chính của nhà thầu không vượt qua bước đánh giá về
   kỹ thuật được trả lại nguyên trạng cho nhà thầu theo thời hạn sau đây:'
-related_articles: []
+related_articles: [4, 14, 17, 30, 31, 32, 33, 68, 75]
 clauses: 6
 tags:
 - lưu-trữ-hồ-sơ

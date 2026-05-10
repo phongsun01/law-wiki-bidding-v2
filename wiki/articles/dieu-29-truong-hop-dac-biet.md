@@ -11,11 +11,7 @@ status: amended
 summary: Việc lựa chọn nhà thầu trong trường hợp đặc biệt được áp dụng đối với gói
   thầu thuộc dự án, dự toán mua sắm có một hoặc một số điều kiện đặc thù về quy trình,
   thủ tục, tiêu chí lựa chọn nhà thầu, điều
-related_articles:
-- 20
-- 23
-- 29
-- 29
+related_articles: [4, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
 clauses: 2
 method: trường-hợp-đặc-biệt
 applies_to:

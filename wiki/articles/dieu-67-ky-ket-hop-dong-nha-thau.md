@@ -9,10 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Việc ký kết hợp đồng giữa chủ đầu tư và nhà thầu được thực hiện như sau:'
-related_articles:
-- 64
-- 65
-- 66
+related_articles: [4, 63, 64, 66, 68, 69]
 clauses: 4
 threshold_vnd: null
 method: null

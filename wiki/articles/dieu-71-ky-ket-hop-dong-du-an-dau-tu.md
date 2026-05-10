@@ -10,10 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Việc ký kết hợp đồng dự án đầu tư kinh doanh phải đáp ứng đủ các điều kiện
   sau đây:'
-related_articles:
-- 69
-- 72
-- 73
+related_articles: [4, 64, 69, 70, 72]
 clauses: 4
 threshold_vnd: null
 method: null

@@ -11,9 +11,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Nhà đầu tư được xem xét, đề nghị trúng thầu khi đáp ứng đủ các điều kiện
   sau đây:'
-related_articles:
-- 62
-- 50
+related_articles: [51, 53, 62, 64, 65, 66, 67]
 clauses: 2
 threshold_vnd: null
 method: null

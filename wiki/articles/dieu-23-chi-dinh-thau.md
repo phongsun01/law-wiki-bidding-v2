@@ -10,10 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Chỉ định thầu được áp dụng để giao cho một nhà thầu thực hiện gói thầu thuộc
   dự án, dự toán mua sắm đáp ứng một trong các yêu cầu sau:'
-related_articles:
-- 20
-- 24
-- 29
+related_articles: [4, 20, 29, 29, 38]
 clauses: 2
 method: chỉ-định-thầu
 applies_to:

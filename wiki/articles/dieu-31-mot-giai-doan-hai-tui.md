@@ -10,11 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Phương thức một giai đoạn hai túi hồ sơ được áp dụng trong các trường hợp
   sau đây:'
-related_articles:
-- 30
-- 32
-- 11
-- 22
+related_articles: [4, 11, 21, 22, 30, 32, 33]
 clauses: 3
 applies_to:
 - gói-thầu

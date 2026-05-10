@@ -9,7 +9,7 @@ last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15, Luật 90/2025/QH15
 status: active
 summary: Quy định về quyền kiến nghị, điều kiện xem xét, quy trình giải quyết kiến nghị và vai trò của Hội đồng giải quyết kiến nghị trong hoạt động đấu thầu
-related_articles: [88, 94]
+related_articles: [1, 4, 86, 87, 88, 90]
 ---
 
 # Điều 89. Giải quyết kiến nghị trong hoạt động đấu thầu

@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: a) Thanh tra hoạt động đấu thầu được tiến hành đối với tổ chức, cá nhân liên
   quan đến hoạt động đấu thầu quy định tại Luật này;
-related_articles:
+related_articles: [3, 4, 83, 84, 85, 87]
 - 83
 - 84
 - 85

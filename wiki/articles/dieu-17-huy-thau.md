@@ -11,7 +11,7 @@ status: amended
 summary: a) Tất cả hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu, hồ sơ đề xuất
   không đáp ứng được các yêu cầu của hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ
   mời thầu, hồ sơ yêu cầu
-related_articles: []
+related_articles: [4, 9, 16, 18, 39, 42, 44, 87]
 clauses: 4
 tags:
 - hủy-thầu

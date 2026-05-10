@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Việc tổ chức đấu thầu quốc tế để lựa chọn nhà thầu được thực hiện khi đáp
   ứng một trong các điều kiện sau đây:'
-related_articles: []
+related_articles: [2, 10, 12, 13, 15, 21, 22]
 clauses: 4
 tags:
 - đấu-thầu-quốc-tế

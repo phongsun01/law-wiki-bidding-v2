@@ -10,9 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Chủ đầu tư trực tiếp quản lý, sử dụng gói thầu được tự thực hiện gói thầu
   thuộc dự án, dự toán mua sắm khi đáp ứng đủ các điều kiện sau đây:'
-related_articles:
-- 20
-- 27
+related_articles: [4, 5, 20, 27]
 clauses: 3
 method: tự-thực-hiện
 applies_to:

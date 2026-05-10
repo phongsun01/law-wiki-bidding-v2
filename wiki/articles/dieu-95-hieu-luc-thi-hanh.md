@@ -9,7 +9,7 @@ last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15, Luật 57/2024/QH15, Luật 90/2025/QH15
 status: active
 summary: Quy định về hiệu lực thi hành của Luật Đấu thầu 2023 và các luật sửa đổi, bổ sung
-related_articles: [96]
+related_articles: [1, 2, 3, 4, 5, 9, 55, 96, 97, 98]
 ---
 
 # Điều 95. Hiệu lực thi hành

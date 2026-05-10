@@ -9,10 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Hợp đồng dự án đầu tư kinh doanh bao gồm các nội dung cơ bản sau đây:'
-related_articles:
-- 71
-- 72
-- 74
+related_articles: [4, 66, 72, 74]
 clauses: 2
 threshold_vnd: null
 method: null

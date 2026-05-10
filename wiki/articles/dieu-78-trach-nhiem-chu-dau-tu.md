@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Phê duyệt các nội dung sau đây:'
-related_articles:
+related_articles: [4, 8, 9, 10, 17, 19, 77, 79]
 - 77
 - 19
 - 17

@@ -11,11 +11,7 @@ status: amended
 summary: Tên gói thầu thể hiện tính chất, nội dung và phạm vi công việc của gói thầu.
   Trường hợp gói thầu gồm nhiều phần riêng biệt, kế hoạch lựa chọn nhà thầu cần nêu
   tên thể hiện nội dung cơ bản của từng phầ
-related_articles:
-- 38
-- 40
-- 41
-- 64
+related_articles: [4, 20, 36, 37, 38, 40, 41, 64]
 clauses: 8
 threshold_vnd: null
 method: null

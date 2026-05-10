@@ -11,9 +11,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Nhà thầu tư vấn là tổ chức được xem xét, đề nghị trúng thầu khi đáp ứng
   đủ các điều kiện sau đây:'
-related_articles:
-- 59
-- 61
+related_articles: [4, 59, 61]
 clauses: 3
 threshold_vnd: null
 method: null

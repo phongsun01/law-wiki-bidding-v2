@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Luật này áp dụng đối với các cơ quan, tổ chức, cá nhân tham gia hoặc có
   liên quan đến hoạt động đấu thầu bao gồm:'
-related_articles: []
+related_articles: [1, 3, 4, 5]
 clauses: 4
 tags:
 - đối-tượng-áp-dụng

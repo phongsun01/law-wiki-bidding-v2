@@ -9,9 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Hợp đồng dự án đầu tư kinh doanh được sửa đổi trong các trường hợp sau đây:'
-related_articles:
-- 75
-- 71
+related_articles: [4, 69, 75]
 clauses: 2
 threshold_vnd: null
 method: null

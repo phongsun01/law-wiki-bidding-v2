@@ -11,10 +11,7 @@ status: active
 summary: Mua sắm trực tiếp được áp dụng đối với gói thầu mua sắm hàng hóa tương tự
   thuộc dự án, dự toán mua sắm của cùng một chủ đầu tư hoặc chủ đầu tư khác và đáp
   ứng quy định tại khoản 2 Điều này.
-related_articles:
-- 20
-- 21
-- 67
+related_articles: [4, 20, 21, 22, 67]
 clauses: 3
 method: mua-sắm-trực-tiếp
 applies_to:

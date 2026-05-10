@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: Chính phủ thống nhất quản lý nhà nước đối với hoạt động đấu thầu trên phạm
   vi cả nước.
-related_articles:
+related_articles: [4, 83, 85, 86, 87]
 - 83
 - 85
 clauses: 2

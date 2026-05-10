@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Tổ chuyên gia gồm các cá nhân có năng lực, kinh nghiệm, có trách nhiệm thực
   hiện một hoặc các công việc:'
-related_articles: []
+related_articles: [4, 5, 16, 44, 45, 46, 47, 80]
 clauses: 4
 tags:
 - tổ-chuyên-gia

@@ -11,8 +11,7 @@ status: amended
 summary: 'Ngoài các hình thức lựa chọn nhà thầu quy định tại Chương II của Luật này,
   việc lựa chọn nhà cung cấp sản phẩm, dịch vụ công và hàng hóa, dịch vụ khác được
   thực hiện theo hình thức giao nhiệm vụ theo '
-related_articles:
-- 20
+related_articles: [4, 20, 29]
 clauses: 1
 threshold_vnd: null
 method: giao-nhiệm-vụ

@@ -11,10 +11,7 @@ status: amended
 summary: Phương thức hai giai đoạn hai túi hồ sơ được áp dụng trong trường hợp đấu
   thầu rộng rãi, đấu thầu hạn chế đối với gói thầu mua sắm hàng hóa, xây lắp, hỗn
   hợp có kỹ thuật, công nghệ mới, phức tạp, có t
-related_articles:
-- 31
-- 32
-- 30
+related_articles: [4, 21, 22, 30, 31, 32]
 clauses: 3
 applies_to:
 - gói-thầu

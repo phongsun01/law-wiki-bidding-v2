@@ -11,10 +11,7 @@ status: active
 summary: Tại thời điểm ký kết, hồ sơ dự thầu, hồ sơ đề xuất của nhà thầu được lựa
   chọn còn hiệu lực. Đối với mua sắm tập trung áp dụng thỏa thuận khung, tại thời
   điểm ký kết, thỏa thuận khung còn hiệu lực.
-related_articles:
-- 65
-- 67
-- 14
+related_articles: [4, 63, 65, 67, 69]
 clauses: 3
 threshold_vnd: null
 method: null

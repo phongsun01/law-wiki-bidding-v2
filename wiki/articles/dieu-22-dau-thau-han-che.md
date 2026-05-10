@@ -11,10 +11,7 @@ status: amended
 summary: 'Đấu thầu hạn chế là hình thức lựa chọn nhà thầu trong đó chỉ có một số nhà
   thầu đáp ứng yêu cầu của gói thầu được mời tham dự thầu, áp dụng trong các trường
   hợp sau đây:'
-related_articles:
-- 20
-- 21
-- 11
+related_articles: [4, 11, 20, 21, 24]
 clauses: 2
 method: đấu-thầu-hạn-chế
 applies_to:

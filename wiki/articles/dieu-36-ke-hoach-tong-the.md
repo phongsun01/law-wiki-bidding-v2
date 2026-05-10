@@ -11,10 +11,7 @@ status: active
 summary: Căn cứ quy mô, tính chất công tác đấu thầu của dự án, chủ đầu tư hoặc cơ
   quan chuẩn bị dự án có thể trình người có thẩm quyền xem xét, quyết định việc tổ
   chức lập, phê duyệt kế hoạch tổng thể lựa chọn
-related_articles:
-- 37
-- 38
-- 39
+related_articles: [4, 37, 38, 39, 40]
 clauses: 4
 threshold_vnd: null
 method: null

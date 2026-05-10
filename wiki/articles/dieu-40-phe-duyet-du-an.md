@@ -10,11 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Hồ sơ trình duyệt kế hoạch lựa chọn nhà thầu bao gồm những nội dung sau
   đây:'
-related_articles:
-- 38
-- 39
-- 41
-- 42
+related_articles: [4, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 29, 38, 39, 41, 42]
 clauses: 2
 threshold_vnd: null
 method: null

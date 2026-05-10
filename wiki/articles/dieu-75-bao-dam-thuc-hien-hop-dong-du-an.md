@@ -11,9 +11,7 @@ status: active
 summary: 'Nhà đầu tư phải thực hiện một trong các biện pháp sau đây để bảo đảm trách
   nhiệm thực hiện hợp đồng dự án đầu tư kinh doanh trước hoặc cùng thời điểm hợp đồng
   có hiệu lực:'
-related_articles:
-- 71
-- 76
+related_articles: [4, 14, 68, 74, 76]
 clauses: 4
 threshold_vnd: null
 method: null

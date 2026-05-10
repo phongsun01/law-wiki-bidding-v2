@@ -11,9 +11,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: a) Phương pháp giá thấp nhất được áp dụng đối với các gói thầu tư vấn đơn
   giản, gói thầu tư vấn có quy trình thực hiện rõ ràng theo các tiêu chuẩn có sẵn;
-related_articles:
-- 58
-- 60
+related_articles: [4, 31, 58, 60]
 clauses: 4
 threshold_vnd: null
 method: null

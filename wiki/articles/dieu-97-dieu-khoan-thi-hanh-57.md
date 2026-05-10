@@ -9,7 +9,7 @@ last_amended: 2025-01-15
 amendment_history: Luật 57/2024/QH15
 status: active
 summary: Điều khoản thi hành bổ sung của Luật sửa đổi 57/2024, quy định về trách nhiệm thi hành
-related_articles: [95, 96]
+related_articles: [1, 2, 3, 4, 95, 96, 98]
 ---
 
 # Điều 97. Điều khoản thi hành bổ sung (Luật 57/2024)

@@ -10,10 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Đặt hàng là hình thức giao trực tiếp cho tổ chức, doanh nghiệp, cá nhân
   thực hiện cung cấp hàng hoá, dịch vụ thuộc các trường hợp sau đây:'
-related_articles:
-- 20
-- 23
-- 29
+related_articles: [4, 20, 23, 29]
 clauses: 2
 method: đặt-hàng
 applies_to:

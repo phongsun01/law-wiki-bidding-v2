@@ -12,9 +12,7 @@ status: active
 summary: Phương pháp đánh giá lợi ích xã hội, lợi ích nhà nước được áp dụng để đánh
   giá năng lực, kinh nghiệm của nhà đầu tư và hiệu quả phương án đầu tư kinh doanh
   do nhà đầu tư đề xuất, bao gồm hiệu quả sử d
-related_articles:
-- 63
-- 50
+related_articles: [4, 34, 35, 46, 50]
 clauses: 5
 threshold_vnd: null
 method: null

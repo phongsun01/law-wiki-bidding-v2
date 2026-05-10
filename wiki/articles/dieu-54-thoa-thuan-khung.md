@@ -11,8 +11,7 @@ status: active
 summary: 'Thỏa thuận khung trong mua sắm tập trung là thỏa thuận giữa đơn vị mua sắm
   tập trung với một hoặc nhiều nhà thầu được lựa chọn đối với gói thầu không chia
   phần hoặc đối với một phần của gói thầu chia '
-related_articles:
-- 53
+related_articles: [4, 53]
 clauses: 4
 threshold_vnd: null
 method: null

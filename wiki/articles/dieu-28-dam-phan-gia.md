@@ -9,8 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Đàm phán giá được áp dụng đối với các gói thầu sau đây:'
-related_articles:
-- 20
+related_articles: [4, 20]
 clauses: 2
 method: đàm-phán-giá
 applies_to:

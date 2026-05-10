@@ -11,10 +11,7 @@ status: active
 summary: Đối với đấu thầu trong nước, thời gian chuẩn bị hồ sơ dự thầu tối thiểu là
   45 ngày kể từ ngày đầu tiên phát hành hồ sơ mời thầu đến ngày có thời điểm đóng
   thầu.
-related_articles:
-- 45
-- 46
-- 48
+related_articles: [4, 11, 45, 46, 48]
 clauses: 3
 threshold_vnd: null
 method: null

@@ -9,11 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Quy trình lựa chọn nhà đầu tư bao gồm các bước sau đây:'
-related_articles:
-- 43
-- 47
-- 48
-- 49
+related_articles: [4, 34, 43, 47, 48, 49]
 clauses: 3
 threshold_vnd: null
 method: null

@@ -10,9 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: Thời hạn hợp đồng dự án đầu tư kinh doanh là khoảng thời gian thực hiện hợp
   đồng được xác định trong hợp đồng ký kết giữa các bên.
-related_articles:
-- 73
-- 75
+related_articles: [4, 67, 73, 75]
 clauses: 3
 threshold_vnd: null
 method: null

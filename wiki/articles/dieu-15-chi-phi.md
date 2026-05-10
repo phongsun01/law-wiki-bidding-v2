@@ -11,7 +11,7 @@ status: amended
 summary: Hồ sơ yêu cầu, hồ sơ mời thầu đối với đấu thầu trong nước, hồ sơ mời quan
   tâm, hồ sơ mời sơ tuyển được phát hành **miễn phí** trên Hệ thống mạng đấu thầu
   quốc gia.
-related_articles: []
+related_articles: [4, 11, 44, 77]
 clauses: 3
 tags:
 - chi-phí

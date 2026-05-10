@@ -9,7 +9,7 @@ last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: Quy định về quyền khởi kiện ra Tòa án và yêu cầu áp dụng các biện pháp khẩn cấp tạm thời trong quá trình giải quyết tranh chấp đấu thầu
-related_articles: [89]
+related_articles: [4, 89, 90, 91, 92, 93]
 ---
 
 # Điều 94. Quyền khởi kiện và yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời

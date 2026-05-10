@@ -10,7 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 1a<sup>141</sup>(#footnote-141). Trung thực, khách quan trong triển khai
   thực hiện nhiệm vụ.
-related_articles:
+related_articles: [4, 51, 52, 79, 81]
 - 19
 - 78
 - 79

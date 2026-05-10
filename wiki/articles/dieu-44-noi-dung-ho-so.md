@@ -10,10 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: Hồ sơ mời thầu bao gồm các yêu cầu cho gói thầu về chỉ dẫn nhà thầu, tiêu
   chuẩn đánh giá, dự thảo hợp đồng và các nội dung khác.
-related_articles:
-- 43
-- 45
-- 48
+related_articles: [4, 6, 10, 16, 21, 22, 43, 45, 48]
 clauses: 4
 threshold_vnd: null
 method: null

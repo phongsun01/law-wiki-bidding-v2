@@ -11,7 +11,7 @@ status: active
 summary: Tổ chức, cá nhân có hành vi vi phạm quy định của pháp luật về đấu thầu thì
   tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính
   hoặc bị truy cứu trách nhiệm hình sự; trườ
-related_articles:
+related_articles: [4, 5, 16, 17, 18, 77, 78, 79, 80, 81, 82, 86, 88]
 - 7
 - 16
 - 86

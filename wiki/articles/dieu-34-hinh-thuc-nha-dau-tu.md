@@ -10,11 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: Đấu thầu rộng rãi được áp dụng đối với dự án đầu tư kinh doanh mà không hạn
   chế số lượng nhà đầu tư tham dự.
-related_articles:
-- 35
-- 34
-- 21
-- 22
+related_articles: [4, 20, 21, 22, 35]
 clauses: 4
 applies_to:
 - dự-án-đầu-tư

@@ -11,7 +11,7 @@ status: amended
 summary: 'Hoạt động đấu thầu thuộc phạm vi điều chỉnh của Luật này phải tuân thủ quy
   định của Luật này và quy định khác của pháp luật có liên quan. Trường hợp có quy
   định khác nhau về đấu thầu giữa Luật này và '
-related_articles: []
+related_articles: [1, 2, 4, 5]
 clauses: 9
 tags:
 - áp-dụng-luật

@@ -12,9 +12,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Nhà thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp
   được xem xét, đề nghị trúng thầu khi đáp ứng đủ các điều kiện sau đây:'
-related_articles:
-- 58
-- 60
+related_articles: [4, 58, 60]
 clauses: 2
 threshold_vnd: null
 method: null

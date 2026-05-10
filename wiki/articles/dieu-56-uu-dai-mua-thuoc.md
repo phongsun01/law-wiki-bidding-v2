@@ -10,9 +10,7 @@ amendment_history: Luật 22/2023/QH15
 status: active
 summary: 'Việc ưu đãi trong mua thuốc thực hiện theo quy định tại Điều 10 của Luật
   này và quy định sau đây:'
-related_articles:
-- 10
-- 55
+related_articles: [4, 10, 55]
 clauses: 2
 threshold_vnd: null
 method: null

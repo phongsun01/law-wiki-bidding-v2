@@ -9,7 +9,7 @@ last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15, Luật 57/2024/QH15, Luật 90/2025/QH15
 status: active
 summary: Quy định về việc áp dụng chuyển tiếp đối với các gói thầu và dự án đầu tư đã phê duyệt trước khi Luật có hiệu lực
-related_articles: [95]
+related_articles: [1, 2, 3, 4, 6, 10, 95, 97, 98]
 ---
 
 # Điều 96. Quy định chuyển tiếp

@@ -9,7 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
 summary: a) Hàng hóa có **xuất xứ Việt Nam**
-related_articles: []
+related_articles: [4, 11, 21, 22, 23, 24, 44, 56]
 clauses: 6
 tags:
 - ưu-đãi

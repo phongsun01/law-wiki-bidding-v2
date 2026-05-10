@@ -9,7 +9,7 @@ last_amended: 2025-07-01
 amendment_history: Luật 90/2025/QH15
 status: active
 summary: Điều khoản thi hành bổ sung của Luật sửa đổi 90/2025, quy định về trách nhiệm thi hành
-related_articles: [95, 96, 97]
+related_articles: [1, 2, 3, 4, 95, 96, 97]
 ---
 
 # Điều 98. Điều khoản thi hành bổ sung (Luật 90/2025)

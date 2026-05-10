@@ -9,10 +9,7 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Mua sắm tập trung được áp dụng khi đáp ứng đủ các điều kiện sau đây:'
-related_articles:
-- 54
-- 55
-- 10
+related_articles: [4, 10, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 29, 54]
 clauses: 7
 threshold_vnd: null
 method: mua-sắm-tập-trung
