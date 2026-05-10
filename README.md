@@ -7,6 +7,8 @@ Knowledge base về Luật Đấu thầu Việt Nam, xây dựng theo pattern LL
 Wiki này bao gồm:
 - **Luật Đấu thầu 2023** (hợp nhất Luật 22/2023, 57/2024, 90/2025)
 - 10 chương, 98 điều
+- 31 concepts (khái niệm pháp lý)
+- Concept-based relationship graph (related_articles)
 - Phân tích chi tiết các khái niệm, thủ tục, quy trình
 
 ## Cấu trúc
@@ -42,10 +44,16 @@ Mở folder này làm vault → Graph View để xem mối quan hệ giữa các
 
 ## Phiên bản
 
+- **v1.1.0** (2026-05-10): Concept-based relationship graph
+  - 98 articles với `related_articles` field
+  - 31 concepts (khái niệm pháp lý)
+  - Cross-chapter process flow links
+  - Điều 4 as central hub (93 connections)
+
 - **v1.0.0** (2026-05-04): Phiên bản đầu tiên
-  - 100+ articles
+  - 98 articles
   - 10 chapters
-  - 17 concepts
+  - 31 concepts
   - Cross-references đầy đủ
 
 ## License
