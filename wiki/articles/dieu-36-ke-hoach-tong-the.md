@@ -60,6 +60,11 @@ Kế hoạch tổng thể lựa chọn nhà thầu gồm những nội dung ch�
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-02]] - Quy trình lựa chọn nhà thầu và đánh giá hồ sơ trong đấu thầu rộng rãi, hạn chế
+
 ---
 
 **Ghi chú:**

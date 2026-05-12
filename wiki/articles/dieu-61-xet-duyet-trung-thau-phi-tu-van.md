@@ -55,6 +55,11 @@ e)<sup>115</sup>(#footnote-115) Có giá đề nghị trúng thầu không vư�
 
 Đối với nhà thầu không được lựa chọn, thông báo kết quả lựa chọn nhà thầu phải nêu lý do nhà thầu không trúng thầu.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-09]] - Quy định hợp đồng, quản lý thực hiện và điều chỉnh trong quá trình thực hiện
+
 ---
 
 **Ghi chú:**

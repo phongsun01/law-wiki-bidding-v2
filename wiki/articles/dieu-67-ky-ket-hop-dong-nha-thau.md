@@ -50,6 +50,11 @@ Hợp đồng được ký kết giữa các bên phải phù hợp với nội 
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-09]] - Quy định hợp đồng, quản lý thực hiện và điều chỉnh trong quá trình thực hiện
+
 ---
 
 **Ghi chú:**

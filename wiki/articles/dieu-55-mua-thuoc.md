@@ -65,6 +65,11 @@ Nhà thầu chỉ chuyển giao quyền sử dụng, không chuyển giao quyề
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-06]] - Mua sắm tập trung, mua sắm thuộc dự toán và mua thuốc, vật tư, thiết bị y tế
+
 ---
 
 **Ghi chú:**

@@ -49,6 +49,11 @@ Thời gian tổ chức lựa chọn nhà thầu được quy định như sau:
 
 Chính phủ quy định chi tiết khoản 1 Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-04]] - Quy trình đấu thầu đối với gói thầu dịch vụ tư vấn
+
 ---
 
 **Ghi chú:**

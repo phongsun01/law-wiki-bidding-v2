@@ -80,6 +80,11 @@ Mua sắm tập trung được thực hiện ở cấp quốc gia, cấp Bộ, c
 
 7<sup>106</sup>(#footnote-106). Chính phủ quy định chi tiết Điều này và quy định việc tổng hợp nhu cầu mua sắm tập trung của cơ sở khám bệnh, chữa bệnh tư nhân và cơ sở y tế là đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên và chi đầu tư, đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-06]] - Mua sắm tập trung, mua sắm thuộc dự toán và mua thuốc, vật tư, thiết bị y tế
+
 ---
 
 **Ghi chú:**

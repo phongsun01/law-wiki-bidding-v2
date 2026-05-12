@@ -54,6 +54,11 @@ Chính phủ thống nhất quản lý nhà nước đối với hoạt động 
 
 - **Điểm e.** Thực hiện quyền hạn, trách nhiệm khác về quản lý nhà nước đối với hoạt động đấu thầu được Chính phủ, Thủ tướng Chính phủ giao theo quy định của Luật này và quy định khác của pháp luật có liên quan. {#khoan-2-diem-e}
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-09]] - Quy định hợp đồng, quản lý thực hiện và điều chỉnh trong quá trình thực hiện
+
 ---
 
 **Ghi chú:**

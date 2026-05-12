@@ -106,3 +106,9 @@ Chính phủ quy định chi tiết Điều này.
 
 - [[dieu-5-tu-cach-hop-le]] - Tư cách hợp lệ (điểm đ khoản 1 tham chiếu Điều 6)
 - [[dieu-4-giai-thich-tu-ngu]] - Giải thích từ ngữ (chủ đầu tư, nhà thầu)
+
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-01]] - Bảo đảm cạnh tranh và độc lập giữa các bên
+

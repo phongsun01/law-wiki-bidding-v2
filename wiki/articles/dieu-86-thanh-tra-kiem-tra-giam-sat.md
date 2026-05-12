@@ -73,6 +73,11 @@ c)<sup>150</sup>(#footnote-150) Cơ quan quản lý nhà nước về đấu th�
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-10]] - Kiểm tra, giám sát hoạt động đấu thầu và xử lý vi phạm
+
 ---
 
 **Ghi chú:**

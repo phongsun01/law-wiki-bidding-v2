@@ -53,6 +53,11 @@ Quy trình, thủ tục lựa chọn nhà thầu bao gồm một hoặc một s�
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-04]] - Quy trình đấu thầu đối với gói thầu dịch vụ tư vấn
+
 ---
 
 **Ghi chú:**

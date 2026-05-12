@@ -89,3 +89,9 @@ Chính phủ quy định chi tiết Điều này.
 
 - [[dieu-11-dau-thau-quoc-te]] - Đấu thầu quốc tế
 - [[dieu-77-trach-nhiem-nguoi-co-tham-quyen]] - Hệ thống mạng đấu thầu quốc gia
+
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-01]] - Nội dung liên quan lập kế hoạch và tổ chức lựa chọn nhà thầu
+

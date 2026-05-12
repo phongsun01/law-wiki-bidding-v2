@@ -137,3 +137,9 @@ Chính phủ quy định chi tiết Điều này.
 - [[dieu-11-dau-thau-quoc-te]] - Đấu thầu quốc tế
 - [[dieu-44-noi-dung-ho-so]] - Hồ sơ mời thầu
 - [[dieu-56-uu-dai-mua-thuoc]] - Chỉ định thầu
+
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-07]] - Lựa chọn nhà thầu qua mạng, dữ liệu và quy trình trên Hệ thống
+

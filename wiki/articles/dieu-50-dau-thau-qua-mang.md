@@ -79,6 +79,11 @@ Các chi phí trong đấu thầu qua mạng bao gồm: chi phí tham gia Hệ t
 
 Chính phủ quy định việc kết nối, chia sẻ thông tin theo quy định tại khoản 6 Điều 51 của Luật này; kỹ thuật đấu thầu qua mạng phù hợp với tính năng và sự phát triển của Hệ thống mạng đấu thầu quốc gia; quy trình, thủ tục, chi phí đấu thầu qua mạng; lộ trình lựa chọn nhà đầu tư qua mạng; những trường hợp không đấu thầu trên Hệ thống mạng đấu thầu quốc gia.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-05]] - Quy trình chỉ định thầu, chào hàng cạnh tranh và trường hợp đặc biệt
+
 ---
 
 **Ghi chú:**

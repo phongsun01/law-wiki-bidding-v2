@@ -7,8 +7,10 @@ Knowledge base về Luật Đấu thầu Việt Nam, xây dựng theo pattern LL
 Wiki này bao gồm:
 - **Luật Đấu thầu 2023** (hợp nhất Luật 22/2023, 57/2024, 90/2025)
 - 10 chương, 98 điều
-- 31 concepts (khái niệm pháp lý)
+- **Nghị định 214/2025/NĐ-CP** (1 index + 14 chương)
+- 35 concepts (khái niệm pháp lý, gồm 4 concept từ NĐ 214)
 - Concept-based relationship graph (related_articles)
+- Liên kết Luật ↔ Nghị định qua section `Văn bản hướng dẫn` ở article liên quan
 - Phân tích chi tiết các khái niệm, thủ tục, quy trình
 
 ## Cấu trúc
@@ -21,6 +23,7 @@ wiki/
 ├── chapters/             # 10 chương luật
 ├── concepts/             # Khái niệm pháp lý
 ├── laws/                 # Văn bản luật gốc
+├── documents/            # Văn bản hướng dẫn (NĐ, TT)
 ├── procedures/           # Quy trình thủ tục
 └── syntheses/            # Tổng hợp so sánh
 ```
@@ -43,6 +46,16 @@ Mở folder này làm vault → Graph View để xem mối quan hệ giữa các
 Đọc `wiki/INDEX.md` để tìm trang liên quan, sau đó đọc các file markdown trong `wiki/`.
 
 ## Phiên bản
+
+- **v1.2.0** (2026-05-12): Ingest Nghị định 214/2025 + Luật↔NĐ linking
+  - Added `wiki/documents/nd-214-2025.md` (document index)
+  - Added 14 chapter files in `wiki/documents/nd-214-2025/`
+  - Added 4 concepts from Điều 2 NĐ 214:
+    - `chao-gia-truc-tuyen`
+    - `dau-thau-ben-vung`
+    - `gia-trung-thau`
+    - `mua-sam-truc-tuyen`
+  - Patched 27 law articles with `## Văn bản hướng dẫn` links to NĐ 214
 
 - **v1.1.0** (2026-05-10): Concept-based relationship graph
   - 98 articles với `related_articles` field

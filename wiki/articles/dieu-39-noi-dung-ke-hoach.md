@@ -87,6 +87,11 @@ Thời gian thực hiện gói thầu được tính từ ngày hợp đồng c�
 
 ~~9~~<sup>86</sup>(#footnote-86). ~~Giám sát hoạt động đấu thầu (nếu có).~~
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-02]] - Quy trình lựa chọn nhà thầu và đánh giá hồ sơ trong đấu thầu rộng rãi, hạn chế
+
 ---
 
 **Ghi chú:**

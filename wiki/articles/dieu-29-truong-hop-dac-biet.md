@@ -39,6 +39,11 @@ Việc lựa chọn nhà thầu trong trường hợp đặc biệt được áp
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-02]] - Chào hàng cạnh tranh và nội dung tổ chức thực hiện
+
 ---
 
 **Ghi chú:**

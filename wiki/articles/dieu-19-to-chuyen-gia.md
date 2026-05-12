@@ -82,3 +82,9 @@ Chính phủ quy định chi tiết về năng lực, kinh nghiệm của thành
 
 - [[dieu-4-giai-thich-tu-ngu]] - Giải thích từ ngữ
 - [[dieu-5-tu-cach-hop-le]] - Tư cách hợp lệ
+
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-02]] - Đấu thầu trước, điều kiện và quy trình liên quan
+

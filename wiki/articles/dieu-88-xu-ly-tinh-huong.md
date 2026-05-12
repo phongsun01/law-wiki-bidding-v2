@@ -56,6 +56,11 @@ Thẩm quyền xử lý tình huống trong đấu thầu được quy định n
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-12]] - Trình tự, thủ tục giải quyết kiến nghị trong đấu thầu
+
 ---
 
 **Ghi chú:**

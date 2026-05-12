@@ -98,3 +98,9 @@ d1) Lựa chọn nhà thầu để thực hiện các gói thầu thuộc dự �
 ## Điều liên quan
 
 - [[dieu-2-doi-tuong]] - Đối tượng áp dụng (khoản 7 tham chiếu)
+
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-01]] - Áp dụng Luật Đấu thầu trong trường hợp điều ước quốc tế, thỏa thuận vay
+

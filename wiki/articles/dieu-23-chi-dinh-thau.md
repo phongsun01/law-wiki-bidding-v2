@@ -57,6 +57,11 @@ Chỉ định thầu được áp dụng để giao cho một nhà thầu thực
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-02]] - Lựa chọn nhà thầu cung cấp dịch vụ phi tư vấn, hàng hóa, xây lắp, hỗn hợp
+
 ---
 
 **Ghi chú:**

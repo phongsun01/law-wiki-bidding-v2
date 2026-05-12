@@ -80,6 +80,11 @@ Các bên không phải ký kết văn bản sửa đổi hợp đồng đối v
 
 Chính phủ quy định chi tiết Điều này.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-09]] - Quy định hợp đồng, quản lý thực hiện và điều chỉnh trong quá trình thực hiện
+
 ---
 
 **Ghi chú:**

@@ -36,6 +36,11 @@ anchors:
 
 Ngoài các hình thức lựa chọn nhà thầu quy định tại Chương II của Luật này, việc lựa chọn nhà cung cấp sản phẩm, dịch vụ công và hàng hóa, dịch vụ khác được thực hiện theo hình thức giao nhiệm vụ theo quy định của Chính phủ.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-06]] - Mua sắm tập trung, mua sắm thuộc dự toán và mua thuốc, vật tư, thiết bị y tế
+
 ---
 
 **Ghi chú:**

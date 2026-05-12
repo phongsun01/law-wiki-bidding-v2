@@ -42,6 +42,11 @@ Chính phủ quy định chi tiết về điều kiện xem xét giải quyết 
 
 > **Bổ sung:** Khoản này được bổ sung theo quy định tại điểm b khoản 45 Điều 1 Luật số 90/2025/QH15.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-12]] - Trình tự, thủ tục giải quyết kiến nghị trong đấu thầu
+
 ---
 
 ## Liên quan

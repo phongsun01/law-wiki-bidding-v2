@@ -42,6 +42,11 @@ Các hình thức lựa chọn nhà thầu bao gồm:
 
 Trường hợp phát sinh hình thức lựa chọn nhà thầu khác quy định tại khoản 1 Điều này, có tính ưu việt, sử dụng phương tiện điện tử tiến bộ, hiện đại, chính phủ quy định về hình thức, quy trình, đối tượng phù hợp với tính năng mới của Hệ thống mạng đấu thầu quốc gia, bảo đảm mục tiêu cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế trong đấu thầu.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-05]] - Chỉ định thầu và quy trình thực hiện
+
 ---
 
 **Ghi chú:**

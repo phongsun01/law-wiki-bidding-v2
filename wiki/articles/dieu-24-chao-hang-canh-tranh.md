@@ -47,6 +47,11 @@ Chào hàng cạnh tranh được áp dụng đối với gói thầu có giá g
 
 Đối với gói thầu áp dụng chào hàng cạnh tranh, hồ sơ mời thầu không bắt buộc quy định tiêu chuẩn đánh giá về năng lực, kinh nghiệm của nhà thầu.
 
+## Văn bản hướng dẫn
+
+- [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[chuong-02]] - Quy trình chi tiết một giai đoạn, một túi hồ sơ
+
 ---
 
 **Ghi chú:**
