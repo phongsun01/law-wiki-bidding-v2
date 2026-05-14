@@ -9,6 +9,7 @@ Wiki này bao gồm:
 - 10 chương, 98 điều
 - **Nghị định 214/2025/NĐ-CP** (1 index + 14 chương)
 - **Thông tư 79/2025/TT-BTC** (1 index + 4 chương, 35 điều)
+- **Thông tư 80/2025/TT-BTC** (1 document, 6 điều)
 - 35 concepts (khái niệm pháp lý, gồm 4 concept từ NĐ 214)
 - Concept-based relationship graph (related_articles)
 - Liên kết 3 tầng: Luật ↔ Nghị định ↔ Thông tư qua section `Văn bản hướng dẫn`
@@ -47,6 +48,11 @@ Mở folder này làm vault → Graph View để xem mối quan hệ giữa các
 Đọc `wiki/INDEX.md` để tìm trang liên quan, sau đó đọc các file markdown trong `wiki/`.
 
 ## Phiên bản
+
+- **v1.4.0** (2026-05-14): Ingest Thông tư 80/2025/TT-BTC
+  - Added `wiki/documents/tt-80-2025.md` (single document, 6 articles)
+  - Covers: mẫu hồ sơ yêu cầu, báo cáo đánh giá, thẩm định, kiểm tra
+  - Complete legal document set: Law + ND214 + TT-79 + TT-80
 
 - **v1.3.0** (2026-05-14): Ingest Thông tư 79/2025/TT-BTC
   - Added `wiki/documents/tt-79-2025.md` (document index)
