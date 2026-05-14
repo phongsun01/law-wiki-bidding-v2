@@ -37,6 +37,10 @@ Luật này quy định về quản lý nhà nước đối với hoạt động
 - [[nha-dau-tu]] - Nhà đầu tư (định nghĩa tại Điều 4)
 - [[goi-thau]] - Gói thầu (định nghĩa tại Điều 4)
 
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-01]]
 ## Điều liên quan
 
 - [[dieu-2-doi-tuong]] - Đối tượng áp dụng

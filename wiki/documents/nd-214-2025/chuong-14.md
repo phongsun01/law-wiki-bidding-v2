@@ -8,6 +8,9 @@ total_articles: 4
 tags: [nghị-định, nd-214-2025, chương-14]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 14. ĐIỀU KHOẢN THI HÀNH
 
 **Chương XIV**

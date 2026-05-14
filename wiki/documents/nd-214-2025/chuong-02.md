@@ -8,6 +8,9 @@ total_articles: 23
 tags: [nghị-định, nd-214-2025, chương-02]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 02. QUY TRÌNH ĐẤU THẦU RỘNG RÃI, HẠN CHẾ KHÔNG QUA MẠNG ĐỐI VỚI GÓI THẦU CUNG CẤP DỊCH VỤ PHI TƯ VẤN, MUA SẮM HÀNG HÓA, XÂY LẮP, HỖN HỢP THEO PHƯƠNG THỨC MỘT GIAI ĐOẠN
 
 **Chương II**

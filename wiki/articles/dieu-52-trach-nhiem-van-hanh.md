@@ -76,3 +76,7 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 - Phải ngăn chặn truy cập trái phép, thay thế hồ sơ
 - Không được sử dụng thông tin sai mục đích
 - Phải đảm bảo phần cứng đáp ứng yêu cầu vận hành
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-02]]

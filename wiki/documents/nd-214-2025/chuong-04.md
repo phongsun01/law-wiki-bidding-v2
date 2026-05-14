@@ -8,6 +8,9 @@ total_articles: 17
 tags: [nghị-định, nd-214-2025, chương-04]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 04. QUY TRÌNH ĐẤU THẦU RỘNG RÃI, HẠN CHẾ KHÔNG QUA MẠNG ĐỐI VỚI GÓI THẦU CUNG CẤP DỊCH VỤ TƯ VẤN
 
 **Chương IV**

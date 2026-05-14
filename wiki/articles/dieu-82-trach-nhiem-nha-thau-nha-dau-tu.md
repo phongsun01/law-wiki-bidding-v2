@@ -71,3 +71,8 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 - Khoản 4a được bổ sung theo Luật 90/2025/QH15 về quản lý nhà thầu phụ
 - Nhà thầu phải chịu trách nhiệm về thông tin đăng tải trên Hệ thống mạng đấu thầu quốc gia
 - Phải báo cáo chủ đầu tư khi điều chuyển khối lượng công việc của nhà thầu phụ
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-01]]
+- [[documents/tt-79-2025/chuong-03]]

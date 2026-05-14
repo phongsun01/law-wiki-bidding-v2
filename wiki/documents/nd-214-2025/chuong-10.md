@@ -8,6 +8,9 @@ total_articles: 12
 tags: [nghị-định, nd-214-2025, chương-10]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 10. KIỂM TRA, GIÁM SÁT HOẠT ĐỘNG ĐẤU THẦU VÀ XỬ LÝ VI PHẠM TRONG ĐẤU THẦU
 
 **Chương X**

@@ -8,6 +8,9 @@ total_articles: 8
 tags: [nghị-định, nd-214-2025, chương-06]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 06. MUA SẮM TẬP TRUNG, MUA SẮM THUỘC DỰ TOÁN MUA SẮM, MUA THUỐC, HÓA CHẤT, VẬT TƯ XÉT NGHIỆM, THIẾT BỊ Y TẾ
 
 **Chương VI**

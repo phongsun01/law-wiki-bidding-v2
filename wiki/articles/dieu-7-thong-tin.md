@@ -102,6 +102,10 @@ Thông tin về lựa chọn nhà đầu tư bao gồm:
 - Thông tin trong quá trình (danh sách ngắn, kết quả mở thầu)
 - Thông tin sau đấu thầu (kết quả, hợp đồng, xử lý vi phạm)
 
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-02]]
 ## Điều liên quan
 
 - [[dieu-8-dang-tai-thong-tin]] - Cung cấp và đăng tải thông tin về đấu thầu (trách nhiệm đăng tải)

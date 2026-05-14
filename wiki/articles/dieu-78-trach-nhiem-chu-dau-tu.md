@@ -144,3 +144,7 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 - Trách nhiệm tổ chức: thành lập tổ chuyên gia, xử lý tình huống, giải quyết kiến nghị
 - Trách nhiệm quản lý: ký kết/quản lý hợp đồng, bảo mật, lưu trữ, báo cáo
 - Khoản 1a, 1b, 13a được bổ sung theo Luật 57/2024
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-02]]

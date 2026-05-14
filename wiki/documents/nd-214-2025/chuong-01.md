@@ -8,6 +8,9 @@ total_articles: 23
 tags: [nghị-định, nd-214-2025, chương-01]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 01. NHỮNG QUY ĐỊNH CHUNG
 
 **Chương I**

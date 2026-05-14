@@ -71,6 +71,10 @@ Tổ chức, cá nhân có hoạt động đấu thầu không thuộc trường
 - Doanh nghiệp nhà nước không còn bắt buộc áp dụng Luật Đấu thầu
 - Doanh nghiệp nhà nước tự quyết định mua sắm (trừ vốn ngân sách)
 
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-01]]
 ## Điều liên quan
 
 - [[dieu-1-pham-vi]] - Phạm vi điều chỉnh

@@ -8,6 +8,9 @@ total_articles: 7
 tags: [nghị-định, nd-214-2025, chương-08]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 08. ĐẶT HÀNG, GIAO NHIỆM VỤ CUNG CẤP HÀNG HOÁ, DỊCH VỤ
 
 **Chương VIII**

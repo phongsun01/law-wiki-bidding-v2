@@ -190,6 +190,10 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 **Luật 90/2025/QH15:**
 - Bổ sung Khoản 2a: Định nghĩa "Cơ quan có thẩm quyền" để làm rõ thẩm quyền với dự án lớn (Quốc hội, Thủ tướng)
 
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-01]]
 ## Điều liên quan
 
 - [[dieu-5-tu-cach-hop-le]] - Tư cách hợp lệ của nhà thầu, nhà đầu tư

@@ -8,6 +8,9 @@ total_articles: 3
 tags: [nghị-định, nd-214-2025, chương-11]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 11. NỘI DUNG, TRÁCH NHIỆM THẨM ĐỊNH TRONG LỰA CHỌN NHÀ THẦU
 
 **Chương XI**

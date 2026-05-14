@@ -8,6 +8,9 @@ total_articles: 9
 tags: [nghị-định, nd-214-2025, chương-09]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 09. HỢP ĐỒNG
 
 **Chương IX**

@@ -70,6 +70,10 @@ Thông tin quy định tại các điểm a, d, g, h, i khoản 1 và các đi�
 - Khoản 1b: "Bên mời thầu" → "Chủ đầu tư"
 - Thống nhất vai trò chủ đầu tư trong tổ chức đấu thầu
 
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-02]]
 ## Điều liên quan
 
 - [[dieu-7-thong-tin]] - Thông tin về đấu thầu (danh mục thông tin)

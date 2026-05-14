@@ -8,6 +8,9 @@ total_articles: 3
 tags: [nghị-định, nd-214-2025, chương-12]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 12. GIẢI QUYẾT KIẾN NGHỊ TRONG ĐẤU THẦU
 
 **Chương XII**

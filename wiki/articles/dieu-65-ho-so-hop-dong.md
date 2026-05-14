@@ -60,3 +60,7 @@ Ngoài các tài liệu quy định tại khoản 1 Điều này, tùy theo quy 
 **Ghi chú:**
 - Hồ sơ hợp đồng gồm 3 tài liệu bắt buộc: văn bản hợp đồng, phụ lục, quyết định phê duyệt
 - Tài liệu bổ sung tùy theo quy mô, tính chất gói thầu
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-03]]

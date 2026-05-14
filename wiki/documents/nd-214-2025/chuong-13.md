@@ -8,6 +8,9 @@ total_articles: 3
 tags: [nghị-định, nd-214-2025, chương-13]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 13. CÁC VẤN ĐỀ KHÁC
 
 **Chương XIII**

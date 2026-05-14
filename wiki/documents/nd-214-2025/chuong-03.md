@@ -8,6 +8,9 @@ total_articles: 14
 tags: [nghị-định, nd-214-2025, chương-03]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 03. QUY TRÌNH ĐẤU THẦU RỘNG RÃI, HẠN CHẾ KHÔNG QUA MẠNG ĐỐI VỚI GÓI THẦU MUA SẮM HÀNG HÓA, XÂY LẮP, HỖN HỢP THEO PHƯƠNG THỨC HAI GIAI ĐOẠN
 
 **Chương III**

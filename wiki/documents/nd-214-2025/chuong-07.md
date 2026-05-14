@@ -8,6 +8,9 @@ total_articles: 9
 tags: [nghị-định, nd-214-2025, chương-07]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 07. LỰA CHỌN NHÀ THẦU QUA MẠNG
 
 **Chương VII**

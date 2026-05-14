@@ -82,3 +82,7 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 - Trách nhiệm chính: chuẩn bị/tổ chức lựa chọn, thành lập tổ chuyên gia, đánh giá hồ sơ, trình duyệt/phê duyệt, đàm phán/ký kết hợp đồng
 - Trách nhiệm quản lý: hủy thầu, bảo mật, lưu trữ, giải quyết kiến nghị, báo cáo
 - Điểm k1 được bổ sung theo Luật 57/2024
+
+## Văn bản hướng dẫn
+
+- [[documents/tt-79-2025/chuong-02]]

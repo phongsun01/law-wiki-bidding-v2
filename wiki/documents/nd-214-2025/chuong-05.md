@@ -8,6 +8,9 @@ total_articles: 11
 tags: [nghị-định, nd-214-2025, chương-05]
 ---
 
+
+**Thuộc:** [[documents/nd-214-2025]]
+
 # Chương 05. QUY TRÌNH CHỈ ĐỊNH THẦU, CHÀO HÀNG CẠNH TRANH, MUA SẮM TRỰC TIẾP, TỰ THỰC HIỆN, LỰA CHỌN NHÀ THẦU TRONG TRƯỜNG HỢP ĐẶC BIỆT VÀ LỰA CHỌN NHÀ THẦU THỰC HIỆN GÓI THẦU CÓ SỰ THAM GIA THỰC HIỆN CỦA CỘNG ĐỒNG
 
 **Chương V**
