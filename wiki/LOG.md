@@ -1,5 +1,60 @@
 # Law-Wiki Bidding v2 - Change Log
 
+## 2026-05-14 - Tier 5.1: Ingest Thông tư 79/2025 (COMPLETE)
+
+### TT-79/2025/TT-BTC Ingest
+
+**Date:** 2026-05-14  
+**Source:** `/Users/xitrum/Library/CloudStorage/Box-Box/Tai lieu - Phong/Van ban phap luat/TT-79-BTC.md`  
+**Strategy:** Hub + chapter structure (không tách điều riêng)
+
+**Output:**
+
+1. **Hub file created:**
+   - `documents/tt-79-2025.md`
+   - Frontmatter: type, category, doc_type, code, title, implements, related_documents
+   - Implements: Luật Đấu thầu 2023
+   - Related: ND 214/2025
+
+2. **Chapter files created (4):**
+   - `documents/tt-79-2025/chuong-01.md` - Quy định chung (Điều 1-10)
+   - `documents/tt-79-2025/chuong-02.md` - Cung cấp, đăng tải thông tin (Điều 11-25)
+   - `documents/tt-79-2025/chuong-03.md` - Nội dung mẫu hồ sơ đấu thầu (Điều 26-32)
+   - `documents/tt-79-2025/chuong-04.md` - Tổ chức thực hiện (Điều 33-35)
+
+3. **Tier 1 - Chapter mapping:**
+   - Ch I → Law [1,2,4,52,78,79,82] + ND214 [ch-01, ch-13]
+   - Ch II → Law [7,8,52,78,79] + ND214 [ch-01, ch-13]
+   - Ch III → Law [5,44,65,82] + ND214 [ch-02, ch-13]
+   - Ch IV → ND214 [ch-01, ch-13]
+
+4. **Tier 2 - Article patching (3 batches):**
+   - Batch A (Điều 1-30): 6 articles patched
+   - Batch B (Điều 31-60): 2 articles patched
+   - Batch C (Điều 61-98): 4 articles patched
+   - Total: 12 Law articles với TT-79 guidance links
+
+**Bidirectional links:**
+- Law articles → TT-79 chapters (via "Văn bản hướng dẫn" section)
+- TT-79 chapters → Law articles (via related_law_articles frontmatter)
+- TT-79 chapters → ND214 chapters (via related_decree_sections)
+
+**Legal hierarchy:**
+- Law (nền) → ND214 (chi tiết Luật) → TT-79 (chi tiết ND214)
+
+**Thống kê:**
+- TT-79 pages: 5 (1 hub + 4 chapters)
+- Total articles: 35 (across 4 chapters)
+- Law articles patched: 12
+- Cross-references: ~16 links (Law ↔ TT-79)
+
+**Time:** ~2 hours  
+**Token:** ~70,000 tokens
+
+**Next:** Ingest TT-80/2025 (if needed)
+
+---
+
 ## 2026-05-03 - Tier 3.1: Extract Concepts (COMPLETE)
 
 ### Concept Extraction from Điều 4
