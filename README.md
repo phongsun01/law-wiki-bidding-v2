@@ -8,9 +8,10 @@ Wiki này bao gồm:
 - **Luật Đấu thầu 2023** (hợp nhất Luật 22/2023, 57/2024, 90/2025)
 - 10 chương, 98 điều
 - **Nghị định 214/2025/NĐ-CP** (1 index + 14 chương)
+- **Thông tư 79/2025/TT-BTC** (1 index + 4 chương, 35 điều)
 - 35 concepts (khái niệm pháp lý, gồm 4 concept từ NĐ 214)
 - Concept-based relationship graph (related_articles)
-- Liên kết Luật ↔ Nghị định qua section `Văn bản hướng dẫn` ở article liên quan
+- Liên kết 3 tầng: Luật ↔ Nghị định ↔ Thông tư qua section `Văn bản hướng dẫn`
 - Phân tích chi tiết các khái niệm, thủ tục, quy trình
 
 ## Cấu trúc
@@ -46,6 +47,13 @@ Mở folder này làm vault → Graph View để xem mối quan hệ giữa các
 Đọc `wiki/INDEX.md` để tìm trang liên quan, sau đó đọc các file markdown trong `wiki/`.
 
 ## Phiên bản
+
+- **v0.3.0** (2026-05-14): Ingest Thông tư 79/2025/TT-BTC
+  - Added `wiki/documents/tt-79-2025.md` (document index)
+  - Added 4 chapter files in `wiki/documents/tt-79-2025/`
+  - Patched 12 law articles with TT-79 guidance links
+  - Bidirectional links: Law ↔ TT-79 ↔ ND214
+  - Legal hierarchy complete: Law (nền) → ND214 (chi tiết Luật) → TT-79 (chi tiết ND214)
 
 - **v1.2.0** (2026-05-12): Ingest Nghị định 214/2025 + Luật↔NĐ linking
   - Added `wiki/documents/nd-214-2025.md` (document index)
