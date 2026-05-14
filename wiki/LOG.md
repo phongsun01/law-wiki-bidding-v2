@@ -1,5 +1,45 @@
 # Law-Wiki Bidding v2 - Change Log
 
+## 2026-05-14 - Tier 5.2: Ingest Thông tư 80/2025 (COMPLETE)
+
+### TT-80/2025/TT-BTC Ingest
+
+**Date:** 2026-05-14  
+**Source:** `/Users/xitrum/Library/CloudStorage/Box-Box/Tai lieu - Phong/Van ban phap luat/TT-80-BTC.md`  
+**Strategy:** Single document file (no chapter structure)
+
+**Output:**
+
+1. **Single document file created:**
+   - `documents/tt-80-2025.md`
+   - Frontmatter: type, category, doc_type, code, title, implements, related_documents
+   - Implements: Luật Đấu thầu 2023
+   - Related: ND 214/2025, TT 79/2025
+
+2. **Content:**
+   - 6 articles (no chapter structure)
+   - Mẫu hồ sơ yêu cầu (chỉ định thầu, mua sắm trực tiếp)
+   - Mẫu báo cáo đánh giá (đấu thầu không qua mạng)
+   - Mẫu báo cáo thẩm định
+   - Mẫu kiểm tra hoạt động đấu thầu
+   - Báo cáo tình hình thực hiện
+
+**Structure difference:**
+- TT-79: hub + 4 chapter files (35 articles)
+- TT-80: single document file (6 articles)
+
+**Thống kê:**
+- TT-80 pages: 1 (single document)
+- Total articles: 6
+- Size: 175 lines
+
+**Time:** ~30 minutes  
+**Token:** ~15,000 tokens
+
+**Next:** Complete legal document set (Law + ND214 + TT-79 + TT-80)
+
+---
+
 ## 2026-05-14 - Tier 5.1: Ingest Thông tư 79/2025 (COMPLETE)
 
 ### TT-79/2025/TT-BTC Ingest
