@@ -48,7 +48,7 @@ Mở folder này làm vault → Graph View để xem mối quan hệ giữa các
 
 ## Phiên bản
 
-- **v0.3.0** (2026-05-14): Ingest Thông tư 79/2025/TT-BTC
+- **v1.3.0** (2026-05-14): Ingest Thông tư 79/2025/TT-BTC
   - Added `wiki/documents/tt-79-2025.md` (document index)
   - Added 4 chapter files in `wiki/documents/tt-79-2025/`
   - Patched 12 law articles with TT-79 guidance links
