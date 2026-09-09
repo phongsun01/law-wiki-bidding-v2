@@ -87,6 +87,14 @@ Mua sắm tập trung được thực hiện ở cấp quốc gia, cấp Bộ, c
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **3 tình huống thực tế** được giải đáp liên quan đến Điều 53.
+
+- [[có-cần-cung-cấp-quyết-định-phê-duyệt-dự-toán-cho-kho-bạc-fdcbc190458d77a8]] - Có cần cung cấp quyết định phê duyệt dự toán cho Kho bạc?
+- [[khi-nào-dự-án-được-gia-hạn-tiến-độ-quá-24-tháng-51a3ce7f8e80e5e4]] - Khi nào dự án được gia hạn tiến độ quá 24 tháng?
+- [[điều-kiện-thành-lập-tổ-chức-kinh-tế-để-thực-hiện-dự-án-ac1b9d05b18ddf93]] - Điều kiện thành lập tổ chức kinh tế để thực hiện dự án
+
 **Ghi chú:**
 - Mua sắm tập trung giúp tiết kiệm chi phí, tăng hiệu quả
 - Áp dụng cho hàng hóa số lượng lớn, chủng loại tương tự

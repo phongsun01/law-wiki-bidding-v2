@@ -28,3 +28,10 @@ related_articles: [1, 2, 3, 4, 95, 96, 97]
 - [[dieu-96-quy-dinh-chuyen-tiep]] - Quy định chuyển tiếp
 - [[dieu-97-dieu-khoan-thi-hanh-57]] - Điều khoản thi hành (Luật 57/2024)
 - [[chuong-10-dieu-khoan-thi-hanh]] - Chương X: Điều khoản thi hành
+
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **1 tình huống thực tế** được giải đáp liên quan đến Điều 98.
+
+- [[hướng-dẫn-xây-dựng-e-hsmt-gói-mua-sắm-vật-tư-y-tế-dbe606927b330ff7]] - Hướng dẫn xây dựng E-HSMT gói mua sắm vật tư y tế
+

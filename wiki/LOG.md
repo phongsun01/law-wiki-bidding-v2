@@ -1,3 +1,24 @@
+## 2026-09-09 - Tier 7: Xây dựng 15 trang Syntheses Tổng hợp thực tiễn (COMPLETE)
+
+**Output:** 15 chuyên đề tổng hợp chuyên sâu tại `wiki/syntheses/`
+**Đúc kết từ:** 1.570 tình huống giải đáp thực tế của Cổng TTĐT Chính phủ
+**Navigation:** Đã tạo `wiki/syntheses/INDEX.md` và cập nhật `wiki/INDEX.md`
+**Chi phí token:** 0 tokens
+
+---
+
+## 2026-09-09 - Tier 6: Ingest 1.570 Q&A Chính phủ (COMPLETE)
+
+**Source:** `raw/qa-chinhphu/` (1570 files)
+**Strategy:** Hybrid Technical Ingest (0 Token)
+**Output:**
+- Đã tạo 1570 trang `wiki/qa/` với liên kết hai chiều
+- Đã cập nhật mục 'Tình huống thực tiễn' vào 96 Điều luật
+- Đã tạo `wiki/INDEX-QA.md`
+- Chi phí token: 0 tokens
+
+---
+
 # Law-Wiki Bidding v2 - Change Log
 
 ## 2026-05-14 - Tier 5.2: Ingest Thông tư 80/2025 (COMPLETE)

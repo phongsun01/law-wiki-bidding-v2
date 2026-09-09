@@ -52,6 +52,22 @@ Việc mở thầu được tiến hành một lần đối với toàn bộ h�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **26 tình huống thực tế** được giải đáp liên quan đến Điều 30.
+
+- [[chỉ-tịch-thu-bảo-lãnh-của-phần-gói-thầu-không-thực-hiện-f86bc143350d57f7]] - Chỉ tịch thu bảo lãnh của phần gói thầu không thực hiện
+- [[chọn-nhà-đầu-tư-dự-án-bt-theo-quy-định-nào-751bbd1a1305b04a]] - Chọn nhà đầu tư dự án BT theo quy định nào?
+- [[chủ-đầu-tư-có-cần-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-27fec86bc33dbdc0]] - Chủ đầu tư có cần phê duyệt danh sách xếp hạng nhà thầu?
+- [[chủ-đầu-tư-có-phải-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-b0ca979de1f1782e]] - Chủ đầu tư có phải phê duyệt danh sách xếp hạng nhà thầu?
+- [[cách-tính-tiền-sử-dụng-đất-tái-định-cư-đối-với-thương-binh-1f76317fb1553064]] - Cách tính tiền sử dụng đất tái định cư đối với thương binh
+- [[có-bắt-buộc-tách-nhà-thầu-lập-nhiệm-vụ-và-thực-hiện-khảo-sát-xây-dựng-b530a7df91fda93a]] - Có bắt buộc tách nhà thầu lập nhiệm vụ và thực hiện khảo sát xây dựng?
+- [[có-được-bổ-sung-nhân-sự-trong-hồ-sơ-dự-thầu-cb8e25f6ec675b17]] - Có được bổ sung nhân sự trong hồ sơ dự thầu?
+- [[có-được-hiệu-chỉnh-giá-dự-thầu-f56979a737d10d7e]] - Có được hiệu chỉnh giá dự thầu?
+- [[có-được-thay-thế-nhân-sự-trong-hồ-sơ-dự-thầu-ff18f91f089d2e24]] - Có được thay thế nhân sự trong hồ sơ dự thầu?
+- [[giá-dự-thầu-không-thống-nhất-xử-lý-thế-nào-fb4f0285d6f5f28a]] - Giá dự thầu không thống nhất, xử lý thế nào?
+- *...và 16 tình huống khác trong [[INDEX-QA#dieu-30|Mục lục Q&A Điều 30]].*
+
 **Ghi chú:**
 - Điểm a khoản 1 được sửa đổi theo Luật 57/2024/QH15
 - Phương thức đơn giản nhất: 1 giai đoạn, 1 túi hồ sơ

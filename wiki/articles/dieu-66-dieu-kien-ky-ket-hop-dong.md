@@ -46,6 +46,18 @@ Chủ đầu tư phải bảo đảm các điều kiện về vốn tạm ứng,
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **7 tình huống thực tế** được giải đáp liên quan đến Điều 66.
+
+- [[bảo-đảm-dự-thầu-không-được-hoàn-trả-trong-trường-hợp-nào-c9321d7958fc5688]] - Bảo đảm dự thầu không được hoàn trả trong trường hợp nào?
+- [[có-được-ký-hợp-đồng-giao-việc-cho-công-ty-con-d3b94af41adbe26d]] - Có được ký hợp đồng giao việc cho công ty con?
+- [[có-được-làm-thay-phần-việc-của-nhà-thầu-khác-trong-liên-danh-b540283d29526328]] - Có được làm thay phần việc của nhà thầu khác trong liên danh?
+- [[gói-thầu-có-sự-tham-gia-của-cộng-đồng-chọn-nhà-thầu-thế-nào-95b98353dc46331b]] - Gói thầu có sự tham gia của cộng đồng, chọn nhà thầu thế nào?
+- [[nhà-thầu-chậm-cung-cấp-hàng-hóa-có-bị-coi-vi-phạm-hợp-đồng-ec942877c9cd4507]] - Nhà thầu chậm cung cấp hàng hóa có bị coi vi phạm hợp đồng?
+- [[nhà-thầu-thi-công-hủy-hợp-đồng-xử-lý-thế-nào-e72c20307881cd3b]] - Nhà thầu thi công hủy hợp đồng, xử lý thế nào?
+- [[quyết-toán-chuyển-nguồn-ngân-sách-2025-theo-luật-nào-dd46d83ad062c12f]] - Quyết toán, chuyển nguồn ngân sách 2025 theo luật nào?
+
 **Ghi chú:**
 - 3 điều kiện ký kết: hồ sơ dự thầu còn hiệu lực, nhà thầu đủ năng lực, chủ đầu tư đủ điều kiện
 - Chủ đầu tư phải đảm bảo vốn và mặt bằng trước khi ký

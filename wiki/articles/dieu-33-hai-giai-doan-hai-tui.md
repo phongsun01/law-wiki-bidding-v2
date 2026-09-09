@@ -52,6 +52,22 @@ Trong giai đoạn hai, quy trình lựa chọn nhà thầu được thực hi�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **29 tình huống thực tế** được giải đáp liên quan đến Điều 33.
+
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[chưa-thể-lập-kế-hoạch-chọn-nhà-thầu-cho-toàn-bộ-dự-án-xử-lý-thế-nào-7a722fc8ab162166]] - Chưa thể lập kế hoạch chọn nhà thầu cho toàn bộ dự án, xử lý thế nào?
+- [[có-bắt-buộc-lập-kế-hoạch-lựa-chọn-nhà-thầu-0789ba0bb2b6f258]] - Có bắt buộc lập kế hoạch lựa chọn nhà thầu?
+- [[có-cần-lập-tổ-xây-dựng-kế-hoạch-lựa-chọn-nhà-thầu-3fe49a81dcfc385d]] - Có cần lập tổ xây dựng kế hoạch lựa chọn nhà thầu?
+- [[có-thể-gộp-32-công-trình-thành-một-gói-thầu-a9f17b9bdd150ede]] - Có thể gộp 32 công trình thành một gói thầu?
+- [[có-thể-lập-kế-hoạch-chọn-nhà-thầu-cho-cả-dự-án-25e84215476954c0]] - Có thể lập kế hoạch chọn nhà thầu cho cả dự án
+- [[có-được-chia-dự-án-thành-các-gói-thầu-76ccd37f7bdbda69]] - Có được chia dự án thành các gói thầu?
+- [[có-được-gộp-các-công-trình-tương-tự-thành-một-gói-thầu-98778d6b4262a8e5]] - Có được gộp các công trình tương tự thành một gói thầu?
+- [[có-được-gộp-các-hạng-mục-công-việc-thành-một-gói-thầu-5c93dccb47804777]] - Có được gộp các hạng mục công việc thành một gói thầu?
+- [[có-được-lập-một-kế-hoạch-chọn-nhà-thầu-cho-nhiều-công-trình-d8db6708e68ff7a9]] - Có được lập một kế hoạch chọn nhà thầu cho nhiều công trình?
+- *...và 19 tình huống khác trong [[INDEX-QA#dieu-33|Mục lục Q&A Điều 33]].*
+
 **Ghi chú:**
 - Điểm a khoản 3 được sửa đổi theo Luật 57/2024/QH15 (bỏ "bên mời thầu")
 - Phương thức phức tạp nhất: 2 giai đoạn, 2 túi hồ sơ

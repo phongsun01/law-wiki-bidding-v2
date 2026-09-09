@@ -64,6 +64,22 @@ Người có thẩm quyền áp dụng biện pháp khi:
 | Thời điểm | Trước khi phê duyệt kết quả | Từ phát hành HSMT đến trước ký hợp đồng |
 | Khả năng tiếp tục | Có thể tiếp tục sau khắc phục | Phải tổ chức lại từ đầu |
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **76 tình huống thực tế** được giải đáp liên quan đến Điều 18.
+
+- [[bảng-giá-dự-thầu-không-thống-nhất-xử-lý-thế-nào-71dcd2195472c071]] - Bảng giá dự thầu không thống nhất, xử lý thế nào?
+- [[bảo-đảm-dự-thầu-của-liên-danh-thế-nào-là-hợp-lệ-568b72bfdc7499b5]] - Bảo đảm dự thầu của liên danh thế nào là hợp lệ?
+- [[bảo-đảm-dự-thầu-phải-có-hiệu-lực-theo-hồ-sơ-mời-thầu-6cfac0ed42d23797]] - Bảo đảm dự thầu phải có hiệu lực theo hồ sơ mời thầu
+- [[bảo-đảm-dự-thầu-theo-hình-thức-nộp-thư-bảo-lãnh-36b1725861496969]] - Bảo đảm dự thầu theo hình thức nộp thư bảo lãnh
+- [[bảo-đảm-dự-thầu-theo-hình-thức-nộp-thư-bảo-lãnh-539178a4c6205f0e]] - Bảo đảm dự thầu theo hình thức nộp thư bảo lãnh
+- [[bảo-đảm-dự-thầu-theo-hình-thức-thư-bảo-lãnh-của-ngân-hàng-4e04c5e1850c74ba]] - Bảo đảm dự thầu theo hình thức thư bảo lãnh của ngân hàng
+- [[bảo-đảm-dự-thầu-thế-nào-là-hợp-lệ-64c25e1539ac6078]] - Bảo đảm dự thầu thế nào là hợp lệ?
+- [[bộ-khđt-gỡ-vướng-một-số-tình-huống-trong-đấu-thầu-77778f7a617234bd]] - Bộ KHĐT gỡ vướng một số tình huống trong đấu thầu
+- [[chào-hàng-cạnh-tranh-áp-dụng-cho-gói-thầu-2-hay-5-tỷ-đồng-c2cf54e431c4e3bd]] - Chào hàng cạnh tranh áp dụng cho gói thầu 2 hay 5 tỷ đồng?
+- [[cách-tính-hiệu-lực-chứng-chỉ-hành-nghề-đấu-thầu-e247f4236bb91f23]] - Cách tính hiệu lực chứng chỉ hành nghề đấu thầu
+- *...và 66 tình huống khác trong [[INDEX-QA#dieu-18|Mục lục Q&A Điều 18]].*
+
 ## Điều liên quan
 
 - [[dieu-16-hanh-vi-cam]] - Các hành vi bị cấm

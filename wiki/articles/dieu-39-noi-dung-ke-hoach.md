@@ -94,6 +94,22 @@ Thời gian thực hiện gói thầu được tính từ ngày hợp đồng c�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **16 tình huống thực tế** được giải đáp liên quan đến Điều 39.
+
+- [[cách-tính-dự-toán-gói-thầu-bảo-hiểm-công-trình-bc24b165596ba811]] - Cách tính dự toán gói thầu bảo hiểm công trình
+- [[có-thể-sửa-hồ-sơ-mời-thầu-be5175ff7eb9e4f4]] - Có thể sửa hồ sơ mời thầu?
+- [[có-được-chỉ-định-thầu-dự-án-sử-dụng-vốn-sự-nghiệp-c2314bc9c76b6f92]] - Có được chỉ định thầu dự án sử dụng vốn sự nghiệp?
+- [[gói-thầu-nào-được-áp-dụng-phương-pháp-giá-thấp-nhất-7079a55d9362a8dd]] - Gói thầu nào được áp dụng phương pháp giá thấp nhất?
+- [[hình-thức-chào-hàng-cạnh-tranh-áp-dụng-cho-gói-thầu-nào-1673d3ca64c8045b]] - Hình thức chào hàng cạnh tranh áp dụng cho gói thầu nào?
+- [[hướng-dẫn-chi-phục-vụ-công-tác-tổ-chức-đấu-giá-đất-0a14922b73195d37]] - Hướng dẫn chi phục vụ công tác tổ chức đấu giá đất
+- [[hướng-dẫn-xác-định-phương-pháp-đánh-giá-về-tài-chính-gói-thầu-7241e939d6b3dc07]] - Hướng dẫn xác định phương pháp đánh giá về tài chính gói thầu
+- [[hướng-dẫn-áp-dụng-quy-định-chọn-nhà-thầu-qua-mạng-7f829661d7651190]] - Hướng dẫn áp dụng quy định chọn nhà thầu qua mạng
+- [[hồ-sơ-có-2-đơn-giá-dự-thầu-có-hợp-lệ-b4ce82d12ec2c09e]] - Hồ sơ có 2 đơn giá dự thầu có hợp lệ?
+- [[phương-pháp-giá-đánh-giá-áp-dụng-đối-với-gói-thầu-nào-0fa0fedb1d3933cc]] - Phương pháp giá đánh giá áp dụng đối với gói thầu nào?
+- *...và 6 tình huống khác trong [[INDEX-QA#dieu-39|Mục lục Q&A Điều 39]].*
+
 **Ghi chú:**
 - Điều này quy định 8 nội dung bắt buộc trong kế hoạch lựa chọn nhà thầu
 - Giá gói thầu bao gồm toàn bộ chi phí, có thể cập nhật trong 28 ngày trước mở thầu

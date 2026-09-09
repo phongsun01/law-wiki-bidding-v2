@@ -72,3 +72,12 @@ Các gói thầu lựa chọn nhà thầu, dự án đầu tư kinh doanh đã p
 
 - [[dieu-95-hieu-luc-thi-hanh]] - Hiệu lực thi hành
 - [[chuong-10-dieu-khoan-thi-hanh]] - Chương X: Điều khoản thi hành
+
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **3 tình huống thực tế** được giải đáp liên quan đến Điều 96.
+
+- [[có-được-sử-dụng-tài-khoản-của-chi-nhánh-để-đấu-thầu-qua-mạng-05622e0eaef4b8d1]] - Có được sử dụng tài khoản của chi nhánh để đấu thầu qua mạng?
+- [[gói-thầu-phi-tư-vấn-áp-dụng-mẫu-hợp-đồng-nào-2bb957e54de6501b]] - Gói thầu phi tư vấn áp dụng mẫu hợp đồng nào?
+- [[nhà-thầu-có-được-thanh-toán-phần-chênh-lệch-khối-lượng-công-việc-b98273872c4d0baf]] - Nhà thầu có được thanh toán phần chênh lệch khối lượng công việc?
+

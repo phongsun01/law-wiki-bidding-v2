@@ -90,6 +90,21 @@ Các hoạt động quy định tại Điều này được thực hiện theo q
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **10 tình huống thực tế** được giải đáp liên quan đến Điều 42.
+
+- [[chủ-đầu-tư-có-cần-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-27fec86bc33dbdc0]] - Chủ đầu tư có cần phê duyệt danh sách xếp hạng nhà thầu?
+- [[chủ-đầu-tư-có-phải-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-b0ca979de1f1782e]] - Chủ đầu tư có phải phê duyệt danh sách xếp hạng nhà thầu?
+- [[chủ-đầu-tư-có-được-tự-quyết-định-chỉ-định-thầu-rút-gọn-04d7bd74f0cf40d1]] - Chủ đầu tư có được tự quyết định chỉ định thầu rút gọn?
+- [[khi-nào-chủ-đầu-tư-tự-duyệt-kế-hoạch-lựa-chọn-nhà-thầu-0f0902928e8ee2bb]] - Khi nào chủ đầu tư tự duyệt kế hoạch lựa chọn nhà thầu?
+- [[khi-nào-được-áp-dụng-đấu-thầu-trước-d99f1c5f85560da1]] - Khi nào được áp dụng đấu thầu trước?
+- [[thẩm-quyền-phê-duyệt-kế-hoạch-lựa-chọn-nhà-thầu-700f66e095b177e9]] - Thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu
+- [[thẩm-quyền-quyết-định-chỉ-định-thầu-rút-gọn-1c61f938dc966acd]] - Thẩm quyền quyết định chỉ định thầu rút gọn
+- [[xác-định-thời-điểm-ký-quỹ-dự-án-đầu-tư-248fe240eae02ac2]] - Xác định thời điểm ký quỹ dự án đầu tư
+- [[điều-kiện-xét-duyệt-trúng-thầu-gói-thầu-tư-vấn-5e0810f35fdd44d0]] - Điều kiện xét duyệt trúng thầu gói thầu tư vấn
+- [[điều-kiện-áp-dụng-chỉ-định-thầu-rút-gọn-5a8281128deb1c88]] - Điều kiện áp dụng chỉ định thầu rút gọn
+
 **Ghi chú:**
 - Đấu thầu trước giúp đẩy nhanh tiến độ dự án ODA, vốn vay ưu đãi
 - Có thể thực hiện hầu hết thủ tục trước khi dự án được phê duyệt

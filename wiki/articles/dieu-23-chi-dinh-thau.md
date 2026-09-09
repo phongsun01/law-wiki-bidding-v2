@@ -64,6 +64,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **70 tình huống thực tế** được giải đáp liên quan đến Điều 23.
+
+- [[ai-có-trách-nhiệm-xác-định-loại-gói-thầu-54cf40364e2ae3d1]] - Ai có trách nhiệm xác định loại gói thầu?
+- [[báo-cáo-tài-chính-giữa-niên-độ-có-phải-kiểm-toán-độc-lập-8a3ec6bac2994372]] - Báo cáo tài chính giữa niên độ có phải kiểm toán độc lập?
+- [[chi-phí-quản-lý-dự-án-gồm-những-khoản-gì-c59a15a4d4ec01ad]] - Chi phí quản lý dự án gồm những khoản gì?
+- [[chào-hàng-cạnh-tranh-áp-dụng-cho-gói-thầu-2-hay-5-tỷ-đồng-c2cf54e431c4e3bd]] - Chào hàng cạnh tranh áp dụng cho gói thầu 2 hay 5 tỷ đồng?
+- [[chỉ-định-thầu-phải-được-phê-duyệt-dự-toán-gói-thầu-hay-dự-toán-dự-án-3dc0c58189118004]] - Chỉ định thầu phải được phê duyệt dự toán gói thầu hay dự toán dự án?
+- [[chủ-đầu-tư-có-được-tự-quyết-định-chỉ-định-thầu-rút-gọn-04d7bd74f0cf40d1]] - Chủ đầu tư có được tự quyết định chỉ định thầu rút gọn?
+- [[các-gói-thầu-được-áp-dụng-chỉ-định-thầu-41b270659eafa75d]] - Các gói thầu được áp dụng chỉ định thầu
+- [[có-áp-dụng-chỉ-định-thầu-gói-thầu-đào-tạo-bồi-dưỡng-d35773b90c01d89c]] - Có áp dụng chỉ định thầu gói thầu đào tạo, bồi dưỡng?
+- [[có-được-chỉ-định-gói-thầu-sử-dụng-vốn-sản-xuất-kinh-doanh-303d391caa032cd2]] - Có được chỉ định gói thầu sử dụng vốn sản xuất, kinh doanh?
+- [[có-được-chỉ-định-thầu-cho-nhà-thầu-đã-cung-cấp-dịch-vụ-tư-vấn-f5cb725af5b43615]] - Có được chỉ định thầu cho nhà thầu đã cung cấp dịch vụ tư vấn?
+- *...và 60 tình huống khác trong [[INDEX-QA#dieu-23|Mục lục Q&A Điều 23]].*
+
 **Ghi chú:**
 - Điều này được sửa đổi theo Luật 57/2024/QH15
 - Chỉ định thầu = giao trực tiếp cho 1 nhà thầu, không qua cạnh tranh

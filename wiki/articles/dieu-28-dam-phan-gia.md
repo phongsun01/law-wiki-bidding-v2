@@ -44,6 +44,22 @@ Bộ trưởng Bộ y tế quyết định việc áp dụng hình thức đàm 
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **18 tình huống thực tế** được giải đáp liên quan đến Điều 28.
+
+- [[bảo-đảm-dự-thầu-có-hiệu-lực-sau-khi-đóng-thầu-là-không-hợp-lệ-f73698e0a3ddb3e3]] - Bảo đảm dự thầu có hiệu lực sau khi đóng thầu là không hợp lệ
+- [[cách-xác-định-gói-thầu-cung-cấp-dịch-vụ-phi-tư-vấn-hay-tư-vấn-acba34774e55a8c7]] - Cách xác định gói thầu cung cấp dịch vụ phi tư vấn hay tư vấn
+- [[có-phải-công-bố-lý-do-không-lựa-chọn-nhà-thầu-d2aae69d3f1d3c9f]] - Có phải công bố lý do không lựa chọn nhà thầu?
+- [[di-dời-công-trình-hạ-tầng-kỹ-thuật-có-được-chỉ-định-thầu-a1063496e859c232]] - Di dời công trình hạ tầng kỹ thuật có được chỉ định thầu?
+- [[ghi-sai-thời-gian-trong-hồ-sơ-dự-thầu-xử-lý-thế-nào-b57d310b9e25f0f5]] - Ghi sai thời gian trong hồ sơ dự thầu, xử lý thế nào?
+- [[gói-thầu-cần-thực-hiện-trước-khi-có-quyết-định-phê-duyệt-dự-án-36b15b7074560fff]] - Gói thầu cần thực hiện trước khi có quyết định phê duyệt dự án
+- [[gói-thầu-dịch-vụ-tư-vấn-đánh-giá-nhà-thầu-thế-nào-66a916124d110698]] - Gói thầu dịch vụ tư vấn, đánh giá nhà thầu thế nào?
+- [[gói-thầu-phi-tư-vấn-trên-10-tỷ-áp-dụng-phương-thức-nào-c8e28f8854926456]] - Gói thầu phi tư vấn trên 10 tỷ áp dụng phương thức nào?
+- [[hình-thức-chào-hàng-cạnh-tranh-áp-dụng-cho-gói-thầu-nào-1673d3ca64c8045b]] - Hình thức chào hàng cạnh tranh áp dụng cho gói thầu nào?
+- [[hướng-dẫn-áp-dụng-quy-trình-đánh-giá-e-hsdt-50d51a477304c64b]] - Hướng dẫn áp dụng quy trình đánh giá E-HSDT
+- *...và 8 tình huống khác trong [[INDEX-QA#dieu-28|Mục lục Q&A Điều 28]].*
+
 **Ghi chú:**
 - Đàm phán giá = thương lượng trực tiếp với nhà cung cấp về giá
 - Chỉ áp dụng cho lĩnh vực y tế đặc thù:

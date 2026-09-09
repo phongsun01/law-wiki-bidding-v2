@@ -52,6 +52,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **13 tình huống thực tế** được giải đáp liên quan đến Điều 73.
+
+- [[ai-quyết-định-đơn-vị-thẩm-định-kế-hoạch-lựa-chọn-nhà-thầu-6d59d2c634780374]] - Ai quyết định đơn vị thẩm định kế hoạch lựa chọn nhà thầu?
+- [[chủ-đầu-tư-có-được-tự-duyệt-kế-hoạch-chọn-nhà-thầu-f041ff5f1e023004]] - Chủ đầu tư có được tự duyệt kế hoạch chọn nhà thầu?
+- [[có-được-làm-thay-phần-việc-của-nhà-thầu-khác-trong-liên-danh-b540283d29526328]] - Có được làm thay phần việc của nhà thầu khác trong liên danh?
+- [[có-được-tổ-chức-đồng-thời-đấu-thầu-qua-mạng-và-không-qua-mạng-1cc909d356d0eb79]] - Có được tổ chức đồng thời đấu thầu qua mạng và không qua mạng?
+- [[dự-án-nhóm-b-c-không-bắt-buộc-kiểm-toán-báo-cáo-quyết-toán-bf524759e7c08393]] - Dự án nhóm B, C không bắt buộc kiểm toán báo cáo quyết toán
+- [[giá-dự-thầu-vượt-giá-gói-thầu-xử-lý-thế-nào-440a348993c643eb]] - Giá dự thầu vượt giá gói thầu, xử lý thế nào?
+- [[gói-thầu-mua-phần-mềm-là-gói-mua-sắm-hay-tư-vấn-f51662b2755ec38c]] - Gói thầu mua phần mềm là gói mua sắm hay tư vấn?
+- [[mua-gạo-hỗ-trợ-có-được-chỉ-định-thầu-bd4df7a5c741ffe6]] - Mua gạo hỗ trợ có được chỉ định thầu?
+- [[mua-sắm-thường-xuyên-có-phải-theo-luật-đấu-thầu-f7ec37129da05c9d]] - Mua sắm thường xuyên có phải theo Luật Đấu thầu?
+- [[nhà-thầu-đứng-tên-nhập-khẩu-thiết-bị-tính-thuế-thế-nào-311a6ee46259e3d9]] - Nhà thầu đứng tên nhập khẩu thiết bị, tính thuế thế nào?
+- *...và 3 tình huống khác trong [[INDEX-QA#dieu-73|Mục lục Q&A Điều 73]].*
+
 **Ghi chú:**
 - Hợp đồng dự án đầu tư kinh doanh có 6 nội dung cơ bản (a-e)
 - Bao gồm thông tin bên ký kết, thông tin dự án, trách nhiệm bồi thường, nghĩa vụ nhà đầu tư, bảo đảm thực hiện, pháp luật điều chỉnh

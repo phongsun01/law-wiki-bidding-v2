@@ -54,3 +54,20 @@ Chính phủ quy định chi tiết về điều kiện xem xét giải quyết 
 - [[dieu-88-xu-ly-tinh-huong]] - Xử lý tình huống trong đấu thầu
 - [[dieu-94-khoi-kien]] - Quyền khởi kiện ra Tòa án
 - [[chuong-9-kien-nghi-khoi-kien]] - Chương IX: Giải quyết kiến nghị, khởi kiện
+
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **49 tình huống thực tế** được giải đáp liên quan đến Điều 89.
+
+- [[bị-cấm-đấu-thầu-từ-3-5-năm-nếu-gian-lận-hồ-sơ-dự-thầu-c9a4f666e3c3c5c2]] - Bị cấm đấu thầu từ 3-5 năm nếu gian lận hồ sơ dự thầu
+- [[bộ-khđt-gỡ-vướng-một-số-tình-huống-trong-đấu-thầu-77778f7a617234bd]] - Bộ KHĐT gỡ vướng một số tình huống trong đấu thầu
+- [[có-bắt-buộc-công-chứng-tài-liệu-trước-thời-điểm-đóng-thầu-e66b8d4c97dc8714]] - Có bắt buộc công chứng tài liệu trước thời điểm đóng thầu?
+- [[có-được-bổ-sung-nhà-thầu-phụ-ngoài-danh-sách-3b6765cbe788f5a0]] - Có được bổ sung nhà thầu phụ ngoài danh sách?
+- [[có-được-bổ-sung-nhà-thầu-phụ-ngoài-danh-sách-c9ba598effbdb42c]] - Có được bổ sung nhà thầu phụ ngoài danh sách?
+- [[có-được-chia-dự-án-thành-các-gói-thầu-76ccd37f7bdbda69]] - Có được chia dự án thành các gói thầu?
+- [[có-được-chuyển-nhượng-phần-việc-giữa-các-thành-viên-liên-danh-89bc5c5b84435144]] - Có được chuyển nhượng phần việc giữa các thành viên liên danh?
+- [[có-được-chuyển-nhượng-toàn-bộ-thầu-cho-nhà-thầu-liên-danh-f1f08ee297b59c15]] - Có được chuyển nhượng toàn bộ thầu cho nhà thầu liên danh?
+- [[có-được-chỉ-định-thầu-cho-nhà-thầu-đã-cung-cấp-dịch-vụ-tư-vấn-f5cb725af5b43615]] - Có được chỉ định thầu cho nhà thầu đã cung cấp dịch vụ tư vấn?
+- [[có-được-nêu-tên-nhà-thầu-phụ-trong-hồ-sơ-mời-thầu-1f30cf73ffac94fe]] - Có được nêu tên nhà thầu phụ trong Hồ sơ mời thầu?
+- *...và 39 tình huống khác trong [[INDEX-QA#dieu-89|Mục lục Q&A Điều 89]].*
+

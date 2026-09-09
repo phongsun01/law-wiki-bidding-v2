@@ -80,6 +80,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **20 tình huống thực tế** được giải đáp liên quan đến Điều 86.
+
+- [[chỉ-có-một-nhà-thầu-nộp-hồ-sơ-xử-lý-thế-nào-fdaed440d6d6a5ed]] - Chỉ có một nhà thầu nộp hồ sơ, xử lý thế nào?
+- [[chủ-đầu-tư-chịu-trách-nhiệm-xử-lý-tình-huống-trong-đấu-thầu-7a89923387921268]] - Chủ đầu tư chịu trách nhiệm xử lý tình huống trong đấu thầu
+- [[chủ-đầu-tư-được-quyết-định-xử-lý-tình-huống-trong-đấu-thầu-ef344d0754e5e007]] - Chủ đầu tư được quyết định xử lý tình huống trong đấu thầu?
+- [[các-công-việc-không-áp-dụng-hình-thức-lựa-chọn-nhà-thầu-88b2f03e890e9a5a]] - Các công việc không áp dụng hình thức lựa chọn nhà thầu
+- [[có-thể-thay-đổi-xuất-xứ-hàng-hóa-khi-thương-thảo-hợp-đồng-850d31dcd4b11173]] - Có thể thay đổi xuất xứ hàng hóa khi thương thảo hợp đồng?
+- [[có-được-kê-khai-nhân-sự-giống-nhau-cho-nhiều-gói-thầu-69e4dc6da044aff7]] - Có được kê khai nhân sự giống nhau cho nhiều gói thầu?
+- [[có-được-làm-thay-phần-việc-của-nhà-thầu-khác-trong-liên-danh-b540283d29526328]] - Có được làm thay phần việc của nhà thầu khác trong liên danh?
+- [[có-được-nộp-bảo-đảm-dự-thầu-bằng-tiền-mặt-eea375a9b2a54657]] - Có được nộp bảo đảm dự thầu bằng tiền mặt?
+- [[có-được-đề-xuất-nhân-sự-giống-nhau-trong-2-hồ-sơ-dự-thầu-7ca61965daa09323]] - Có được đề xuất nhân sự giống nhau trong 2 hồ sơ dự thầu?
+- [[có-được-đổi-thành-viên-đứng-đầu-liên-danh-sau-khi-trúng-thầu-198f080ade30278a]] - Có được đổi thành viên đứng đầu liên danh sau khi trúng thầu?
+- *...và 10 tình huống khác trong [[INDEX-QA#dieu-86|Mục lục Q&A Điều 86]].*
+
 **Ghi chú:**
 - Điểm b khoản 2 được sửa đổi theo Luật 90/2025 về phạm vi kiểm tra
 - Điểm c, đ khoản 3 được sửa đổi theo Luật 90/2025 về giám sát

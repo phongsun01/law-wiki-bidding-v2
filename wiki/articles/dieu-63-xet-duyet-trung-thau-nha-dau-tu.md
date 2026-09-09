@@ -52,6 +52,21 @@ Nhà đầu tư được xem xét, đề nghị trúng thầu khi đáp ứng đ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **10 tình huống thực tế** được giải đáp liên quan đến Điều 63.
+
+- [[có-phải-ghi-tên-nhà-thầu-phụ-trong-hợp-đồng-b0c06ab61b5584c8]] - Có phải ghi tên nhà thầu phụ trong hợp đồng?
+- [[gói-thầu-nào-được-áp-dụng-hợp-đồng-trọn-gói-b41178ef2e7b534f]] - Gói thầu nào được áp dụng hợp đồng trọn gói?
+- [[gói-thầu-phi-tư-vấn-trên-10-tỷ-áp-dụng-phương-thức-nào-c8e28f8854926456]] - Gói thầu phi tư vấn trên 10 tỷ áp dụng phương thức nào?
+- [[hình-thức-chào-hàng-cạnh-tranh-áp-dụng-cho-gói-thầu-nào-1673d3ca64c8045b]] - Hình thức chào hàng cạnh tranh áp dụng cho gói thầu nào?
+- [[hộ-kinh-doanh-có-được-đăng-ký-ngành-nghề-công-nghệ-thông-tin-affba119fd3f376c]] - Hộ kinh doanh có được đăng ký ngành, nghề công nghệ thông tin?
+- [[nhà-thầu-có-được-thay-đổi-xuất-xứ-hàng-hóa-9701c9819f36285a]] - Nhà thầu có được thay đổi xuất xứ hàng hóa?
+- [[nhà-thầu-không-bảo-mật-đề-xuất-tài-chính-có-bị-loại-a8f4bb29172567ba]] - Nhà thầu không bảo mật đề xuất tài chính có bị loại?
+- [[phân-bổ-chi-phí-dự-phòng-vào-trong-giá-dự-thầu-e332e6040113b7f5]] - Phân bổ chi phí dự phòng vào trong giá dự thầu
+- [[quy-mô-hàng-hóa-được-áp-dụng-mua-sắm-trực-tiếp-7a98b5c9930da0c4]] - Quy mô hàng hóa được áp dụng mua sắm trực tiếp
+- [[quy-định-về-thành-lập-tổ-chuyên-gia-đấu-thầu-8a7ef8fe29b9b970]] - Quy định về thành lập Tổ chuyên gia đấu thầu
+
 **Ghi chú:**
 - Điều kiện xét duyệt trúng thầu cho nhà đầu tư
 - Yêu cầu điểm tổng hợp cao nhất

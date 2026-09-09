@@ -96,6 +96,22 @@ d) Chủ đầu tư, tư vấn giám sát chấp thuận để nhà thầu chuy�
 ### 9. Tổ chức lựa chọn nhà thầu khi chưa xác định được nguồn vốn
 Tổ chức lựa chọn nhà thầu khi chưa xác định được nguồn vốn theo quy định tại khoản 3 Điều 39, trừ trường hợp đấu thầu trước quy định tại Điều 42 của Luật này.
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **93 tình huống thực tế** được giải đáp liên quan đến Điều 16.
+
+- [[bên-mời-thầu-hạn-chế-sự-tham-gia-của-nhà-thầu-7fba94fe98f326fc]] - Bên mời thầu hạn chế sự tham gia của nhà thầu?
+- [[bổ-sung-hồ-sơ-chứng-minh-năng-lực-nhà-thầu-có-được-coi-là-hợp-lệ-738df0172fab0345]] - Bổ sung hồ sơ chứng minh năng lực nhà thầu có được coi là hợp lệ?
+- [[bổ-sung-hợp-đồng-cấp-tín-dụng-sau-đóng-thầu-có-hợp-lệ-9ed1e2145270f0e4]] - Bổ sung hợp đồng cấp tín dụng sau đóng thầu có hợp lệ?
+- [[bổ-sung-hợp-đồng-tương-tự-không-làm-thay-đổi-bản-chất-nhà-thầu-0e3344ba21a76bfb]] - Bổ sung hợp đồng tương tự không làm thay đổi bản chất nhà thầu
+- [[cho-phép-gia-hạn-thời-điểm-đóng-thầu-7ea67d6889314506]] - Cho phép gia hạn thời điểm đóng thầu
+- [[chứng-minh-kinh-nghiệm-thực-hiện-hợp-đồng-tương-tự-thế-nào-fb3d00f45969e396]] - Chứng minh kinh nghiệm thực hiện hợp đồng tương tự thế nào?
+- [[các-nội-dung-được-yêu-cầu-làm-rõ-trong-hồ-sơ-dự-thầu-b792ec9207597f3b]] - Các nội dung được yêu cầu làm rõ trong hồ sơ dự thầu
+- [[các-trường-hợp-chưa-bắt-buộc-phải-có-chứng-chỉ-đấu-thầu-4f48dddbbfcd315f]] - Các trường hợp chưa bắt buộc phải có chứng chỉ đấu thầu?
+- [[cách-đánh-giá-tính-hợp-lệ-của-hồ-sơ-dự-thầu-b2f93d50fb2fce08]] - Cách đánh giá tính hợp lệ của hồ sơ dự thầu
+- [[có-cần-chứng-chỉ-hành-nghề-khi-tham-gia-lựa-chọn-nhà-đầu-tư-ab192ff3a7958107]] - Có cần chứng chỉ hành nghề khi tham gia lựa chọn nhà đầu tư?
+- *...và 83 tình huống khác trong [[INDEX-QA#dieu-16|Mục lục Q&A Điều 16]].*
+
 ## Điều liên quan
 
 - [[dieu-17-huy-thau]] - Hủy thầu

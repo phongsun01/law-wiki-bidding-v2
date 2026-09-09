@@ -25,6 +25,22 @@ Cộng đồng dân cư, tổ, nhóm thợ đủ năng lực tại địa phươ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **16 tình huống thực tế** được giải đáp liên quan đến Điều 27.
+
+- [[bảo-lãnh-dự-thầu-thiếu-nội-dung-cam-kết-có-hợp-lệ-9233c6d8b49ad9f3]] - Bảo lãnh dự thầu thiếu nội dung cam kết có hợp lệ?
+- [[chủ-đầu-tư-quyết-định-hình-thức-lựa-chọn-nhà-thầu-1b875c72ba914030]] - Chủ đầu tư quyết định hình thức lựa chọn nhà thầu
+- [[chứng-minh-kinh-nghiệm-thực-hiện-hợp-đồng-tương-tự-thế-nào-fb3d00f45969e396]] - Chứng minh kinh nghiệm thực hiện hợp đồng tương tự thế nào?
+- [[có-được-sửa-tỷ-lệ-liên-danh-trong-hồ-sơ-thầu-3e806d057885a864]] - Có được sửa tỷ lệ liên danh trong hồ sơ thầu?
+- [[có-được-đổi-xuất-xứ-hàng-hóa-trong-hồ-sơ-dự-thầu-b7021005c1e972b5]] - Có được đổi xuất xứ hàng hóa trong hồ sơ dự thầu?
+- [[căn-cứ-giảm-phí-bảo-hiểm-công-trình-xây-dựng-21aef77ff16d504e]] - Căn cứ giảm phí bảo hiểm công trình xây dựng
+- [[hướng-dẫn-cung-cấp-bảo-hiểm-qua-hình-thức-đấu-thầu-fe5f16eaca811574]] - Hướng dẫn cung cấp bảo hiểm qua hình thức đấu thầu
+- [[hướng-dẫn-ghi-tên-đơn-vị-thụ-hưởng-trong-bảo-đảm-dự-thầu-12aaad3fe19d5aef]] - Hướng dẫn ghi tên đơn vị thụ hưởng trong bảo đảm dự thầu
+- [[nhà-thầu-quên-gia-hạn-bảo-đảm-dự-thầu-xử-lý-thế-nào-f6ce078dfc0556ed]] - Nhà thầu quên gia hạn bảo đảm dự thầu, xử lý thế nào?
+- [[quy-định-chọn-nhà-thầu-kiểm-toán-dự-án-đầu-tư-công-90315959e2446ea3]] - Quy định chọn nhà thầu kiểm toán dự án đầu tư công
+- *...và 6 tình huống khác trong [[INDEX-QA#dieu-27|Mục lục Q&A Điều 27]].*
+
 **Ghi chú:**
 - Tham gia cộng đồng = giao cho cộng đồng dân cư, tổ/nhóm thợ địa phương thực hiện
 - Điều kiện:

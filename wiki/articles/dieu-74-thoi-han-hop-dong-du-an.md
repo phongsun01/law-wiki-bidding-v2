@@ -46,6 +46,22 @@ Hết thời hạn hợp đồng, nhà đầu tư thực hiện dự án đầu 
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **22 tình huống thực tế** được giải đáp liên quan đến Điều 74.
+
+- [[ai-quyết-định-đơn-vị-thẩm-định-kế-hoạch-lựa-chọn-nhà-thầu-6d59d2c634780374]] - Ai quyết định đơn vị thẩm định kế hoạch lựa chọn nhà thầu?
+- [[chủ-đầu-tư-có-được-ký-tài-liệu-với-tư-cách-bên-mời-thầu-981900cb0f47cab0]] - Chủ đầu tư có được ký tài liệu với tư cách bên mời thầu?
+- [[chủ-đầu-tư-có-được-tự-duyệt-kế-hoạch-chọn-nhà-thầu-f041ff5f1e023004]] - Chủ đầu tư có được tự duyệt kế hoạch chọn nhà thầu?
+- [[chủ-đầu-tư-là-bên-mời-thầu-tổ-chức-đấu-thầu-thế-nào-2705f1110d50a792]] - Chủ đầu tư là bên mời thầu, tổ chức đấu thầu thế nào?
+- [[chủ-đầu-tư-phải-xử-lý-sai-khác-về-thời-gian-thực-hiện-gói-thầu-452ddac546478181]] - Chủ đầu tư phải xử lý sai khác về thời gian thực hiện gói thầu
+- [[có-thể-kiến-nghị-chủ-đầu-tư-nếu-có-dấu-hiệu-không-minh-bạch-4991aaa580d751bb]] - Có thể kiến nghị chủ đầu tư nếu có dấu hiệu không minh bạch
+- [[có-được-chia-dự-án-thành-các-gói-thầu-76ccd37f7bdbda69]] - Có được chia dự án thành các gói thầu?
+- [[có-được-ký-phụ-lục-để-điều-chỉnh-cơ-cấu-trong-hợp-đồng-39ddb003ffec0c0f]] - Có được ký phụ lục để điều chỉnh cơ cấu trong hợp đồng?
+- [[có-được-làm-thay-phần-việc-của-nhà-thầu-khác-trong-liên-danh-b540283d29526328]] - Có được làm thay phần việc của nhà thầu khác trong liên danh?
+- [[có-được-nêu-tên-nhà-thầu-phụ-trong-hồ-sơ-mời-thầu-1f30cf73ffac94fe]] - Có được nêu tên nhà thầu phụ trong Hồ sơ mời thầu?
+- *...và 12 tình huống khác trong [[INDEX-QA#dieu-74|Mục lục Q&A Điều 74]].*
+
 **Ghi chú:**
 - Thời hạn hợp đồng: từ khi có hiệu lực đến khi nhà đầu tư hoàn thành nghĩa vụ
 - Sau khi hết thời hạn: nhà đầu tư thực hiện theo pháp luật về đầu tư

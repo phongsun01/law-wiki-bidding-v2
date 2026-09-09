@@ -57,6 +57,22 @@ Chủ đầu tư tổ chức lập và phê duyệt kế hoạch lựa chọn nh
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **22 tình huống thực tế** được giải đáp liên quan đến Điều 40.
+
+- [[chỉ-định-thầu-rút-gọn-áp-dụng-theo-quy-định-mới-thế-nào-043beca5e8211c6c]] - Chỉ định thầu rút gọn áp dụng theo quy định mới thế nào?
+- [[chủ-đầu-tư-có-được-tự-quyết-định-chỉ-định-thầu-rút-gọn-04d7bd74f0cf40d1]] - Chủ đầu tư có được tự quyết định chỉ định thầu rút gọn?
+- [[có-thể-phê-duyệt-đồng-thời-nhiệm-vụ-và-dự-toán-chuẩn-bị-đầu-tư-d4aa367f39fbbcd6]] - Có thể phê duyệt đồng thời nhiệm vụ và dự toán chuẩn bị đầu tư?
+- [[căn-cứ-nào-xác-định-gói-thầu-có-tính-chất-đơn-giản-4e7aaa91daa9223e]] - Căn cứ nào xác định gói thầu có tính chất đơn giản?
+- [[di-dời-hạ-tầng-kỹ-thuật-có-trong-kế-hoạch-lựa-chọn-nhà-thầu-67890ff7d707814c]] - Di dời hạ tầng kỹ thuật có trong kế hoạch lựa chọn nhà thầu?
+- [[giá-dự-toán-gói-thầu-thay-đổi-trong-khi-mở-thầu-gói-tư-vấn-e6ab03981515f072]] - Giá dự toán gói thầu thay đổi trong khi mở thầu gói tư vấn
+- [[giá-thiết-bị-trúng-thầu-cao-hơn-giá-được-duyệt-thanh-toán-thế-nào-7576ac8a1dc3d522]] - Giá thiết bị trúng thầu cao hơn giá được duyệt, thanh toán thế nào?
+- [[hướng-dẫn-nhà-thầu-đề-xuất-sửa-đổi-hợp-đồng-b78496fac5ee9247]] - Hướng dẫn nhà thầu đề xuất sửa đổi hợp đồng
+- [[hướng-dẫn-điền-biểu-mẫu-dự-thầu-qua-mạng-a3821977d18ff55a]] - Hướng dẫn điền biểu mẫu dự thầu qua mạng
+- [[hỏi-về-hình-thức-chỉ-định-đấu-thầu-94abfd1b7f208f8a]] - Hỏi về hình thức chỉ định đấu thầu
+- *...và 12 tình huống khác trong [[INDEX-QA#dieu-40|Mục lục Q&A Điều 40]].*
+
 **Ghi chú:**
 - Hồ sơ trình duyệt phải phân loại công việc: đã thực hiện, không áp dụng đấu thầu, thuộc kế hoạch, chưa đủ điều kiện
 - Tổng giá trị không vượt tổng mức đầu tư dự án

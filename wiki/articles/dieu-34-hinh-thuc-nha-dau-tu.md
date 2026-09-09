@@ -51,6 +51,22 @@ Lựa chọn nhà đầu tư trong trường hợp đặc biệt.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **14 tình huống thực tế** được giải đáp liên quan đến Điều 34.
+
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[chưa-thể-lập-kế-hoạch-chọn-nhà-thầu-cho-toàn-bộ-dự-án-xử-lý-thế-nào-7a722fc8ab162166]] - Chưa thể lập kế hoạch chọn nhà thầu cho toàn bộ dự án, xử lý thế nào?
+- [[chấm-điểm-đánh-giá-kỹ-thuật-hồ-sơ-dự-thầu-như-thế-nào-b4a9cdad57364382]] - Chấm điểm đánh giá kỹ thuật hồ sơ dự thầu như thế nào?
+- [[có-thể-lập-kế-hoạch-chọn-nhà-thầu-cho-cả-dự-án-25e84215476954c0]] - Có thể lập kế hoạch chọn nhà thầu cho cả dự án
+- [[có-được-lập-một-kế-hoạch-chọn-nhà-thầu-cho-nhiều-công-trình-d8db6708e68ff7a9]] - Có được lập một kế hoạch chọn nhà thầu cho nhiều công trình?
+- [[căn-cứ-lập-kế-hoạch-chọn-nhà-thầu-hoạt-động-mua-sắm-thường-xuyên-d544beb200dd5cd8]] - Căn cứ lập kế hoạch chọn nhà thầu hoạt động mua sắm thường xuyên
+- [[căn-cứ-nào-xác-định-gói-thầu-có-tính-chất-đơn-giản-4e7aaa91daa9223e]] - Căn cứ nào xác định gói thầu có tính chất đơn giản?
+- [[căn-cứ-xác-định-giá-gói-thầu-9e4ac099925f3e7d]] - Căn cứ xác định giá gói thầu
+- [[dự-án-chưa-bố-trí-đủ-vốn-có-được-lập-kế-hoạch-lựa-chọn-nhà-thầu-b6c4bfab03516436]] - Dự án chưa bố trí đủ vốn có được lập kế hoạch lựa chọn nhà thầu?
+- [[dự-án-đầu-tư-công-lập-kế-hoạch-chọn-nhà-thầu-thế-nào-a97c5d76809da927]] - Dự án đầu tư công, lập kế hoạch chọn nhà thầu thế nào?
+- *...và 4 tình huống khác trong [[INDEX-QA#dieu-34|Mục lục Q&A Điều 34]].*
+
 **Ghi chú:**
 - Khoản 2a được bổ sung mới bởi Luật 57/2024/QH15
 - Khoản 3 được sửa đổi theo Luật 57/2024/QH15

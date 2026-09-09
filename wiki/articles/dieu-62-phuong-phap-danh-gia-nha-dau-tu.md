@@ -76,6 +76,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **49 tình huống thực tế** được giải đáp liên quan đến Điều 62.
+
+- [[bổ-sung-hạng-mục-có-phải-làm-lại-kế-hoạch-đấu-thầu-c607bdb2a98af4e3]] - Bổ sung hạng mục có phải làm lại kế hoạch đấu thầu?
+- [[chi-phí-dự-phòng-do-chủ-đầu-tư-xác-định-b82e73ededef25e8]] - Chi phí dự phòng do chủ đầu tư xác định
+- [[chi-phí-dự-phòng-trong-hợp-đồng-trọn-gói-151b72680ba58c21]] - Chi phí dự phòng trong hợp đồng trọn gói
+- [[chi-phí-dự-phòng-xác-định-theo-tính-chất-gói-thầu-3ef6f519471fbf18]] - Chi phí dự phòng xác định theo tính chất gói thầu
+- [[có-quy-định-về-gói-thầu-dịch-vụ-tư-vấn-quy-mô-nhỏ-không-a0640c90293aea73]] - Có quy định về gói thầu dịch vụ tư vấn quy mô nhỏ không?
+- [[có-thể-điều-chỉnh-kế-hoạch-lựa-chọn-nhà-thầu-e6b02221dcece9e0]] - Có thể điều chỉnh kế hoạch lựa chọn nhà thầu
+- [[có-được-hiệu-chỉnh-đơn-giá-dự-thầu-của-nhà-thầu-ad9401bb033d3efa]] - Có được hiệu chỉnh đơn giá dự thầu của nhà thầu?
+- [[có-được-ký-phụ-lục-điều-chỉnh-giá-hợp-đồng-193ba9e0310929dc]] - Có được ký phụ lục điều chỉnh giá hợp đồng?
+- [[có-được-quyết-toán-chi-phí-dự-phòng-trong-giá-gói-thầu-3f8a657c4f25c9b5]] - Có được quyết toán chi phí dự phòng trong giá gói thầu?
+- [[có-được-thanh-toán-chi-phí-dự-phòng-trong-hợp-đồng-trọn-gói-e8b420647d613865]] - Có được thanh toán chi phí dự phòng trong hợp đồng trọn gói?
+- *...và 39 tình huống khác trong [[INDEX-QA#dieu-62|Mục lục Q&A Điều 62]].*
+
 **Ghi chú:**
 - Phương pháp đánh giá lựa chọn nhà đầu tư dựa trên lợi ích xã hội, lợi ích nhà nước
 - Thang điểm 100 hoặc 1.000

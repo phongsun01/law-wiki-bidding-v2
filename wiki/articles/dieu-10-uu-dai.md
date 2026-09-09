@@ -132,6 +132,22 @@ anchors:
 
 Chính phủ quy định chi tiết Điều này.
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **38 tình huống thực tế** được giải đáp liên quan đến Điều 10.
+
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[chỉ-định-thầu-gói-xây-lắp-dưới-2-tỷ-doanh-nghiệp-nào-được-tham-gia-17d5d5c74394703f]] - Chỉ định thầu gói xây lắp dưới 2 tỷ, doanh nghiệp nào được tham gia?
+- [[chủ-đầu-tư-không-cung-cấp-đủ-hồ-sơ-quyết-toán-xử-lý-thế-nào-ac3865b5aec9babb]] - Chủ đầu tư không cung cấp đủ hồ sơ quyết toán, xử lý thế nào?
+- [[cách-tính-dự-toán-gói-thầu-bảo-hiểm-công-trình-bc24b165596ba811]] - Cách tính dự toán gói thầu bảo hiểm công trình
+- [[cách-xác-định-mức-độ-tự-chủ-tài-chính-của-đơn-vị-sự-nghiệp-36614344c4bd87df]] - Cách xác định mức độ tự chủ tài chính của đơn vị sự nghiệp
+- [[có-hóa-đơn-gtgt-mua-hàng-hóa-mới-được-khấu-trừ-thuế-0da902b852011ac4]] - Có hóa đơn GTGT mua hàng hóa mới được khấu trừ thuế
+- [[có-phải-đấu-thầu-các-khoản-chi-cho-đoàn-công-tác-c3d86f8bf2250fc5]] - Có phải đấu thầu các khoản chi cho đoàn công tác?
+- [[có-áp-dụng-luật-mới-để-sửa-hợp-đồng-của-gói-thầu-ký-trước-172025-7bdbb46591a07ba1]] - Có áp dụng luật mới để sửa hợp đồng của gói thầu ký trước 1/7/2025?
+- [[có-được-ký-hợp-đồng-giao-việc-cho-công-ty-con-d3b94af41adbe26d]] - Có được ký hợp đồng giao việc cho công ty con?
+- [[căn-cứ-giảm-phí-bảo-hiểm-công-trình-xây-dựng-21aef77ff16d504e]] - Căn cứ giảm phí bảo hiểm công trình xây dựng
+- *...và 28 tình huống khác trong [[INDEX-QA#dieu-10|Mục lục Q&A Điều 10]].*
+
 ## Điều liên quan
 
 - [[dieu-11-dau-thau-quoc-te]] - Đấu thầu quốc tế

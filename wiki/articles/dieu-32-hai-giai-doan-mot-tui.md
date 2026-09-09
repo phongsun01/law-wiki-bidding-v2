@@ -53,6 +53,22 @@ Trong giai đoạn hai, quy trình lựa chọn nhà thầu được thực hi�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **17 tình huống thực tế** được giải đáp liên quan đến Điều 32.
+
+- [[các-trường-hợp-không-đấu-thầu-qua-mạng-9e9e1122f104b5c8]] - Các trường hợp không đấu thầu qua mạng
+- [[có-được-bổ-sung-nhân-sự-thiết-bị-sau-thời-điểm-đóng-thầu-0c4919c301a7e38f]] - Có được bổ sung nhân sự, thiết bị sau thời điểm đóng thầu?
+- [[căn-cứ-đánh-giá-khả-năng-huy-động-thiết-bị-thi-công-của-nhà-thầu-fa91b8ab3c017cf9]] - Căn cứ đánh giá khả năng huy động thiết bị thi công của nhà thầu
+- [[di-dời-công-trình-hạ-tầng-kỹ-thuật-có-được-chỉ-định-thầu-a1063496e859c232]] - Di dời công trình hạ tầng kỹ thuật có được chỉ định thầu?
+- [[dự-án-nào-phải-xin-chấp-thuận-chủ-trương-đầu-tư-7f846899f0bce847]] - Dự án nào phải xin chấp thuận chủ trương đầu tư?
+- [[gói-thầu-dưới-100-triệu-có-cần-kế-hoạch-lựa-chọn-nhà-thầu-cef079df7670d259]] - Gói thầu dưới 100 triệu có cần kế hoạch lựa chọn nhà thầu?
+- [[gói-thầu-dưới-20-triệu-đồng-có-cần-kế-hoạch-lựa-chọn-nhà-thầu-4bf5cda2ef1db0ed]] - Gói thầu dưới 20 triệu đồng có cần kế hoạch lựa chọn nhà thầu?
+- [[lập-báo-cáo-đánh-giá-e-hsdt-thế-nào-3bed15ba996b778f]] - Lập báo cáo đánh giá E-HSDT thế nào?
+- [[lập-báo-cáo-đánh-giá-gói-thầu-xây-lắp-theo-mẫu-nào-9d21b97fd9eb72b8]] - Lập báo cáo đánh giá gói thầu xây lắp theo mẫu nào?
+- [[thẩm-quyền-chấp-thuận-chủ-trương-đầu-tư-dự-án-có-sử-dụng-đất-af940dce74fe255c]] - Thẩm quyền chấp thuận chủ trương đầu tư dự án có sử dụng đất
+- *...và 7 tình huống khác trong [[INDEX-QA#dieu-32|Mục lục Q&A Điều 32]].*
+
 **Ghi chú:**
 - Điểm a khoản 3 được sửa đổi theo Luật 57/2024/QH15 (bỏ "bên mời thầu")
 - Phương thức: 2 giai đoạn, 1 túi hồ sơ

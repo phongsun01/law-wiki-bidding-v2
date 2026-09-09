@@ -61,6 +61,16 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **5 tình huống thực tế** được giải đáp liên quan đến Điều 81.
+
+- [[giao-khoán-vận-hành-khai-thác-tài-sản-thực-hiện-thế-nào-bc3bd7a278d33abc]] - Giao khoán vận hành, khai thác tài sản thực hiện thế nào?
+- [[nhà-thầu-đứng-tên-nhập-khẩu-thiết-bị-tính-thuế-thế-nào-311a6ee46259e3d9]] - Nhà thầu đứng tên nhập khẩu thiết bị, tính thuế thế nào?
+- [[quyết-toán-dự-án-vốn-nhà-nước-ngoài-đầu-tư-công-theo-quy-định-nào-fe583107fbcffa9a]] - Quyết toán dự án vốn Nhà nước ngoài đầu tư công theo quy định nào?
+- [[tiêu-chuẩn-thành-viên-tổ-chuyên-gia-tổ-thẩm-định-đấu-thầu-496f6aff94fb71d9]] - Tiêu chuẩn thành viên tổ chuyên gia, tổ thẩm định đấu thầu
+- [[trường-hợp-nào-được-chỉ-định-thầu-tư-vấn-thiết-kế-84ed24ae21a5fd5b]] - Trường hợp nào được chỉ định thầu tư vấn thiết kế?
+
 **Ghi chú:**
 - Tổ thẩm định phải hoạt động độc lập, khách quan
 - Chịu trách nhiệm trước pháp luật về kết quả thẩm định

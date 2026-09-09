@@ -27,3 +27,16 @@ Nội dung điều kiện xem xét, giải quyết kiến nghị hiện được
 - [[dieu-89-giai-quyet-kien-nghi]] - Giải quyết kiến nghị trong hoạt động đấu thầu
 - [[dieu-91-quy-trinh-nha-thau]] - Quy trình giải quyết kiến nghị về lựa chọn nhà thầu
 - [[chuong-9-kien-nghi-khoi-kien]] - Chương IX: Giải quyết kiến nghị, khởi kiện
+
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **7 tình huống thực tế** được giải đáp liên quan đến Điều 90.
+
+- [[bị-cấm-đấu-thầu-dự-án-oda-có-được-tham-gia-dự-án-nsnn-f0e23f4af27a3bc3]] - Bị cấm đấu thầu dự án ODA có được tham gia dự án NSNN?
+- [[chọn-nhà-đầu-tư-dự-án-bt-theo-quy-định-nào-751bbd1a1305b04a]] - Chọn nhà đầu tư dự án BT theo quy định nào?
+- [[dự-án-có-một-nhà-đầu-tư-trúng-sơ-tuyển-lập-hồ-sơ-thế-nào-1b83899e87d8b373]] - Dự án có một nhà đầu tư trúng sơ tuyển, lập hồ sơ thế nào?
+- [[không-đấu-thầu-qua-mạng-theo-lộ-trình-là-vi-phạm-dec41c85adf39820]] - Không đấu thầu qua mạng theo lộ trình là vi phạm
+- [[mức-phạt-khi-phê-duyệt-loại-hợp-đồng-không-phù-hợp-gói-thầu-91786fab6cb5115e]] - Mức phạt khi phê duyệt loại hợp đồng không phù hợp gói thầu
+- [[thẩm-quyền-cấm-tham-gia-đấu-thầu-27d3f0648478adec]] - Thẩm quyền cấm tham gia đấu thầu
+- [[thế-nào-bị-coi-là-chuyển-nhượng-thầu-fdfe94e33de1f53e]] - Thế nào bị coi là chuyển nhượng thầu?
+

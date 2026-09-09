@@ -56,6 +56,13 @@ Việc thực hiện hợp đồng dự án đầu tư kinh doanh tuân thủ ng
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **2 tình huống thực tế** được giải đáp liên quan đến Điều 71.
+
+- [[thủ-tục-đóng-mã-số-thuế-khi-giải-thể-doanh-nghiệp-6b7efb8bac058f42]] - Thủ tục đóng mã số thuế khi giải thể doanh nghiệp
+- [[đánh-giá-tài-chính-gói-thầu-tư-vấn-theo-phương-pháp-nào-63efcd0c50c94f35]] - Đánh giá tài chính gói thầu tư vấn theo phương pháp nào?
+
 **Ghi chú:**
 - Điều này thuộc Mục 2 Chương VII (Hợp đồng dự án đầu tư kinh doanh với nhà đầu tư)
 - Điều kiện ký kết: hồ sơ dự thầu còn hiệu lực + năng lực kỹ thuật/tài chính đáp ứng

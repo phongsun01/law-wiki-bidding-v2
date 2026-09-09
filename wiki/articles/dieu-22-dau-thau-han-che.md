@@ -43,6 +43,22 @@ Nhà tài trợ vốn cho dự án, gói thầu có yêu cầu đấu thầu h�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **82 tình huống thực tế** được giải đáp liên quan đến Điều 22.
+
+- [[6-trường-hợp-được-chỉ-định-thầu-c8b6cf35a6df6777]] - 6 trường hợp được chỉ định thầu
+- [[bốn-giải-pháp-xử-lý-tồn-tại-trong-đấu-thầu-qua-mạng-fdc25a58a55126dd]] - Bốn giải pháp xử lý tồn tại trong đấu thầu qua mạng
+- [[chi-phí-giám-sát-không-đưa-vào-dự-toán-có-bị-giảm-trừ-9c49438c50decd8a]] - Chi phí giám sát không đưa vào dự toán có bị giảm trừ?
+- [[chưa-có-quyết-định-phê-duyệt-dự-án-bố-trí-vốn-như-nào-dafdb79c1a28ed7a]] - Chưa có quyết định phê duyệt dự án, bố trí vốn như nào?
+- [[chỉ-định-thầu-phải-được-phê-duyệt-trong-kế-hoạch-lựa-chọn-nhà-thầu-e400c73ea9ec64e6]] - Chỉ định thầu phải được phê duyệt trong kế hoạch lựa chọn nhà thầu
+- [[chỉ-định-thầu-rút-gọn-có-phải-lập-hồ-sơ-yêu-cầu-không-9184781d77084979]] - Chỉ định thầu rút gọn có phải lập hồ sơ yêu cầu không?
+- [[chỉ-định-thầu-rút-gọn-áp-dụng-cho-gói-thầu-xây-lắp-nào-03298058115e5aba]] - Chỉ định thầu rút gọn áp dụng cho gói thầu xây lắp nào?
+- [[chỉ-định-thầu-rút-gọn-áp-dụng-theo-quy-định-mới-thế-nào-043beca5e8211c6c]] - Chỉ định thầu rút gọn áp dụng theo quy định mới thế nào?
+- [[chứng-chỉ-bồi-dưỡng-nghiệp-vụ-đấu-thầu-có-thời-hạn-hay-không-12ad1651ad4d5914]] - Chứng chỉ bồi dưỡng nghiệp vụ đấu thầu có thời hạn hay không?
+- [[các-gói-thầu-được-áp-dụng-chỉ-định-thầu-939a0b2f7f87efc8]] - Các gói thầu được áp dụng chỉ định thầu
+- *...và 72 tình huống khác trong [[INDEX-QA#dieu-22|Mục lục Q&A Điều 22]].*
+
 **Ghi chú:**
 - Khoản 1 được sửa đổi theo Luật 57/2024/QH15
 - Đấu thầu hạn chế áp dụng khi:

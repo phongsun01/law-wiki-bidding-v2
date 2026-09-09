@@ -45,6 +45,12 @@ Không xâm phạm đến lợi ích của Nhà nước, cộng đồng và lợ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **1 tình huống thực tế** được giải đáp liên quan đến Điều 69.
+
+- [[quy-định-về-gói-thầu-dịch-vụ-phi-tư-vấn-c35b0e7b0d494d12]] - Quy định về gói thầu dịch vụ phi tư vấn
+
 **Ghi chú:**
 - 3 nguyên tắc cơ bản: thực hiện đúng hợp đồng, trung thực hợp tác đúng pháp luật, không xâm phạm lợi ích
 - Áp dụng cho cả nhà thầu và chủ đầu tư

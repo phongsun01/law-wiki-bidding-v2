@@ -102,6 +102,22 @@ Chính phủ quy định chi tiết Điều này.
 - Khoản 4c: Giảm ngưỡng 30% → **20%** (nhà thầu cùng tham dự thầu hạn chế)
 - Khoản 4d: Giảm ngưỡng 30% → **20%** (nhà thầu với tư vấn)
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **106 tình huống thực tế** được giải đáp liên quan đến Điều 6.
+
+- [[2-đơn-vị-cùng-cơ-quan-có-được-tham-gia-1-gói-thầu-516ffc3fffd99747]] - 2 đơn vị cùng cơ quan có được tham gia 1 gói thầu?
+- [[ai-quyết-định-đơn-vị-thẩm-định-kế-hoạch-lựa-chọn-nhà-thầu-6d59d2c634780374]] - Ai quyết định đơn vị thẩm định kế hoạch lựa chọn nhà thầu?
+- [[bqlda-thuộc-ubnd-tỉnh-có-được-tham-gia-gói-thầu-của-sở-1f7265aea8b16607]] - BQLDA thuộc UBND tỉnh có được tham gia gói thầu của Sở?
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[chủ-đầu-tư-có-được-chỉ-định-thầu-cho-chi-nhánh-50c772b47a3097cb]] - Chủ đầu tư có được chỉ định thầu cho chi nhánh?
+- [[các-đơn-vị-thuộc-sở-có-được-tham-gia-gói-thầu-của-chi-cục-03e5643f90b7471d]] - Các đơn vị thuộc Sở có được tham gia gói thầu của chi cục?
+- [[có-bắt-buộc-tách-nhà-thầu-lập-nhiệm-vụ-và-thực-hiện-khảo-sát-xây-dựng-b530a7df91fda93a]] - Có bắt buộc tách nhà thầu lập nhiệm vụ và thực hiện khảo sát xây dựng?
+- [[có-thể-phê-duyệt-đồng-thời-nhiệm-vụ-và-dự-toán-chuẩn-bị-đầu-tư-d4aa367f39fbbcd6]] - Có thể phê duyệt đồng thời nhiệm vụ và dự toán chuẩn bị đầu tư?
+- [[có-thể-tham-gia-đồng-thời-gói-thầu-lập-dự-toán-và-lập-đồ-án-62a5e53794284981]] - Có thể tham gia đồng thời gói thầu lập dự toán và lập đồ án?
+- [[có-tên-trên-hệ-thống-đấu-thầu-quốc-gia-là-đáp-ứng-yêu-cầu-2bfa7ccf054a60bc]] - Có tên trên Hệ thống đấu thầu quốc gia là đáp ứng yêu cầu?
+- *...và 96 tình huống khác trong [[INDEX-QA#dieu-6|Mục lục Q&A Điều 6]].*
+
 ## Điều liên quan
 
 - [[dieu-5-tu-cach-hop-le]] - Tư cách hợp lệ (điểm đ khoản 1 tham chiếu Điều 6)

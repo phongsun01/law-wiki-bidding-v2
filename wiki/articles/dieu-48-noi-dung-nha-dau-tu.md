@@ -56,6 +56,15 @@ Hồ sơ mời thầu bao gồm:
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **4 tình huống thực tế** được giải đáp liên quan đến Điều 48.
+
+- [[căn-cứ-đánh-giá-sự-phù-hợp-của-dự-án-đầu-tư-với-quy-hoạch-da2def97b4c789fd]] - Căn cứ đánh giá sự phù hợp của dự án đầu tư với quy hoạch
+- [[thời-hạn-phải-nộp-tiền-trúng-đấu-giá-quyền-sử-dụng-đất-e374961080a3a0b9]] - Thời hạn phải nộp tiền trúng đấu giá quyền sử dụng đất
+- [[xác-định-thời-điểm-ký-quỹ-dự-án-đầu-tư-248fe240eae02ac2]] - Xác định thời điểm ký quỹ dự án đầu tư
+- [[đơn-vị-có-được-tự-quyết-định-thanh-lý-ô-tô-không-3c62cf6920381885]] - Đơn vị có được tự quyết định thanh lý ô tô không?
+
 **Ghi chú:**
 - Hồ sơ mời thầu cho nhà đầu tư chi tiết hơn nhà thầu
 - Bao gồm tiêu chuẩn đánh giá năng lực, phương án đầu tư, hiệu quả sử dụng đất

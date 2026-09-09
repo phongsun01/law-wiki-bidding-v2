@@ -72,6 +72,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **25 tình huống thực tế** được giải đáp liên quan đến Điều 55.
+
+- [[các-khoản-chi-cho-hoạt-động-đấu-giá-quyền-sử-dụng-đất-9b4e1f66beb52f36]] - Các khoản chi cho hoạt động đấu giá quyền sử dụng đất
+- [[có-phải-lập-biên-bản-mở-thầu-khi-chỉ-định-thầu-3fe0c3b531e31c22]] - Có phải lập biên bản mở thầu khi chỉ định thầu?
+- [[có-thể-chỉ-định-thầu-cho-công-ty-con-7057c2858cca6f25]] - Có thể chỉ định thầu cho công ty con?
+- [[có-thể-chỉ-định-thầu-cho-xí-nghiệp-trực-thuộc-ae91b4633d387a3d]] - Có thể chỉ định thầu cho xí nghiệp trực thuộc?
+- [[có-thể-đàm-phán-về-giá-khi-thương-thảo-hợp-đồng-21fc49bb4adc572f]] - Có thể đàm phán về giá khi thương thảo hợp đồng?
+- [[có-được-chỉ-định-thầu-cho-đơn-vị-sự-nghiệp-trực-thuộc-1e16b7f48ab7cda4]] - Có được chỉ định thầu cho đơn vị sự nghiệp trực thuộc?
+- [[công-trình-nghệ-thuật-gắn-với-quyền-tác-giả-đấu-thầu-thế-nào-7e1d0dd92783e465]] - Công trình nghệ thuật gắn với quyền tác giả, đấu thầu thế nào?
+- [[công-ty-mẹ-có-được-chỉ-định-thầu-cho-công-ty-con-c9f68ad6d9ea7d1c]] - Công ty mẹ có được chỉ định thầu cho công ty con?
+- [[căn-cứ-chọn-nhà-thầu-tổ-chức-đấu-giá-đất-62e2edf2019a6b4b]] - Căn cứ chọn nhà thầu tổ chức đấu giá đất
+- [[gói-thầu-cung-cấp-dịch-vụ-có-thể-chỉ-định-thầu-f1a8a53032c0bf58]] - Gói thầu cung cấp dịch vụ có thể chỉ định thầu?
+- *...và 15 tình huống khác trong [[INDEX-QA#dieu-55|Mục lục Q&A Điều 55]].*
+
 **Ghi chú:**
 - 6 cách thức lựa chọn nhà thầu cho thiết bị y tế, hóa chất, vật tư
 - Cách b: theo số lượng dịch vụ kỹ thuật, hợp đồng tối đa 5 năm

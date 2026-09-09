@@ -1,0 +1,27 @@
+---
+title: "Gói thầu tư vấn trên 500 triệu đồng có được chỉ định thầu?"
+date: 15:12 02/03/2017
+author: "Thái Hoàng Ân"
+agency: ""
+source_url: "https://chinhsachonline.chinhphu.vn/goi-thau-tu-van-tren-500-trieu-dong-co-duoc-chi-dinh-thau-19243.htm"
+ingested: 2026-09-09
+type: practical-qa
+related_articles: [11, 12, 22, 54]
+---
+
+# Gói thầu tư vấn trên 500 triệu đồng có được chỉ định thầu?
+
+- **Người hỏi:** Thái Hoàng Ân (15:12 02/03/2017)
+- **Cơ quan trả lời:** 
+- **Nguồn gốc:** [Cổng TTĐT Chính Phủ - Chuyên mục Tài chính - Công thương](https://chinhsachonline.chinhphu.vn/goi-thau-tu-van-tren-500-trieu-dong-co-duoc-chi-dinh-thau-19243.htm)
+
+### Căn cứ & Khái niệm liên quan
+ - [[dieu-11-dau-thau-quoc-te]], [[dieu-12-ngon-ngu]], [[dieu-22-dau-thau-han-che]], [[dieu-54-thoa-thuan-khung]], [[goi-thau]]
+
+## Câu hỏi thực tế
+Tôi công tác tại Ban Quản lý các dự án TP. Bến Tre, tỉnh Bến Tre. Hiện Ban quản lý chuẩn bị đầu tư lập quy hoạch chi tiết đô thị 1/500, giá gói thầu trên 500 triệu đồng. Theo quy định của Luật Đấu thầu và Nghị định số 63/2014/NĐ-CP thì giá gói thầu tư vấn trên 500 triệu đồng thực hiện đấu thầu rộng rãi. Tuy nhiên, theo Khoản 1, Điều 11 Luật Quy hoạch đô thị, việc lập quy hoạch đô thị phải do đơn vị tư vấn thực hiện. Tổ chức tư vấn lập quy hoạch đô thị được lựa chọn thông qua hình thức chỉ định hoặc thi tuyển. Theo Khoản 1, Điều 12 Nghị định số 37/2010/NĐ-CP về lập, thẩm định, phê duyệt và quản lý quy hoạch, việc lựa chọn tổ chức tư vấn lập quy hoạch đô thị thông qua hình thức chỉ định thầu. Cơ quan tổ chức lập quy hoạch đô thị thực hiện việc chỉ định tổ chức tư vấn lập quy hoạch theo quy định pháp luật về chỉ định thầu. Xin hỏi, cơ quan tôi tiến hành chỉ định thầu đối với gói thầu nêu trên có được không?
+
+## Hướng dẫn giải quyết
+Bộ Kế hoạch và Đầu tư trả lời về vấn đề này như sau:
+Các trường hợp chỉ định thầu được quy định tại Khoản 1, Điều 22 Luật Đấu thầu và hạn mức chỉ định thầu được quy định tại Điều 54 Nghị định số 63/2014/NĐ-CP của Chính phủ.
+Đối với trường hợp của ông Ân, nếu gói thầu không thuộc các trường hợp chỉ định thầu nêu trên thì việc áp dụng chỉ định thầu là không phù hợp với quy định của pháp luật đấu thầu.

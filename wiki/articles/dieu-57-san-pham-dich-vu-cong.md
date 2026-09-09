@@ -43,6 +43,22 @@ Ngoài các hình thức lựa chọn nhà thầu quy định tại Chương II 
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **26 tình huống thực tế** được giải đáp liên quan đến Điều 57.
+
+- [[ai-có-trách-nhiệm-xác-định-loại-gói-thầu-54cf40364e2ae3d1]] - Ai có trách nhiệm xác định loại gói thầu?
+- [[chào-hàng-cạnh-tranh-có-phải-đấu-thầu-qua-mạng-9ecbcaf33d65a05b]] - Chào hàng cạnh tranh có phải đấu thầu qua mạng?
+- [[chào-hàng-cạnh-tranh-áp-dụng-cho-gói-thầu-2-hay-5-tỷ-đồng-c2cf54e431c4e3bd]] - Chào hàng cạnh tranh áp dụng cho gói thầu 2 hay 5 tỷ đồng?
+- [[căn-cứ-đánh-giá-năng-lực-nhà-thầu-75339a773b754241]] - Căn cứ đánh giá năng lực nhà thầu
+- [[căn-cứ-đánh-giá-sự-phù-hợp-của-dự-án-đầu-tư-với-quy-hoạch-da2def97b4c789fd]] - Căn cứ đánh giá sự phù hợp của dự án đầu tư với quy hoạch
+- [[dùng-chứng-thư-số-công-cộng-trên-hệ-thống-mạng-đấu-thầu-quốc-gia-1d3ec88afb2f8c75]] - Dùng chứng thư số công cộng trên Hệ thống mạng đấu thầu quốc gia
+- [[dự-án-có-một-nhà-đầu-tư-trúng-sơ-tuyển-lập-hồ-sơ-thế-nào-1b83899e87d8b373]] - Dự án có một nhà đầu tư trúng sơ tuyển, lập hồ sơ thế nào?
+- [[gói-thầu-10-triệu-đồng-được-chào-hàng-cạnh-tranh-rút-gọn-51de6d978232c512]] - Gói thầu 10 triệu đồng được chào hàng cạnh tranh rút gọn?
+- [[gói-thầu-nào-được-chào-hàng-cạnh-tranh-theo-quy-trình-rút-gọn-a243ad10257831e8]] - Gói thầu nào được chào hàng cạnh tranh theo quy trình rút gọn?
+- [[gói-thầu-thế-nào-được-coi-là-đơn-giản-747b356ebd3839bd]] - Gói thầu thế nào được coi là "đơn giản"?
+- *...và 16 tình huống khác trong [[INDEX-QA#dieu-57|Mục lục Q&A Điều 57]].*
+
 **Ghi chú:**
 - Bổ sung hình thức giao nhiệm vụ cho sản phẩm, dịch vụ công
 - Áp dụng ngoài 9 hình thức lựa chọn nhà thầu ở Chương II

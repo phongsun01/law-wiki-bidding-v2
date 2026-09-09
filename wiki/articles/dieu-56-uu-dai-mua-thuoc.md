@@ -46,6 +46,22 @@ Bộ Y tế có trách nhiệm công bố danh mục thuốc quy định tại �
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **35 tình huống thực tế** được giải đáp liên quan đến Điều 56.
+
+- [[chỉ-định-thầu-rút-gọn-có-phải-lập-hồ-sơ-yêu-cầu-không-9184781d77084979]] - Chỉ định thầu rút gọn có phải lập hồ sơ yêu cầu không?
+- [[chỉ-định-thầu-rút-gọn-xác-định-năng-lực-nhà-thầu-thế-nào-f423a631fdefee0c]] - Chỉ định thầu rút gọn, xác định năng lực nhà thầu thế nào?
+- [[chỉ-định-thầu-rút-gọn-áp-dụng-cho-gói-thầu-xây-lắp-nào-03298058115e5aba]] - Chỉ định thầu rút gọn áp dụng cho gói thầu xây lắp nào?
+- [[chỉ-định-thầu-rút-gọn-áp-dụng-theo-quy-định-mới-thế-nào-043beca5e8211c6c]] - Chỉ định thầu rút gọn áp dụng theo quy định mới thế nào?
+- [[có-nhất-thiết-phải-làm-biên-bản-thương-thảo-hợp-đồng-6e79f3348177891b]] - Có nhất thiết phải làm biên bản thương thảo hợp đồng?
+- [[có-phải-lập-biên-bản-mở-thầu-khi-chỉ-định-thầu-3fe0c3b531e31c22]] - Có phải lập biên bản mở thầu khi chỉ định thầu?
+- [[có-quy-định-nhà-thầu-phải-cung-cấp-đơn-giá-chi-tiết-ccd63b5b78e54792]] - Có quy định nhà thầu phải cung cấp đơn giá chi tiết?
+- [[có-quy-định-về-hình-thức-ký-hợp-đồng-ủy-thác-trong-đấu-thầu-31fde0489987e471]] - Có quy định về hình thức ký hợp đồng ủy thác trong đấu thầu?
+- [[có-được-chỉ-định-thầu-cho-liên-danh-không-0a3f272052c5297e]] - Có được chỉ định thầu cho liên danh không?
+- [[có-được-chỉ-định-thầu-cho-đơn-vị-sự-nghiệp-trực-thuộc-1e16b7f48ab7cda4]] - Có được chỉ định thầu cho đơn vị sự nghiệp trực thuộc?
+- *...và 25 tình huống khác trong [[INDEX-QA#dieu-56|Mục lục Q&A Điều 56]].*
+
 **Ghi chú:**
 - Ưu đãi thuốc trong nước khi có ≥3 hãng đáp ứng tiêu chuẩn
 - Điểm a: chủ đầu tư quyết định yêu cầu thuốc trong nước

@@ -53,6 +53,12 @@ Nội dung công bố dự án đầu tư kinh doanh bao gồm:
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **1 tình huống thực tế** được giải đáp liên quan đến Điều 47.
+
+- [[về-việc-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-7724b6640644635b]] - Về việc phê duyệt danh sách xếp hạng nhà thầu
+
 **Ghi chú:**
 - Công bố trên Hệ thống mạng đấu thầu quốc gia
 - Nội dung bao gồm thông tin dự án, đất đai, tiến độ, hình thức lựa chọn

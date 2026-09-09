@@ -58,6 +58,22 @@ a)<sup>84</sup>(#footnote-84) Quyết định phê duyệt dự án và tài li�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **11 tình huống thực tế** được giải đáp liên quan đến Điều 38.
+
+- [[chào-hàng-cạnh-tranh-chọn-nhà-thầu-thế-nào-3baf654f0a1b39f9]] - Chào hàng cạnh tranh chọn nhà thầu thế nào?
+- [[cách-tính-dự-toán-gói-thầu-bảo-hiểm-công-trình-bc24b165596ba811]] - Cách tính dự toán gói thầu bảo hiểm công trình
+- [[căn-cứ-xác-định-giá-khởi-điểm-khi-đấu-giá-quyền-sử-dụng-đất-a9d3f43fe2d921a3]] - Căn cứ xác định giá khởi điểm khi đấu giá quyền sử dụng đất
+- [[hướng-dẫn-áp-dụng-hình-thức-tự-thực-hiện-gói-thầu-53fad86125131aff]] - Hướng dẫn áp dụng hình thức tự thực hiện gói thầu
+- [[hồ-sơ-mời-thầu-thế-nào-là-hợp-lệ-c18d8be806264343]] - Hồ sơ mời thầu thế nào là hợp lệ?
+- [[quy-định-về-phê-duyệt-danh-sách-nhà-thầu-28c44980680b8197]] - Quy định về phê duyệt danh sách nhà thầu
+- [[thuê-chuyên-gia-đánh-giá-hsmt-có-phải-là-dịch-vụ-tư-vấn-f157825939d0ab80]] - Thuê chuyên gia đánh giá HSMT có phải là dịch vụ tư vấn?
+- [[thời-gian-thực-hiện-gói-thầu-ghi-thế-nào-là-hợp-lý-7c35a1f41e5d7961]] - Thời gian thực hiện gói thầu ghi thế nào là hợp lý?
+- [[thủ-tục-đóng-mã-số-thuế-khi-giải-thể-doanh-nghiệp-6b7efb8bac058f42]] - Thủ tục đóng mã số thuế khi giải thể doanh nghiệp
+- [[xử-lý-tình-huống-khi-chỉ-một-nhà-thầu-tham-gia-đấu-thầu-1ecb075c390993b9]] - Xử lý tình huống khi chỉ một nhà thầu tham gia đấu thầu
+- *...và 1 tình huống khác trong [[INDEX-QA#dieu-38|Mục lục Q&A Điều 38]].*
+
 **Ghi chú:**
 - Điều này quy định căn cứ pháp lý để lập kế hoạch lựa chọn nhà thầu
 - Phân biệt 2 trường hợp: dự án và dự toán mua sắm

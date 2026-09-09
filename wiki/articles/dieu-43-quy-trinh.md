@@ -60,6 +60,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **26 tình huống thực tế** được giải đáp liên quan đến Điều 43.
+
+- [[bổ-sung-khối-lượng-công-việc-thiếu-trên-cơ-sở-đơn-giá-đã-chào-6738e1fe086e423f]] - Bổ sung khối lượng công việc thiếu trên cơ sở đơn giá đã chào
+- [[chi-phí-dự-phòng-không-dùng-đến-được-phân-bổ-thế-nào-375a9cccc2aecda3]] - Chi phí dự phòng không dùng đến được phân bổ thế nào?
+- [[chi-phí-hạng-mục-chung-có-phân-bổ-vào-giá-dự-thầu-5d680a674f87d0aa]] - Chi phí hạng mục chung có phân bổ vào giá dự thầu?
+- [[chủ-đầu-tư-có-cần-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-27fec86bc33dbdc0]] - Chủ đầu tư có cần phê duyệt danh sách xếp hạng nhà thầu?
+- [[chủ-đầu-tư-có-phải-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-b0ca979de1f1782e]] - Chủ đầu tư có phải phê duyệt danh sách xếp hạng nhà thầu?
+- [[chủ-đầu-tư-có-được-tự-quyết-định-chỉ-định-thầu-rút-gọn-04d7bd74f0cf40d1]] - Chủ đầu tư có được tự quyết định chỉ định thầu rút gọn?
+- [[các-khoản-kinh-phí-được-phép-chuyển-nguồn-8550d01c5e2fcf8e]] - Các khoản kinh phí được phép chuyển nguồn
+- [[có-thể-xét-trúng-thầu-theo-dự-toán-được-duyệt-47573da7822c5a1a]] - Có thể xét trúng thầu theo dự toán được duyệt?
+- [[dự-toán-được-duyệt-có-thể-thay-thế-giá-gói-thầu-e25850479302d923]] - Dự toán được duyệt có thể thay thế giá gói thầu
+- [[giá-đề-nghị-trúng-thầu-không-vượt-giá-được-phê-duyệt-8af155ba9b74cb99]] - Giá đề nghị trúng thầu không vượt giá được phê duyệt
+- *...và 16 tình huống khác trong [[INDEX-QA#dieu-43|Mục lục Q&A Điều 43]].*
+
 **Ghi chú:**
 - Quy trình gồm 6 bước chính từ chuẩn bị đến quản lý hợp đồng
 - Chỉ định thầu có yêu cầu thương thảo giá để đảm bảo tiết kiệm

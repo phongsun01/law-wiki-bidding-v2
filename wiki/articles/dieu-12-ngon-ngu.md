@@ -37,6 +37,22 @@ Ngôn ngữ sử dụng đối với đấu thầu quốc tế là **tiếng Anh
 
 Trường hợp ngôn ngữ sử dụng trong hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu là tiếng Việt và tiếng Anh thì nhà thầu, nhà đầu tư được **lựa chọn tiếng Việt hoặc tiếng Anh** để tham dự thầu.
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **102 tình huống thực tế** được giải đáp liên quan đến Điều 12.
+
+- [[bên-mời-thầu-hạn-chế-sự-tham-gia-của-nhà-thầu-7fba94fe98f326fc]] - Bên mời thầu hạn chế sự tham gia của nhà thầu?
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[chỉ-cần-chứng-minh-khả-năng-huy-động-nhân-sự-thực-hiện-gói-thầu-04ad3b0220ae6d44]] - Chỉ cần chứng minh khả năng huy động nhân sự thực hiện gói thầu
+- [[chủ-đầu-tư-hay-bên-mời-thầu-được-gia-hạn-đánh-giá-hồ-sơ-dự-thầu-b691a08ef4296cd1]] - Chủ đầu tư hay bên mời thầu được gia hạn đánh giá hồ sơ dự thầu?
+- [[các-nguồn-kinh-phí-mua-sắm-phải-thực-hiện-đấu-thầu-79c5d02898d988f7]] - Các nguồn kinh phí mua sắm phải thực hiện đấu thầu
+- [[các-tiêu-chuẩn-đánh-giá-hồ-sơ-dự-thầu-e57106c743d86fbe]] - Các tiêu chuẩn đánh giá hồ sơ dự thầu
+- [[cách-tính-doanh-thu-bình-quân-của-nhà-thầu-9a986bfa926aae49]] - Cách tính doanh thu bình quân của nhà thầu
+- [[cách-tính-hiệu-lực-chứng-chỉ-hành-nghề-đấu-thầu-e247f4236bb91f23]] - Cách tính hiệu lực chứng chỉ hành nghề đấu thầu
+- [[cách-tính-tiền-sử-dụng-đất-tái-định-cư-đối-với-thương-binh-1f76317fb1553064]] - Cách tính tiền sử dụng đất tái định cư đối với thương binh
+- [[có-hóa-đơn-gtgt-mua-hàng-hóa-mới-được-khấu-trừ-thuế-0da902b852011ac4]] - Có hóa đơn GTGT mua hàng hóa mới được khấu trừ thuế
+- *...và 92 tình huống khác trong [[INDEX-QA#dieu-12|Mục lục Q&A Điều 12]].*
+
 ## Điều liên quan
 
 - [[dieu-11-dau-thau-quoc-te]] - Đấu thầu quốc tế

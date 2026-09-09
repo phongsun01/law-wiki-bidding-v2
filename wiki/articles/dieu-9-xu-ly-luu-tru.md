@@ -61,6 +61,22 @@ Hồ sơ quyết toán, hồ sơ hoàn công và tài liệu liên quan đến n
 
 Toàn bộ hồ sơ liên quan đến quá trình lựa chọn nhà thầu, nhà đầu tư được lưu trữ trong thời hạn tối thiểu là **05 năm** kể từ ngày quyết toán hợp đồng hoặc ngày chấm dứt hợp đồng dự án đầu tư kinh doanh, trừ hồ sơ quy định tại các khoản 1, 2, 4 và 5 Điều này.
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **51 tình huống thực tế** được giải đáp liên quan đến Điều 9.
+
+- [[chi-phí-dự-phòng-không-dùng-đến-được-phân-bổ-thế-nào-375a9cccc2aecda3]] - Chi phí dự phòng không dùng đến được phân bổ thế nào?
+- [[chi-phí-logistics-phát-sinh-ở-nước-ngoài-có-chịu-thuế-giá-trị-gia-tăng-f3dac397ca7fd285]] - Chi phí logistics phát sinh ở nước ngoài có chịu thuế giá trị gia tăng?
+- [[chi-phí-lập-hồ-sơ-mời-thầu-khi-thuê-tư-vấn-a4243ebcdd27d7ce]] - Chi phí lập hồ sơ mời thầu khi thuê tư vấn
+- [[chi-phí-lập-hồ-sơ-thầu-tối-thiểu-là-1-triệu-đồng-c219284e92f9bb7a]] - Chi phí lập hồ sơ thầu tối thiểu là 1 triệu đồng
+- [[chi-phí-lựa-chọn-nhà-thầu-có-bao-gồm-thuế-phí-04c2f1ee7ccd9c4f]] - Chi phí lựa chọn nhà thầu có bao gồm thuế, phí?
+- [[chi-phí-thuê-tư-vấn-đấu-thầu-xác-định-thế-nào-ff1e22b683174b53]] - Chi phí thuê tư vấn đấu thầu, xác định thế nào?
+- [[chọn-nhà-đầu-tư-dự-án-bt-theo-quy-định-nào-751bbd1a1305b04a]] - Chọn nhà đầu tư dự án BT theo quy định nào?
+- [[chủ-đầu-tư-có-được-lựa-chọn-nhà-thầu-kiểm-toán-73181bf532cd8067]] - Chủ đầu tư có được lựa chọn nhà thầu kiểm toán?
+- [[cách-tính-chi-phí-thuê-tư-vấn-đấu-thầu-c958920eb0e7f98d]] - Cách tính chi phí thuê tư vấn đấu thầu
+- [[cách-xác-định-mức-độ-tự-chủ-tài-chính-của-đơn-vị-sự-nghiệp-36614344c4bd87df]] - Cách xác định mức độ tự chủ tài chính của đơn vị sự nghiệp
+- *...và 41 tình huống khác trong [[INDEX-QA#dieu-9|Mục lục Q&A Điều 9]].*
+
 ## Điều liên quan
 
 - [[dieu-17-huy-thau]] - Hủy thầu

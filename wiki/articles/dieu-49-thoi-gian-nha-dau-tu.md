@@ -47,6 +47,15 @@ anchors:
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **4 tình huống thực tế** được giải đáp liên quan đến Điều 49.
+
+- [[chọn-nhà-đầu-tư-dự-án-bt-theo-quy-định-nào-751bbd1a1305b04a]] - Chọn nhà đầu tư dự án BT theo quy định nào?
+- [[lập-chi-nhánh-văn-phòng-đại-diện-phải-bố-trí-kế-toán-trưởng-76771c6285fbf304]] - Lập chi nhánh, văn phòng đại diện phải bố trí kế toán trưởng?
+- [[trúng-đấu-giá-tài-sản-thế-chấp-có-phải-điều-chỉnh-dự-án-ae4c118ed4678722]] - Trúng đấu giá tài sản thế chấp, có phải điều chỉnh dự án?
+- [[trường-hợp-nào-phải-lập-lại-quy-hoạch-theo-luật-mới-76c95aa9e4cdb05f]] - Trường hợp nào phải lập lại quy hoạch theo luật mới?
+
 **Ghi chú:**
 - Đấu thầu trong nước: tối thiểu 45 ngày
 - Đấu thầu quốc tế: tối thiểu 60 ngày

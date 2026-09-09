@@ -61,6 +61,20 @@ Chính phủ thống nhất quản lý nhà nước đối với hoạt động 
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **9 tình huống thực tế** được giải đáp liên quan đến Điều 84.
+
+- [[chi-nhánh-có-được-làm-nhà-thầu-chính-177adc9a7aa369e0]] - Chi nhánh có được làm nhà thầu chính?
+- [[chi-nhánh-có-được-tự-tham-gia-đấu-thầu-3e21fc8c5449a345]] - Chi nhánh có được tự tham gia đấu thầu?
+- [[chi-nhánh-công-ty-có-đủ-tư-cách-khi-tham-gia-đấu-thầu-f67233d9db3f9003]] - Chi nhánh công ty có đủ tư cách khi tham gia đấu thầu?
+- [[chủ-đầu-tư-có-được-chỉ-định-thầu-cho-chi-nhánh-50c772b47a3097cb]] - Chủ đầu tư có được chỉ định thầu cho chi nhánh?
+- [[quy-định-thời-gian-phát-hành-hồ-sơ-mời-thầu-có-mâu-thuẫn-không-323298d926b9e889]] - Quy định thời gian phát hành hồ sơ mời thầu có mâu thuẫn không?
+- [[thông-báo-mời-thầu-có-cần-đính-kèm-hồ-sơ-mời-thầu-không-d5399dd797711885]] - Thông báo mời thầu có cần đính kèm hồ sơ mời thầu không?
+- [[thời-điểm-phát-hành-hồ-sơ-mời-thầu-khi-đấu-thầu-không-qua-mạng-e17b9a0d6c52e6ca]] - Thời điểm phát hành hồ sơ mời thầu khi đấu thầu không qua mạng
+- [[điều-kiện-áp-dụng-hình-thức-tự-thực-hiện-gói-thầu-f57ebc62336c41dd]] - Điều kiện áp dụng hình thức tự thực hiện gói thầu
+- [[điều-kiện-áp-dụng-lựa-chọn-nhà-thầu-trong-trường-hợp-đặc-biệt-4e2258b329b8bfab]] - Điều kiện áp dụng lựa chọn nhà thầu trong trường hợp đặc biệt
+
 **Ghi chú:**
 - Bộ Kế hoạch và Đầu tư được thay thế bằng Bộ Tài chính theo Luật 90/2025/QH15
 - Bộ Tài chính là cơ quan đầu mối quản lý nhà nước về đấu thầu

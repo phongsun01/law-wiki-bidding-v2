@@ -80,6 +80,22 @@ Tổ chức, cá nhân vi phạm quy định của pháp luật dẫn đến h�
 - Khoản 2d: Bỏ trường hợp hủy thầu khi nhà đầu tư trúng thầu vi phạm
 - Chỉ hủy thầu khi tổ chức, cá nhân **khác** ngoài nhà thầu/nhà đầu tư trúng thầu vi phạm dẫn đến sai lệch kết quả
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **43 tình huống thực tế** được giải đáp liên quan đến Điều 17.
+
+- [[bảng-giá-dự-thầu-không-thống-nhất-xử-lý-thế-nào-71dcd2195472c071]] - Bảng giá dự thầu không thống nhất, xử lý thế nào?
+- [[bảo-đảm-dự-thầu-không-được-hoàn-trả-trong-trường-hợp-nào-c9321d7958fc5688]] - Bảo đảm dự thầu không được hoàn trả trong trường hợp nào?
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[bộ-khđt-hướng-dẫn-đánh-giá-hồ-sơ-dự-thầu-4e066d3d5753dbe4]] - Bộ KHĐT hướng dẫn đánh giá hồ sơ dự thầu
+- [[chi-phí-giám-sát-không-đưa-vào-dự-toán-có-bị-giảm-trừ-9c49438c50decd8a]] - Chi phí giám sát không đưa vào dự toán có bị giảm trừ?
+- [[chủ-đầu-tư-hủy-thầu-xử-lý-như-nào-a55ce3c7abc54782]] - Chủ đầu tư hủy thầu, xử lý như nào?
+- [[các-dự-án-từ-nguồn-thu-của-các-đơn-vị-sự-nghiệp-quy-trình-đầu-tư-thế-nào-38a44768b1349f35]] - Các dự án từ nguồn thu của các đơn vị sự nghiệp, quy trình đầu tư thế nào?
+- [[các-trường-hợp-được-phép-hủy-thầu-34d2df923fb0a843]] - Các trường hợp được phép hủy thầu
+- [[có-được-bổ-sung-liệt-kê-thiết-bị-vào-hồ-sơ-dự-thầu-bb220e3e599aa53e]] - Có được bổ sung liệt kê thiết bị vào hồ sơ dự thầu?
+- [[có-được-ký-phụ-lục-để-điều-chỉnh-cơ-cấu-trong-hợp-đồng-39ddb003ffec0c0f]] - Có được ký phụ lục để điều chỉnh cơ cấu trong hợp đồng?
+- *...và 33 tình huống khác trong [[INDEX-QA#dieu-17|Mục lục Q&A Điều 17]].*
+
 ## Điều liên quan
 
 - [[dieu-16-hanh-vi-cam]] - Các hành vi bị cấm

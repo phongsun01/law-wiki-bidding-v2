@@ -57,6 +57,21 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **10 tình huống thực tế** được giải đáp liên quan đến Điều 67.
+
+- [[có-phải-điều-chỉnh-giá-gói-thầu-khi-điều-chỉnh-giá-hợp-đồng-a77616c1542d0adc]] - Có phải điều chỉnh giá gói thầu khi điều chỉnh giá hợp đồng?
+- [[có-thực-hiện-mua-sắm-tập-trung-từ-quỹ-phát-triển-sự-nghiệp-1d5c3de1c3095072]] - Có thực hiện mua sắm tập trung từ quỹ phát triển sự nghiệp?
+- [[có-được-ký-phụ-lục-điều-chỉnh-hợp-đồng-sau-khi-trúng-thầu-7a33f6fce2ce72f9]] - Có được ký phụ lục điều chỉnh hợp đồng sau khi trúng thầu?
+- [[có-được-ký-phụ-lục-để-điều-chỉnh-cơ-cấu-trong-hợp-đồng-39ddb003ffec0c0f]] - Có được ký phụ lục để điều chỉnh cơ cấu trong hợp đồng?
+- [[có-được-sửa-đổi-hợp-đồng-khi-giảm-khối-lượng-công-việc-1ed65202be485751]] - Có được sửa đổi hợp đồng khi giảm khối lượng công việc?
+- [[gia-hạn-thời-gian-thi-công-có-phải-điều-chỉnh-kế-hoạch-chọn-nhà-thầu-8d4a1d5aa01ea831]] - Gia hạn thời gian thi công có phải điều chỉnh kế hoạch chọn nhà thầu?
+- [[hồ-sơ-dự-thầu-hết-hiệu-lực-xử-lý-thế-nào-a46d71f4e2d935d1]] - Hồ sơ dự thầu hết hiệu lực, xử lý thế nào?
+- [[hợp-đồng-phải-phù-hợp-với-nội-dung-hồ-sơ-mời-thầu-b3e4937265f74ae2]] - Hợp đồng phải phù hợp với nội dung hồ sơ mời thầu
+- [[một-gói-thầu-được-thực-hiện-theo-một-hợp-đồng-cbf1bfa87331fb54]] - Một gói thầu được thực hiện theo một hợp đồng
+- [[phải-hình-thành-gói-thầu-mới-với-phần-công-việc-phát-sinh-f7d6fe3d3ad8d34c]] - Phải hình thành gói thầu mới với phần công việc phát sinh?
+
 **Ghi chú:**
 - Nguyên tắc một gói thầu một hợp đồng (trừ mua sắm tập trung hoặc chia phần)
 - Hợp đồng phải phù hợp với hồ sơ mời thầu, dự thầu và quyết định phê duyệt

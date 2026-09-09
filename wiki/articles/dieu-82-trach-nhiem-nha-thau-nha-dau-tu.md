@@ -67,6 +67,14 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **3 tình huống thực tế** được giải đáp liên quan đến Điều 82.
+
+- [[ai-quyết-định-đơn-vị-thẩm-định-kế-hoạch-lựa-chọn-nhà-thầu-6d59d2c634780374]] - Ai quyết định đơn vị thẩm định kế hoạch lựa chọn nhà thầu?
+- [[khi-nào-nhà-thầu-được-thay-nhân-sự-chủ-chốt-8d4735d7f5d13203]] - Khi nào nhà thầu được thay nhân sự chủ chốt?
+- [[nhà-thầu-có-được-thay-nhân-sự-chủ-chốt-sau-khi-ký-hợp-đồng-c95286b347776fe6]] - Nhà thầu có được thay nhân sự chủ chốt sau khi ký hợp đồng?
+
 **Ghi chú:**
 - Khoản 4a được bổ sung theo Luật 90/2025/QH15 về quản lý nhà thầu phụ
 - Nhà thầu phải chịu trách nhiệm về thông tin đăng tải trên Hệ thống mạng đấu thầu quốc gia

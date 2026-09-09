@@ -144,6 +144,22 @@ Bảo đảm dự thầu không được hoàn trả trong các trường hợp 
 
 ~~c) Trường hợp bên mời thầu là đơn vị tư vấn đấu thầu do chủ đầu tư lựa chọn thì khoản thu này phải nộp lại cho chủ đầu tư~~ (Đã bỏ bởi Luật 57/2024)
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **42 tình huống thực tế** được giải đáp liên quan đến Điều 14.
+
+- [[bảo-đảm-dự-thầu-của-liên-danh-thế-nào-là-hợp-lệ-13ee6e6341048ac1]] - Bảo đảm dự thầu của liên danh thế nào là hợp lệ?
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[chi-phí-giám-sát-không-đưa-vào-dự-toán-có-bị-giảm-trừ-9c49438c50decd8a]] - Chi phí giám sát không đưa vào dự toán có bị giảm trừ?
+- [[chi-phí-được-quyết-toán-phải-nằm-trong-tổng-mức-đầu-tư-d2b4d675de1c2384]] - Chi phí được quyết toán phải nằm trong tổng mức đầu tư
+- [[chi-thù-lao-cho-tổ-chuyên-gia-đấu-thầu-như-thế-nào-631e6582b317048e]] - Chi thù lao cho tổ chuyên gia đấu thầu như thế nào?
+- [[chuyển-nhượng-vốn-hay-chuyển-nhượng-chứng-khoán-7dc771ea25eea531]] - Chuyển nhượng vốn hay chuyển nhượng chứng khoán?
+- [[chuyển-thành-nhà-thầu-liên-danh-có-phải-báo-lại-bên-mời-thầu-d044cb0cb3ee5cc3]] - Chuyển thành nhà thầu liên danh có phải báo lại bên mời thầu?
+- [[chỉ-cần-1-thành-viên-liên-danh-mua-hồ-sơ-mời-thầu-9de1d6b69f791b02]] - Chỉ cần 1 thành viên liên danh mua hồ sơ mời thầu
+- [[chọn-nhà-đầu-tư-dự-án-bt-theo-quy-định-nào-751bbd1a1305b04a]] - Chọn nhà đầu tư dự án BT theo quy định nào?
+- [[các-trường-hợp-chưa-bắt-buộc-phải-có-chứng-chỉ-đấu-thầu-4f48dddbbfcd315f]] - Các trường hợp chưa bắt buộc phải có chứng chỉ đấu thầu?
+- *...và 32 tình huống khác trong [[INDEX-QA#dieu-14|Mục lục Q&A Điều 14]].*
+
 ## Điều liên quan
 
 - [[dieu-16-hanh-vi-cam]] - Các hành vi bị cấm

@@ -86,6 +86,12 @@ Chính phủ quy định việc kết nối, chia sẻ thông tin theo quy đị
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **1 tình huống thực tế** được giải đáp liên quan đến Điều 50.
+
+- [[quyết-toán-chuyển-nguồn-ngân-sách-2025-theo-luật-nào-dd46d83ad062c12f]] - Quyết toán, chuyển nguồn ngân sách 2025 theo luật nào?
+
 **Ghi chú:**
 - Từ 01/01/2025: bắt buộc đấu thầu qua mạng cho tất cả gói thầu (trừ ngoại lệ)
 - Hệ thống mạng đấu thầu quốc gia xử lý toàn bộ quy trình từ đăng tải đến thanh toán

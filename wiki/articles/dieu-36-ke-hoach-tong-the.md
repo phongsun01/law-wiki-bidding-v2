@@ -67,6 +67,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **12 tình huống thực tế** được giải đáp liên quan đến Điều 36.
+
+- [[chưa-thể-lập-kế-hoạch-chọn-nhà-thầu-cho-toàn-bộ-dự-án-xử-lý-thế-nào-7a722fc8ab162166]] - Chưa thể lập kế hoạch chọn nhà thầu cho toàn bộ dự án, xử lý thế nào?
+- [[có-phải-điều-chỉnh-giá-gói-thầu-khi-điều-chỉnh-giá-hợp-đồng-a77616c1542d0adc]] - Có phải điều chỉnh giá gói thầu khi điều chỉnh giá hợp đồng?
+- [[căn-cứ-đánh-giá-giá-dự-thầu-4c441378eb4729c2]] - Căn cứ đánh giá giá dự thầu
+- [[di-dời-công-trình-hạ-tầng-kỹ-thuật-có-được-chỉ-định-thầu-a1063496e859c232]] - Di dời công trình hạ tầng kỹ thuật có được chỉ định thầu?
+- [[dự-án-nào-phải-lập-kế-hoạch-tổng-thể-lựa-chọn-nhà-thầu-6ca32906a83af677]] - Dự án nào phải lập kế hoạch tổng thể lựa chọn nhà thầu?
+- [[gói-thầu-cần-thực-hiện-trước-khi-có-quyết-định-phê-duyệt-dự-án-36b15b7074560fff]] - Gói thầu cần thực hiện trước khi có quyết định phê duyệt dự án
+- [[lập-danh-mục-dự-án-thu-hồi-đất-có-cần-văn-bản-chấp-thuận-đầu-tư-f6c0d8bd14c98475]] - Lập danh mục dự án thu hồi đất có cần văn bản chấp thuận đầu tư?
+- [[phần-việc-nào-phải-có-trong-kế-hoạch-lựa-chọn-nhà-thầu-d818e14295bd0d1b]] - Phần việc nào phải có trong kế hoạch lựa chọn nhà thầu?
+- [[thuê-chuyên-gia-đánh-giá-hsmt-có-phải-là-dịch-vụ-tư-vấn-f157825939d0ab80]] - Thuê chuyên gia đánh giá HSMT có phải là dịch vụ tư vấn?
+- [[thẩm-quyền-quyết-định-việc-tách-gói-thầu-01906a7d1ed05312]] - Thẩm quyền quyết định việc tách gói thầu
+- *...và 2 tình huống khác trong [[INDEX-QA#dieu-36|Mục lục Q&A Điều 36]].*
+
 **Ghi chú:**
 - Kế hoạch tổng thể là công cụ quản lý đấu thầu cho toàn bộ dự án
 - Không bắt buộc, chỉ áp dụng cho dự án có quy mô lớn, phức tạp

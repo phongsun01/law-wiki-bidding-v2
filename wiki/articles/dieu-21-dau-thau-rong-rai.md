@@ -42,6 +42,22 @@ anchors:
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **14 tình huống thực tế** được giải đáp liên quan đến Điều 21.
+
+- [[ai-quyết-định-đơn-vị-thẩm-định-kế-hoạch-lựa-chọn-nhà-thầu-6d59d2c634780374]] - Ai quyết định đơn vị thẩm định kế hoạch lựa chọn nhà thầu?
+- [[chi-phí-giám-sát-không-đưa-vào-dự-toán-có-bị-giảm-trừ-9c49438c50decd8a]] - Chi phí giám sát không đưa vào dự toán có bị giảm trừ?
+- [[dự-án-nhận-viện-trợ-phi-chính-phủ-có-phải-đăng-ký-thuế-d42b405e3faeb70a]] - Dự án nhận viện trợ phi chính phủ có phải đăng ký thuế?
+- [[gói-tư-vấn-quy-hoạch-trên-800-triệu-có-được-chỉ-định-thầu-94ef038138f17cc6]] - Gói tư vấn quy hoạch trên 800 triệu có được chỉ định thầu?
+- [[hồ-sơ-dự-thầu-không-có-thư-bảo-lãnh-có-hợp-lệ-c4cd19855b756b63]] - Hồ sơ dự thầu không có thư bảo lãnh có hợp lệ?
+- [[kiểm-soát-chất-lượng-trị-giá-thiết-bị-nhập-khẩu-thế-nào-ad13b821ea3daf9e]] - Kiểm soát chất lượng, trị giá thiết bị nhập khẩu thế nào?
+- [[nhà-thầu-liên-danh-có-phải-chứng-minh-khả-năng-huy-động-nhân-sự-f1a2858d3b16c36f]] - Nhà thầu liên danh có phải chứng minh khả năng huy động nhân sự?
+- [[quy-định-chọn-nhà-thầu-kiểm-toán-dự-án-đầu-tư-công-90315959e2446ea3]] - Quy định chọn nhà thầu kiểm toán dự án đầu tư công
+- [[quy-định-về-đấu-thầu-dịch-vụ-quản-lý-bảo-dưỡng-đường-bộ-22d2b53dbafa0a60]] - Quy định về đấu thầu dịch vụ quản lý, bảo dưỡng đường bộ
+- [[quyết-toán-dự-án-vốn-nhà-nước-ngoài-đầu-tư-công-theo-quy-định-nào-fe583107fbcffa9a]] - Quyết toán dự án vốn Nhà nước ngoài đầu tư công theo quy định nào?
+- *...và 4 tình huống khác trong [[INDEX-QA#dieu-21|Mục lục Q&A Điều 21]].*
+
 **Ghi chú:**
 - Khoản 2 bị bãi bỏ theo Luật 57/2024/QH15
 - Trước đây đấu thầu rộng rãi là hình thức mặc định, phải giải trình nếu không áp dụng

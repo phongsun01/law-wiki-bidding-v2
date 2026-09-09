@@ -55,6 +55,15 @@ c)<sup>90</sup>(#footnote-90) Phần công việc thuộc kế hoạch lựa ch�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **4 tình huống thực tế** được giải đáp liên quan đến Điều 41.
+
+- [[khi-nào-dự-án-được-gia-hạn-tiến-độ-quá-24-tháng-51a3ce7f8e80e5e4]] - Khi nào dự án được gia hạn tiến độ quá 24 tháng?
+- [[thẩm-quyền-duyệt-kế-hoạch-chọn-nhà-thầu-mua-sắm-thuốc-890e21ff0ebad2be]] - Thẩm quyền duyệt kế hoạch chọn nhà thầu mua sắm thuốc
+- [[thủ-tục-đóng-mã-số-thuế-khi-giải-thể-doanh-nghiệp-6b7efb8bac058f42]] - Thủ tục đóng mã số thuế khi giải thể doanh nghiệp
+- [[điều-kiện-áp-dụng-chỉ-định-thầu-rút-gọn-5a8281128deb1c88]] - Điều kiện áp dụng chỉ định thầu rút gọn
+
 **Ghi chú:**
 - Tương tự Điều 40 nhưng áp dụng cho dự toán mua sắm thay vì dự án
 - Tổng giá trị không vượt dự toán mua sắm

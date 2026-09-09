@@ -57,6 +57,22 @@ Ngoài các tài liệu quy định tại khoản 1 Điều này, tùy theo quy 
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **11 tình huống thực tế** được giải đáp liên quan đến Điều 65.
+
+- [[có-tên-trên-hệ-thống-đấu-thầu-quốc-gia-là-đáp-ứng-yêu-cầu-2bfa7ccf054a60bc]] - Có tên trên Hệ thống đấu thầu quốc gia là đáp ứng yêu cầu?
+- [[có-được-ký-phụ-lục-điều-chỉnh-hợp-đồng-sau-khi-trúng-thầu-7a33f6fce2ce72f9]] - Có được ký phụ lục điều chỉnh hợp đồng sau khi trúng thầu?
+- [[có-được-thay-đổi-hàng-hóa-sau-khi-trúng-thầu-65810cbb239650f8]] - Có được thay đổi hàng hóa sau khi trúng thầu?
+- [[có-được-thay-đổi-model-hàng-hóa-sau-khi-ký-hợp-đồng-96d9f48452b77ff9]] - Có được thay đổi model hàng hóa sau khi ký hợp đồng?
+- [[có-được-điều-chuyển-công-việc-cho-nhà-thầu-khác-không-287c8861424a5c47]] - Có được điều chuyển công việc cho nhà thầu khác không?
+- [[gói-thầu-mua-phần-mềm-là-gói-mua-sắm-hay-tư-vấn-f51662b2755ec38c]] - Gói thầu mua phần mềm là gói mua sắm hay tư vấn?
+- [[hướng-dẫn-xây-dựng-e-hsmt-gói-mua-sắm-vật-tư-y-tế-dbe606927b330ff7]] - Hướng dẫn xây dựng E-HSMT gói mua sắm vật tư y tế
+- [[hồ-sơ-dự-thầu-thiếu-tài-liệu-xử-lý-thế-nào-845d3048a6ddb36c]] - Hồ sơ dự thầu thiếu tài liệu, xử lý thế nào?
+- [[hủy-kết-quả-chọn-nhà-thầu-trong-trường-hợp-nào-ef2299a701c4ae33]] - Hủy kết quả chọn nhà thầu trong trường hợp nào?
+- [[tiêu-chí-đánh-giá-năng-lực-nhà-thầu-thi-công-c1ec14e6a3ee1753]] - Tiêu chí đánh giá năng lực nhà thầu thi công
+- *...và 1 tình huống khác trong [[INDEX-QA#dieu-65|Mục lục Q&A Điều 65]].*
+
 **Ghi chú:**
 - Hồ sơ hợp đồng gồm 3 tài liệu bắt buộc: văn bản hợp đồng, phụ lục, quyết định phê duyệt
 - Tài liệu bổ sung tùy theo quy mô, tính chất gói thầu

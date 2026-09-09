@@ -79,6 +79,15 @@ Nhà thầu không được hoàn trả bảo đảm thực hiện hợp đồng
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **4 tình huống thực tế** được giải đáp liên quan đến Điều 68.
+
+- [[chủ-đầu-tư-có-cần-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-27fec86bc33dbdc0]] - Chủ đầu tư có cần phê duyệt danh sách xếp hạng nhà thầu?
+- [[chủ-đầu-tư-có-phải-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-b0ca979de1f1782e]] - Chủ đầu tư có phải phê duyệt danh sách xếp hạng nhà thầu?
+- [[danh-mục-hàng-hóa-phải-đấu-thầu-tập-trung-f3585e911a11226a]] - Danh mục hàng hóa phải đấu thầu tập trung
+- [[thẩm-quyền-quyết-định-đơn-vị-mua-sắm-tập-trung-1e252caba70201f3]] - Thẩm quyền quyết định đơn vị mua sắm tập trung
+
 **Ghi chú:**
 - 3 biện pháp bảo đảm: đặt cọc, bảo lãnh ngân hàng, bảo hiểm bảo lãnh
 - Giá trị 2-10% giá hợp đồng

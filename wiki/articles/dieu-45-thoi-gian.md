@@ -56,6 +56,16 @@ Chính phủ quy định chi tiết khoản 1 Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **5 tình huống thực tế** được giải đáp liên quan đến Điều 45.
+
+- [[cách-xác-định-chi-phí-kiểm-toán-độc-lập-của-dự-án-d444cca44d5437e2]] - Cách xác định chi phí kiểm toán độc lập của dự án
+- [[hướng-dẫn-khai-nộp-thuế-khi-trụ-sở-và-cửa-hàng-ở-khác-tỉnh-6ea83a47cda1004c]] - Hướng dẫn khai nộp thuế khi trụ sở và cửa hàng ở khác tỉnh
+- [[hướng-dẫn-xử-lý-thuế-gtgt-vãng-lai-sau-sáp-nhập-tỉnh-d850adb73812885b]] - Hướng dẫn xử lý thuế GTGT vãng lai sau sáp nhập tỉnh
+- [[lập-danh-mục-dự-án-thu-hồi-đất-có-cần-văn-bản-chấp-thuận-đầu-tư-f6c0d8bd14c98475]] - Lập danh mục dự án thu hồi đất có cần văn bản chấp thuận đầu tư?
+- [[được-cho-thuê-tài-sản-công-trong-trường-hợp-nào-baf3bb95983d998e]] - Được cho thuê tài sản công trong trường hợp nào?
+
 **Ghi chú:**
 - Thời gian chuẩn bị hồ sơ: từ ngày phát hành đến ngày đóng thầu
 - Sửa đổi hồ sơ mời thầu phải trước thời điểm đóng thầu

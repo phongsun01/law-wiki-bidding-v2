@@ -59,6 +59,14 @@ Thực hiện quyền hạn, trách nhiệm khác theo quy định của Luật 
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **3 tình huống thực tế** được giải đáp liên quan đến Điều 85.
+
+- [[có-được-sửa-hồ-sơ-dự-thầu-trên-mạng-đấu-thầu-quốc-gia-1c61ecdb50a0dd16]] - Có được sửa hồ sơ dự thầu trên mạng đấu thầu quốc gia?
+- [[dự-thầu-qua-mạng-có-phải-nộp-thêm-hồ-sơ-giấy-8f3ee342830d486a]] - Dự thầu qua mạng có phải nộp thêm hồ sơ giấy?
+- [[thẩm-quyền-định-giá-dịch-vụ-sự-nghiệp-công-f1305b97f1b24cd9]] - Thẩm quyền định giá dịch vụ sự nghiệp công
+
 **Ghi chú:**
 - Bộ, cơ quan ngang Bộ và UBND các cấp thực hiện quản lý trong phạm vi quản lý
 - Bao gồm bồi dưỡng, kiểm tra, thanh tra và xử lý vi phạm

@@ -107,6 +107,22 @@ Nhà thầu, nhà đầu tư có tư cách hợp lệ theo quy định tại cá
    - Nhà thầu nước ngoài có thể không liên danh
    - "Trừ trường hợp khác theo quy định của Chính phủ"
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **113 tình huống thực tế** được giải đáp liên quan đến Điều 5.
+
+- [[bảo-đảm-cạnh-tranh-trong-chỉ-định-thầu-0a78646ae9c69a57]] - Bảo đảm cạnh tranh trong chỉ định thầu
+- [[bị-cấm-đấu-thầu-dự-án-oda-có-được-tham-gia-dự-án-nsnn-f0e23f4af27a3bc3]] - Bị cấm đấu thầu dự án ODA có được tham gia dự án NSNN?
+- [[bổ-sung-chi-phí-dự-phòng-vào-giá-dự-thầu-thế-nào-47a597a3cbd664fb]] - Bổ sung chi phí dự phòng vào giá dự thầu thế nào?
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[bộ-phận-nào-thẩm-định-kế-hoạch-lựa-chọn-nhà-thầu-5e7626fab706c073]] - Bộ phận nào thẩm định kế hoạch lựa chọn nhà thầu?
+- [[chi-nhánh-có-được-làm-nhà-thầu-chính-177adc9a7aa369e0]] - Chi nhánh có được làm nhà thầu chính?
+- [[chi-phí-dự-phòng-do-chủ-đầu-tư-xác-định-b82e73ededef25e8]] - Chi phí dự phòng do chủ đầu tư xác định
+- [[chi-phí-dự-phòng-xác-định-theo-tính-chất-gói-thầu-3ef6f519471fbf18]] - Chi phí dự phòng xác định theo tính chất gói thầu
+- [[chi-phí-hạng-mục-chung-có-phân-bổ-vào-giá-dự-thầu-5d680a674f87d0aa]] - Chi phí hạng mục chung có phân bổ vào giá dự thầu?
+- [[chi-phí-thuê-tư-vấn-lập-dự-án-hỗ-trợ-phát-triển-sản-xuất-4438fe0c91adf609]] - Chi phí thuê tư vấn lập dự án hỗ trợ phát triển sản xuất
+- *...và 103 tình huống khác trong [[INDEX-QA#dieu-5|Mục lục Q&A Điều 5]].*
+
 ## Điều liên quan
 
 - [[dieu-4-giai-thich-tu-ngu]] - Giải thích từ ngữ (định nghĩa nhà thầu, nhà đầu tư)

@@ -106,6 +106,22 @@ Thông tin về lựa chọn nhà đầu tư bao gồm:
 ## Văn bản hướng dẫn
 
 - [[documents/tt-79-2025/chuong-02]]
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **34 tình huống thực tế** được giải đáp liên quan đến Điều 7.
+
+- [[báo-cáo-tài-chính-giữa-niên-độ-có-phải-kiểm-toán-độc-lập-8a3ec6bac2994372]] - Báo cáo tài chính giữa niên độ có phải kiểm toán độc lập?
+- [[chi-phí-quản-lý-dự-án-gồm-những-khoản-gì-c59a15a4d4ec01ad]] - Chi phí quản lý dự án gồm những khoản gì?
+- [[chủ-đầu-tư-không-cung-cấp-đủ-hồ-sơ-quyết-toán-xử-lý-thế-nào-ac3865b5aec9babb]] - Chủ đầu tư không cung cấp đủ hồ sơ quyết toán, xử lý thế nào?
+- [[cách-xác-định-thời-điểm-thanh-toán-dự-án-sử-dụng-vốn-đầu-tư-công-8bc3bab2719af7cc]] - Cách xác định thời điểm thanh toán dự án sử dụng vốn đầu tư công
+- [[cách-xử-lý-tiên-lượng-mời-thầu-thiếu-so-với-thiết-kế-96658a63f7fcb187]] - Cách xử lý tiên lượng mời thầu thiếu so với thiết kế
+- [[có-cần-cung-cấp-quyết-định-phê-duyệt-dự-toán-cho-kho-bạc-fdcbc190458d77a8]] - Có cần cung cấp quyết định phê duyệt dự toán cho Kho bạc?
+- [[có-phải-công-bố-lý-do-không-lựa-chọn-nhà-thầu-d2aae69d3f1d3c9f]] - Có phải công bố lý do không lựa chọn nhà thầu?
+- [[có-tên-trên-hệ-thống-đấu-thầu-quốc-gia-là-đáp-ứng-yêu-cầu-2bfa7ccf054a60bc]] - Có tên trên Hệ thống đấu thầu quốc gia là đáp ứng yêu cầu?
+- [[có-được-chỉ-định-thầu-cho-nhà-thầu-là-cá-nhân-83a345a84a27c15b]] - Có được chỉ định thầu cho nhà thầu là cá nhân?
+- [[có-được-đăng-chi-tiết-giá-hàng-hóa-lên-hệ-thống-mạng-đấu-thầu-2707f867f8c485b4]] - Có được đăng chi tiết giá hàng hóa lên Hệ thống mạng đấu thầu?
+- *...và 24 tình huống khác trong [[INDEX-QA#dieu-7|Mục lục Q&A Điều 7]].*
+
 ## Điều liên quan
 
 - [[dieu-8-dang-tai-thong-tin]] - Cung cấp và đăng tải thông tin về đấu thầu (trách nhiệm đăng tải)

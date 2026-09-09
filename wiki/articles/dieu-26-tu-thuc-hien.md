@@ -51,6 +51,22 @@ Tổ chức, đơn vị quy định tại khoản 2 điều này không được
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **33 tình huống thực tế** được giải đáp liên quan đến Điều 26.
+
+- [[bộ-phận-nào-thẩm-định-kế-hoạch-lựa-chọn-nhà-thầu-5e7626fab706c073]] - Bộ phận nào thẩm định kế hoạch lựa chọn nhà thầu?
+- [[chỉ-định-thầu-có-bắt-buộc-đăng-ký-thông-tin-trên-mạng-3a7761c9c6860a4f]] - Chỉ định thầu có bắt buộc đăng ký thông tin trên mạng?
+- [[các-khoản-kinh-phí-được-phép-chuyển-nguồn-8550d01c5e2fcf8e]] - Các khoản kinh phí được phép chuyển nguồn
+- [[có-được-sử-dụng-tài-khoản-của-chi-nhánh-để-đấu-thầu-qua-mạng-05622e0eaef4b8d1]] - Có được sử dụng tài khoản của chi nhánh để đấu thầu qua mạng?
+- [[công-ty-cổ-phần-có-được-lựa-chọn-nhà-thầu-trong-trường-hợp-đặc-biệt-14e07d6b62f109b9]] - Công ty cổ phần có được lựa chọn nhà thầu trong trường hợp đặc biệt?
+- [[căn-cứ-xác-định-tư-cách-hợp-lệ-của-nhà-thầu-nước-ngoài-4eb22dc4850214c9]] - Căn cứ xác định tư cách hợp lệ của nhà thầu nước ngoài
+- [[căn-cứ-đánh-giá-khả-năng-huy-động-thiết-bị-thi-công-của-nhà-thầu-fa91b8ab3c017cf9]] - Căn cứ đánh giá khả năng huy động thiết bị thi công của nhà thầu
+- [[cơ-sở-xác-định-mức-ký-quỹ-cho-dự-án-đầu-tư-ee7874a94ec510c6]] - Cơ sở xác định mức ký quỹ cho dự án đầu tư
+- [[doanh-nghiệp-nhà-nước-phải-ban-hành-quy-định-về-lựa-chọn-nhà-thầu-2acea7b7eec454f5]] - Doanh nghiệp nhà nước phải ban hành quy định về lựa chọn nhà thầu
+- [[doanh-nghiệp-nhà-nước-tự-ban-hành-quy-định-về-lựa-chọn-nhà-thầu-301317aab1f5f211]] - Doanh nghiệp nhà nước tự ban hành quy định về lựa chọn nhà thầu
+- *...và 23 tình huống khác trong [[INDEX-QA#dieu-26|Mục lục Q&A Điều 26]].*
+
 **Ghi chú:**
 - Tự thực hiện = chủ đầu tư tự làm, không thuê nhà thầu bên ngoài
 - Điều kiện:

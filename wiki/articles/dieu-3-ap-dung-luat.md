@@ -95,6 +95,22 @@ d1) Lựa chọn nhà thầu để thực hiện các gói thầu thuộc dự �
 
 Đối với việc mua sắm hàng hóa, dịch vụ để thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo trong lĩnh vực nông, lâm, ngư nghiệp thông qua mua trực tiếp từ hộ gia đình, cá nhân thì tổ chức, cá nhân chủ trì nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo thực hiện mua gom trực tiếp hàng hóa, dịch vụ từ hộ gia đình, cá nhân.
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **181 tình huống thực tế** được giải đáp liên quan đến Điều 3.
+
+- [[báo-cáo-tài-chính-điện-tử-có-cần-ký-tên-đóng-dấu-của-nhà-thầu-349ddda5ac079933]] - Báo cáo tài chính điện tử có cần ký tên, đóng dấu của nhà thầu?
+- [[bên-mời-thầu-hạn-chế-sự-tham-gia-của-nhà-thầu-7fba94fe98f326fc]] - Bên mời thầu hạn chế sự tham gia của nhà thầu?
+- [[bảo-đảm-cạnh-tranh-trong-chỉ-định-thầu-0a78646ae9c69a57]] - Bảo đảm cạnh tranh trong chỉ định thầu
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[cai-tao-thay-thê-hê-thông-đen-thuộc-gói-thầu-loại-nào-4ac6f39c7b24409b]] - Cải tạo, thay thế hệ thống đèn thuộc gói thầu loại nào?
+- [[chi-phí-giám-sát-không-đưa-vào-dự-toán-có-bị-giảm-trừ-9c49438c50decd8a]] - Chi phí giám sát không đưa vào dự toán có bị giảm trừ?
+- [[chi-phí-quản-lý-dự-án-gồm-những-khoản-gì-c59a15a4d4ec01ad]] - Chi phí quản lý dự án gồm những khoản gì?
+- [[chi-phí-thuê-tư-vấn-lập-dự-án-hỗ-trợ-phát-triển-sản-xuất-4438fe0c91adf609]] - Chi phí thuê tư vấn lập dự án hỗ trợ phát triển sản xuất
+- [[chi-phí-được-quyết-toán-phải-nằm-trong-tổng-mức-đầu-tư-d2b4d675de1c2384]] - Chi phí được quyết toán phải nằm trong tổng mức đầu tư
+- [[chuyển-nhượng-khoản-nợ-nộp-thuế-thế-nào-00499ecab2907f5f]] - Chuyển nhượng khoản nợ, nộp thuế thế nào?
+- *...và 171 tình huống khác trong [[INDEX-QA#dieu-3|Mục lục Q&A Điều 3]].*
+
 ## Điều liên quan
 
 - [[dieu-2-doi-tuong]] - Đối tượng áp dụng (khoản 7 tham chiếu)

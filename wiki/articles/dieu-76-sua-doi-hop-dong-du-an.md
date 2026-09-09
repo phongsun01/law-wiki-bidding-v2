@@ -55,6 +55,22 @@ Trường hợp chuyển nhượng dự án đầu tư kinh doanh quy định t�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **14 tình huống thực tế** được giải đáp liên quan đến Điều 76.
+
+- [[có-cần-lập-tổ-xây-dựng-kế-hoạch-lựa-chọn-nhà-thầu-3fe49a81dcfc385d]] - Có cần lập tổ xây dựng kế hoạch lựa chọn nhà thầu?
+- [[có-phải-đáp-ứng-bảo-đảm-cạnh-tranh-khi-chỉ-định-thầu-rút-gọn-f3c5a0ead4fc0231]] - Có phải đáp ứng bảo đảm cạnh tranh khi chỉ định thầu rút gọn?
+- [[có-được-hiệu-chỉnh-đơn-giá-dự-thầu-của-nhà-thầu-ad9401bb033d3efa]] - Có được hiệu chỉnh đơn giá dự thầu của nhà thầu?
+- [[dự-án-có-một-nhà-đầu-tư-trúng-sơ-tuyển-lập-hồ-sơ-thế-nào-1b83899e87d8b373]] - Dự án có một nhà đầu tư trúng sơ tuyển, lập hồ sơ thế nào?
+- [[hạn-mức-chỉ-định-thầu-gói-thầu-tư-vấn-lập-dự-án-97eee979ff64ce8a]] - Hạn mức chỉ định thầu gói thầu tư vấn lập dự án
+- [[không-tạo-định-hướng-cho-một-sản-phẩm-hoặc-cho-một-nhà-thầu-3e44ca17ae919414]] - Không tạo định hướng cho một sản phẩm hoặc cho một nhà thầu
+- [[mức-thuế-suất-có-phải-là-tiêu-chí-đánh-giá-hợp-đồng-tương-tự-2a15c21ad43a340a]] - Mức thuế suất có phải là tiêu chí đánh giá hợp đồng tương tự?
+- [[nhà-thầu-chào-hai-đơn-giá-cho-cùng-một-việc-có-bị-loại-3f6e2f30a0d341cb]] - Nhà thầu chào hai đơn giá cho cùng một việc có bị loại?
+- [[nhà-thầu-chưa-nộp-phí-duy-trì-có-được-đánh-giá-tiếp-5715fd8da821cc2a]] - Nhà thầu chưa nộp phí duy trì có được đánh giá tiếp?
+- [[nhà-thầu-đứng-tên-nhập-khẩu-thiết-bị-tính-thuế-thế-nào-311a6ee46259e3d9]] - Nhà thầu đứng tên nhập khẩu thiết bị, tính thuế thế nào?
+- *...và 4 tình huống khác trong [[INDEX-QA#dieu-76|Mục lục Q&A Điều 76]].*
+
 **Ghi chú:**
 - Hợp đồng được sửa đổi trong 3 trường hợp: điều chỉnh dự án, chuyển nhượng, thỏa thuận khác
 - Điểm b khoản 2 bị bãi bỏ theo Luật 57/2024 (không còn yêu cầu năng lực kỹ thuật/tài chính của nhà đầu tư nhận chuyển nhượng)

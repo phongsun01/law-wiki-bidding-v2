@@ -75,6 +75,22 @@ Tổ chức, cá nhân có hoạt động đấu thầu không thuộc trường
 ## Văn bản hướng dẫn
 
 - [[documents/tt-79-2025/chuong-01]]
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **128 tình huống thực tế** được giải đáp liên quan đến Điều 2.
+
+- [[2-đơn-vị-cùng-cơ-quan-có-được-tham-gia-1-gói-thầu-516ffc3fffd99747]] - 2 đơn vị cùng cơ quan có được tham gia 1 gói thầu?
+- [[bqlda-thuộc-ubnd-tỉnh-có-được-tham-gia-gói-thầu-của-sở-1f7265aea8b16607]] - BQLDA thuộc UBND tỉnh có được tham gia gói thầu của Sở?
+- [[bên-mời-thầu-hạn-chế-sự-tham-gia-của-nhà-thầu-7fba94fe98f326fc]] - Bên mời thầu hạn chế sự tham gia của nhà thầu?
+- [[bổ-sung-thỏa-thuận-liên-danh-sau-khi-ký-hợp-đồng-có-hợp-lệ-0ca61b3d78ae7888]] - Bổ sung thỏa thuận liên danh sau khi ký hợp đồng có hợp lệ?
+- [[chi-phí-lựa-chọn-dự-án-gồm-những-gì-1a251f5474c17dc9]] - Chi phí lựa chọn dự án gồm những gì?
+- [[chi-phí-thuê-tư-vấn-lập-dự-án-hỗ-trợ-phát-triển-sản-xuất-4438fe0c91adf609]] - Chi phí thuê tư vấn lập dự án hỗ trợ phát triển sản xuất
+- [[chuyển-nhượng-khoản-nợ-nộp-thuế-thế-nào-00499ecab2907f5f]] - Chuyển nhượng khoản nợ, nộp thuế thế nào?
+- [[chủ-đầu-tư-có-cần-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-27fec86bc33dbdc0]] - Chủ đầu tư có cần phê duyệt danh sách xếp hạng nhà thầu?
+- [[chủ-đầu-tư-có-phải-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-b0ca979de1f1782e]] - Chủ đầu tư có phải phê duyệt danh sách xếp hạng nhà thầu?
+- [[chứng-minh-kinh-nghiệm-thực-hiện-hợp-đồng-tương-tự-thế-nào-fb3d00f45969e396]] - Chứng minh kinh nghiệm thực hiện hợp đồng tương tự thế nào?
+- *...và 118 tình huống khác trong [[INDEX-QA#dieu-2|Mục lục Q&A Điều 2]].*
+
 ## Điều liên quan
 
 - [[dieu-1-pham-vi]] - Phạm vi điều chỉnh

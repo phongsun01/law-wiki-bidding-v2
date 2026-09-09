@@ -78,6 +78,22 @@ Chính phủ quy định chi tiết về năng lực, kinh nghiệm của thành
 - Khoản 2: Bỏ "người có thẩm quyền" khỏi danh sách chủ thể thành lập tổ thẩm định
 - Khoản 2: Bỏ "kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu" khỏi nội dung thẩm định
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **40 tình huống thực tế** được giải đáp liên quan đến Điều 19.
+
+- [[ban-qlda-có-quyền-tự-quyết-việc-mua-sắm-sửa-chữa-8b904358f5d6a526]] - Ban QLDA có quyền tự quyết việc mua sắm, sửa chữa?
+- [[bổ-sung-khối-lượng-công-việc-thiếu-trên-cơ-sở-đơn-giá-đã-chào-6738e1fe086e423f]] - Bổ sung khối lượng công việc thiếu trên cơ sở đơn giá đã chào
+- [[chào-hàng-cạnh-tranh-áp-dụng-cho-gói-thầu-2-hay-5-tỷ-đồng-c2cf54e431c4e3bd]] - Chào hàng cạnh tranh áp dụng cho gói thầu 2 hay 5 tỷ đồng?
+- [[cách-xử-lý-tiên-lượng-mời-thầu-thiếu-so-với-thiết-kế-96658a63f7fcb187]] - Cách xử lý tiên lượng mời thầu thiếu so với thiết kế
+- [[có-cần-chứng-chỉ-hành-nghề-khi-tham-gia-lựa-chọn-nhà-đầu-tư-ab192ff3a7958107]] - Có cần chứng chỉ hành nghề khi tham gia lựa chọn nhà đầu tư?
+- [[có-thể-thay-đổi-xuất-xứ-hàng-hóa-khi-thương-thảo-hợp-đồng-850d31dcd4b11173]] - Có thể thay đổi xuất xứ hàng hóa khi thương thảo hợp đồng?
+- [[có-được-thay-đổi-loại-hợp-đồng-sau-khi-lựa-chọn-nhà-thầu-d6bd9c7202934685]] - Có được thay đổi loại hợp đồng sau khi lựa chọn nhà thầu?
+- [[có-được-vừa-lập-hồ-sơ-mời-thầu-vừa-đánh-giá-hồ-sơ-dự-thầu-cae9cd22cdff128f]] - Có được vừa lập hồ sơ mời thầu vừa đánh giá hồ sơ dự thầu?
+- [[có-được-yêu-cầu-nhà-thầu-thay-đổi-hãng-sản-xuất-9f6fd8ef23140158]] - Có được yêu cầu nhà thầu thay đổi hãng sản xuất?
+- [[có-được-điều-chuyển-công-việc-cho-nhà-thầu-khác-không-287c8861424a5c47]] - Có được điều chuyển công việc cho nhà thầu khác không?
+- *...và 30 tình huống khác trong [[INDEX-QA#dieu-19|Mục lục Q&A Điều 19]].*
+
 ## Điều liên quan
 
 - [[dieu-4-giai-thich-tu-ngu]] - Giải thích từ ngữ

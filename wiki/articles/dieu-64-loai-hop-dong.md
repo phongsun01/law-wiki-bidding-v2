@@ -83,6 +83,18 @@ Hợp đồng hỗn hợp là hợp đồng có nội dung kết hợp các lo�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **7 tình huống thực tế** được giải đáp liên quan đến Điều 64.
+
+- [[các-khoản-kinh-phí-được-phép-chuyển-nguồn-8550d01c5e2fcf8e]] - Các khoản kinh phí được phép chuyển nguồn
+- [[có-thể-sửa-hồ-sơ-mời-thầu-be5175ff7eb9e4f4]] - Có thể sửa hồ sơ mời thầu?
+- [[hồ-sơ-dự-thầu-hết-hiệu-lực-xử-lý-thế-nào-a46d71f4e2d935d1]] - Hồ sơ dự thầu hết hiệu lực, xử lý thế nào?
+- [[thanh-toán-hợp-đồng-trọn-gói-có-cần-hóa-đơn-đầu-vào-của-nhà-thầu-d36652049b8b84e3]] - Thanh toán hợp đồng trọn gói có cần hóa đơn đầu vào của nhà thầu?
+- [[tiền-bán-hồ-sơ-đấu-giá-được-sử-dụng-thế-nào-8180d07d47beb72b]] - Tiền bán hồ sơ đấu giá được sử dụng thế nào?
+- [[trường-hợp-nào-được-phép-thay-đổi-nhà-thầu-b29c5afeae924314]] - Trường hợp nào được phép thay đổi nhà thầu?
+- [[đánh-giá-hsdt-áp-dụng-nghị-định-hay-thông-tư-ab11a67aa4a0f9a0]] - Đánh giá HSDT áp dụng Nghị định hay Thông tư?
+
 **Ghi chú:**
 - 8 loại hợp đồng: trọn gói, đơn giá cố định, đơn giá điều chỉnh, theo thời gian, chi phí cộng phí, kết quả đầu ra, tỷ lệ phần trăm, hỗn hợp
 - Hợp đồng trọn gói bao gồm EPC và chìa khóa trao tay

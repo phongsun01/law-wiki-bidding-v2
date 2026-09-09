@@ -39,6 +39,13 @@ Hồ sơ hợp đồng dự án đầu tư kinh doanh bao gồm các tài liệu
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **2 tình huống thực tế** được giải đáp liên quan đến Điều 72.
+
+- [[bảo-đảm-dự-thầu-không-được-hoàn-trả-trong-trường-hợp-nào-c9321d7958fc5688]] - Bảo đảm dự thầu không được hoàn trả trong trường hợp nào?
+- [[danh-mục-hàng-hóa-phải-đấu-thầu-tập-trung-f3585e911a11226a]] - Danh mục hàng hóa phải đấu thầu tập trung
+
 **Ghi chú:**
 - Hồ sơ hợp đồng gồm 7 loại tài liệu
 - Bao gồm cả văn bản hợp đồng, phụ lục, biên bản đàm phán, quyết định phê duyệt, hồ sơ mời/dự thầu

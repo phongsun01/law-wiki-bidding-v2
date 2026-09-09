@@ -62,6 +62,13 @@ Các thông tin về nhà thầu, nhà đầu tư được kết nối, chia s�
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **2 tình huống thực tế** được giải đáp liên quan đến Điều 51.
+
+- [[dự-án-nhận-viện-trợ-phi-chính-phủ-có-phải-đăng-ký-thuế-d42b405e3faeb70a]] - Dự án nhận viện trợ phi chính phủ có phải đăng ký thuế?
+- [[quy-định-về-mời-thầu-dự-án-có-sử-dụng-đất-55b2e8a55b4bc6cb]] - Quy định về mời thầu dự án có sử dụng đất
+
 **Ghi chú:**
 - Hệ thống phải công khai, hoạt động 24/7, an toàn thông tin
 - Sử dụng nguồn thời gian chuẩn quốc gia để đảm bảo tính chính xác

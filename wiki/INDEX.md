@@ -95,6 +95,28 @@ _(Sẽ được tạo sau Tier 2)_
 
 _(Sẽ được tạo sau Tier 2)_
 
+## Cẩm nang Tổng hợp Thực tiễn (Syntheses)
+
+- [[thuc-tien-danh-gia-ho-so-du-thau]] - Tổng Hợp Thực Tiễn: Đánh Giá Hồ Sơ Dự Thầu, Năng Lực & Kinh Nghiệm Nhà Thầu
+- [[thuc-tien-chi-phi-du-toan-goi-thau]] - Tổng Hợp Thực Tiễn: Dự Toán Gói Thầu, Giá Gói Thầu & Chi Phí Trong Đấu Thầu
+- [[thuc-tien-tu-cach-hop-le-va-canh-tranh]] - Tổng Hợp Thực Tiễn: Tư Cách Hợp Lệ Của Nhà Thầu & Bảo Đảm Cạnh Tranh
+- [[thuc-tien-mua-sam-thuong-xuyen-tap-trung]] - Tổng Hợp Thực Tiễn: Mua Sắm Thường Xuyên, Mua Sắm Tập Trung & Y Tế
+- [[thuc-tien-chi-dinh-thau-va-chi-dinh-rut-gon]] - Tổng Hợp Thực Tiễn: Chỉ Định Thầu & Quy Trình Chỉ Định Thầu Rút Gọn
+- [[thuc-tien-lam-ro-va-sua-doi-hsdt]] - Tổng Hợp Thực Tiễn: Làm Rõ Hồ Sơ Dự Thầu & Bổ Sung Tài Liệu Sau Đóng Thầu
+- [[thuc-tien-to-chuyen-gia-va-tham-dinh]] - Tổng Hợp Thực Tiễn: Tổ Chuyên Gia Đấu Thầu, Tổ Thẩm Định & Chứng Chỉ Hành Nghề
+- [[thuc-tien-ke-hoach-lua-chon-nha-thau]] - Tổng Hợp Thực Tiễn: Lập, Thẩm Định & Điều Chỉnh Kế Hoạch Lựa Chọn Nhà Thầu
+- [[thuc-tien-dau-thau-qua-mang]] - Tổng Hợp Thực Tiễn: Đấu Thầu Qua Mạng & Hệ Thống Mạng Đấu Thầu Quốc Gia
+- [[thuc-tien-hop-dong-va-thanh-toan]] - Tổng Hợp Thực Tiễn: Thực Hiện Hợp Đồng, Tạm Ứng & Điều Chỉnh Giá Hợp Đồng
+- [[thuc-tien-xu-ly-tinh-huong-dau-thau]] - Tổng Hợp Thực Tiễn: Xử Lý Tình Huống Trong Đấu Thầu & Hủy Thầu
+- [[thuc-tien-chao-hang-canh-tranh]] - Tổng Hợp Thực Tiễn: Chào Hàng Cạnh Tranh & Mua Sắm Nhỏ
+- [[thuc-tien-bao-dam-du-thau]] - Tổng Hợp Thực Tiễn: Bảo Đảm Dự Thầu & Bảo Lãnh Ngân Hàng
+- [[thuc-tien-mua-sam-truc-tiep-tu-thuc-hien]] - Tổng Hợp Thực Tiễn: Mua Sắm Trực Tiếp, Tự Thực Hiện & Lựa Chọn Đặc Biệt
+- [[thuc-tien-kien-nghi-va-giai-quyet-tranh-chap]] - Tổng Hợp Thực Tiễn: Giải Quyết Kiến Nghị Trong Đấu Thầu & Khởi Kiện
+
+## Tình huống thực tiễn (Q&A)
+
+- [[INDEX-QA]] - **Mục lục 1.570 tình huống hỏi đáp thực tế** (Cổng TTĐT Chính phủ)
+
 ---
 
 **Thống kê:**

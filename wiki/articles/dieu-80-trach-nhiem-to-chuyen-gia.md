@@ -66,6 +66,17 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **6 tình huống thực tế** được giải đáp liên quan đến Điều 80.
+
+- [[các-gói-thầu-được-áp-dụng-chỉ-định-thầu-rút-gọn-ddf7c7e55e2cad8f]] - Các gói thầu được áp dụng chỉ định thầu rút gọn
+- [[có-bắt-buộc-tách-nhà-thầu-lập-nhiệm-vụ-và-thực-hiện-khảo-sát-xây-dựng-b530a7df91fda93a]] - Có bắt buộc tách nhà thầu lập nhiệm vụ và thực hiện khảo sát xây dựng?
+- [[căn-cứ-lựa-chọn-quy-trình-chỉ-định-thầu-rút-gọn-b831998983a1f16d]] - Căn cứ lựa chọn quy trình chỉ định thầu rút gọn
+- [[mua-sắm-dưới-50-triệu-có-cần-kế-hoạch-lựa-chọn-nhà-thầu-8af67940eb23ed43]] - Mua sắm dưới 50 triệu có cần kế hoạch lựa chọn nhà thầu?
+- [[tiêu-chuẩn-thành-viên-tổ-chuyên-gia-tổ-thẩm-định-đấu-thầu-496f6aff94fb71d9]] - Tiêu chuẩn thành viên tổ chuyên gia, tổ thẩm định đấu thầu
+- [[đáp-ứng-điều-kiện-nào-thì-được-chỉ-định-thầu-e6dc6b32dc6036d5]] - Đáp ứng điều kiện nào thì được chỉ định thầu?
+
 **Ghi chú:**
 - Tổ chuyên gia có 5 nhóm trách nhiệm chính
 - Khoản 1a được bổ sung đầu tiên theo Luật 57/2024: yêu cầu trung thực, khách quan

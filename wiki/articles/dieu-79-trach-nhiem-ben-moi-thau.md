@@ -76,6 +76,21 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **10 tình huống thực tế** được giải đáp liên quan đến Điều 79.
+
+- [[có-bắt-buộc-tách-nhà-thầu-lập-nhiệm-vụ-và-thực-hiện-khảo-sát-xây-dựng-b530a7df91fda93a]] - Có bắt buộc tách nhà thầu lập nhiệm vụ và thực hiện khảo sát xây dựng?
+- [[có-được-chỉ-định-thầu-rút-gọn-với-gói-thầu-mua-thuốc-04367d9d36db9025]] - Có được chỉ định thầu rút gọn với gói thầu mua thuốc?
+- [[căn-cứ-lựa-chọn-quy-trình-chỉ-định-thầu-rút-gọn-b831998983a1f16d]] - Căn cứ lựa chọn quy trình chỉ định thầu rút gọn
+- [[dự-án-xử-lý-rác-thỏa-thuận-nhận-quyền-sử-dụng-đất-có-phải-đấu-thầu-e1aa0fdd61330e65]] - Dự án xử lý rác thỏa thuận nhận quyền sử dụng đất có phải đấu thầu?
+- [[gói-thầu-mua-thuốc-500-trđ-có-được-chỉ-định-thầu-rút-gọn-9f2141f1520f0821]] - Gói thầu mua thuốc 500 trđ có được chỉ định thầu rút gọn?
+- [[gói-thầu-nào-không-yêu-cầu-đánh-giá-năng-lực-và-kinh-nghiệm-a8f36720084eda31]] - Gói thầu nào không yêu cầu đánh giá năng lực và kinh nghiệm?
+- [[mua-sắm-dưới-50-triệu-có-cần-kế-hoạch-lựa-chọn-nhà-thầu-8af67940eb23ed43]] - Mua sắm dưới 50 triệu có cần kế hoạch lựa chọn nhà thầu?
+- [[nhà-thầu-đứng-tên-nhập-khẩu-thiết-bị-tính-thuế-thế-nào-311a6ee46259e3d9]] - Nhà thầu đứng tên nhập khẩu thiết bị, tính thuế thế nào?
+- [[thẩm-quyền-thẩm-định-và-phê-duyệt-kế-hoạch-lựa-chọn-nhà-đầu-tư-16405939cd682a8b]] - Thẩm quyền thẩm định và phê duyệt kế hoạch lựa chọn nhà đầu tư
+- [[đáp-ứng-điều-kiện-nào-thì-được-chỉ-định-thầu-e6dc6b32dc6036d5]] - Đáp ứng điều kiện nào thì được chỉ định thầu?
+
 **Ghi chú:**
 - Khoản 1 (trách nhiệm đối với lựa chọn nhà thầu) bị bãi bỏ theo Luật 57/2024
 - Bên mời thầu chỉ còn trách nhiệm đối với lựa chọn nhà đầu tư

@@ -87,6 +87,17 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **6 tình huống thực tế** được giải đáp liên quan đến Điều 70.
+
+- [[có-thực-hiện-mua-sắm-tập-trung-từ-quỹ-phát-triển-sự-nghiệp-1d5c3de1c3095072]] - Có thực hiện mua sắm tập trung từ quỹ phát triển sự nghiệp?
+- [[có-áp-dụng-luật-mới-để-sửa-hợp-đồng-của-gói-thầu-ký-trước-172025-7bdbb46591a07ba1]] - Có áp dụng luật mới để sửa hợp đồng của gói thầu ký trước 1/7/2025?
+- [[có-được-sửa-đổi-hợp-đồng-khi-giảm-khối-lượng-công-việc-1ed65202be485751]] - Có được sửa đổi hợp đồng khi giảm khối lượng công việc?
+- [[hướng-dẫn-xử-lý-thuế-gtgt-vãng-lai-sau-sáp-nhập-tỉnh-d850adb73812885b]] - Hướng dẫn xử lý thuế GTGT vãng lai sau sáp nhập tỉnh
+- [[điều-chỉnh-hợp-đồng-căn-cứ-tổng-mức-đầu-tư-mới-hay-cũ-cf9ce03cecd8674f]] - Điều chỉnh hợp đồng căn cứ tổng mức đầu tư mới hay cũ?
+- [[đơn-vị-sự-nghiệp-có-phải-thực-hiện-mua-sắm-tập-trung-88d624f3f5b920b2]] - Đơn vị sự nghiệp có phải thực hiện mua sắm tập trung?
+
 **Ghi chú:**
 - Sửa đổi hợp đồng khi: thỏa thuận trước, hoàn cảnh thay đổi cơ bản, yêu cầu cơ quan nhà nước
 - Nội dung sửa đổi: khối lượng, tiến độ, giá, tùy chọn mua thêm

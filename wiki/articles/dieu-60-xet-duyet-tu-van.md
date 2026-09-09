@@ -58,6 +58,22 @@ Nhà thầu tư vấn là cá nhân được xem xét, đề nghị trúng thầ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **13 tình huống thực tế** được giải đáp liên quan đến Điều 60.
+
+- [[chào-hàng-cạnh-tranh-qua-mạng-chấm-thầu-theo-phương-pháp-nào-be033c25eea2e158]] - Chào hàng cạnh tranh qua mạng, chấm thầu theo phương pháp nào?
+- [[có-được-ký-hợp-đồng-giao-việc-cho-công-ty-con-d3b94af41adbe26d]] - Có được ký hợp đồng giao việc cho công ty con?
+- [[có-được-thay-thế-hàng-hóa-tương-tự-khi-mở-rộng-gói-thầu-217de1ec2c687c48]] - Có được thay thế hàng hóa tương tự khi mở rộng gói thầu?
+- [[căn-cứ-xác-định-giá-gói-thầu-9e4ac099925f3e7d]] - Căn cứ xác định giá gói thầu
+- [[hướng-dẫn-xử-lý-thuế-gtgt-vãng-lai-sau-sáp-nhập-tỉnh-d850adb73812885b]] - Hướng dẫn xử lý thuế GTGT vãng lai sau sáp nhập tỉnh
+- [[mua-sắm-trực-tiếp-đối-với-hàng-hóa-tương-tự-thuộc-cùng-dự-án-ff727e67099beca1]] - Mua sắm trực tiếp đối với hàng hóa tương tự thuộc cùng dự án
+- [[quy-mô-hàng-hóa-được-áp-dụng-mua-sắm-trực-tiếp-7a98b5c9930da0c4]] - Quy mô hàng hóa được áp dụng mua sắm trực tiếp
+- [[quy-định-thời-gian-phát-hành-hồ-sơ-mời-thầu-có-mâu-thuẫn-không-323298d926b9e889]] - Quy định thời gian phát hành hồ sơ mời thầu có mâu thuẫn không?
+- [[quy-định-về-thanh-lý-tang-vật-vi-phạm-hành-chính-f04310726c5644f0]] - Quy định về thanh lý tang vật vi phạm hành chính
+- [[thông-báo-mời-thầu-có-cần-đính-kèm-hồ-sơ-mời-thầu-không-d5399dd797711885]] - Thông báo mời thầu có cần đính kèm hồ sơ mời thầu không?
+- *...và 3 tình huống khác trong [[INDEX-QA#dieu-60|Mục lục Q&A Điều 60]].*
+
 **Ghi chú:**
 - Phân biệt nhà thầu tổ chức và cá nhân
 - Nhà thầu tổ chức: phải đáp ứng yêu cầu theo phương pháp đánh giá

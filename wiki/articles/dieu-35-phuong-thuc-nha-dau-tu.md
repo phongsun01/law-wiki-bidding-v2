@@ -59,6 +59,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **39 tình huống thực tế** được giải đáp liên quan đến Điều 35.
+
+- [[bổ-sung-chi-phí-dự-phòng-vào-giá-dự-thầu-thế-nào-47a597a3cbd664fb]] - Bổ sung chi phí dự phòng vào giá dự thầu thế nào?
+- [[chi-phí-dự-phòng-không-dùng-đến-được-phân-bổ-thế-nào-375a9cccc2aecda3]] - Chi phí dự phòng không dùng đến được phân bổ thế nào?
+- [[chưa-nhận-chứng-chỉ-có-được-tham-gia-công-tác-đấu-thầu-40f90b5c47bdcc21]] - Chưa nhận chứng chỉ có được tham gia công tác đấu thầu?
+- [[cách-xác-định-thời-gian-thực-hiện-hợp-đồng-131da90953553407]] - Cách xác định thời gian thực hiện hợp đồng
+- [[cán-bộ-thuộc-sở-tham-gia-công-tác-đấu-thầu-có-cần-chứng-chỉ-0d7ea970bc5bc1d3]] - Cán bộ thuộc Sở tham gia công tác đấu thầu có cần chứng chỉ?
+- [[có-cần-chứng-chỉ-hành-nghề-khi-tham-gia-lựa-chọn-nhà-đầu-tư-ab192ff3a7958107]] - Có cần chứng chỉ hành nghề khi tham gia lựa chọn nhà đầu tư?
+- [[có-cần-phê-duyệt-dự-toán-từng-gói-thầu-8115406934d9a574]] - Có cần phê duyệt dự toán từng gói thầu?
+- [[có-quy-định-về-gói-thầu-dịch-vụ-tư-vấn-quy-mô-nhỏ-không-a0640c90293aea73]] - Có quy định về gói thầu dịch vụ tư vấn quy mô nhỏ không?
+- [[có-thể-thay-đổi-thời-gian-lựa-chọn-nhà-thầu-0778258c2940e0dd]] - Có thể thay đổi thời gian lựa chọn nhà thầu?
+- [[có-thể-điều-chỉnh-giá-gói-thầu-khi-bổ-sung-thiết-bị-172570a0a2e62483]] - Có thể điều chỉnh giá gói thầu khi bổ sung thiết bị?
+- *...và 29 tình huống khác trong [[INDEX-QA#dieu-35|Mục lục Q&A Điều 35]].*
+
 **Ghi chú:**
 - Điều này quy định 3 phương thức lựa chọn nhà đầu tư tương tự phương thức lựa chọn nhà thầu
 - Phương thức một giai đoạn một túi: áp dụng phổ biến cho đấu thầu rộng rãi và hạn chế

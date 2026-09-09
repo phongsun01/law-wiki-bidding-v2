@@ -30,3 +30,13 @@ Khi nộp đơn khởi kiện hoặc trong quá trình Tòa án giải quyết v
 
 - [[dieu-89-giai-quyet-kien-nghi]] - Giải quyết kiến nghị trong hoạt động đấu thầu
 - [[chuong-9-kien-nghi-khoi-kien]] - Chương IX: Giải quyết kiến nghị, khởi kiện
+
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **4 tình huống thực tế** được giải đáp liên quan đến Điều 94.
+
+- [[chi-phí-lựa-chọn-dự-án-gồm-những-gì-1a251f5474c17dc9]] - Chi phí lựa chọn dự án gồm những gì?
+- [[có-quy-định-nhà-thầu-phải-cung-cấp-đơn-giá-chi-tiết-ccd63b5b78e54792]] - Có quy định nhà thầu phải cung cấp đơn giá chi tiết?
+- [[căn-cứ-tính-giảm-giá-gói-thầu-b3f67c1ddb16bb35]] - Căn cứ tính giảm giá gói thầu
+- [[nhà-thầu-được-thanh-toán-theo-đúng-giá-trong-hợp-đồng-78754209b54fc313]] - Nhà thầu được thanh toán theo đúng giá trong hợp đồng
+

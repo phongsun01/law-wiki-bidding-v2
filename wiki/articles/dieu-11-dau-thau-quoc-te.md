@@ -87,6 +87,22 @@ Việc tổ chức đấu thầu quốc tế để lựa chọn nhà đầu tư 
 - Bỏ Khoản 2c: Không còn loại trừ tự động dự án tại khu vực hạn chế đất đai/biển
 - Thêm Khoản 3: Người có thẩm quyền quyết định dựa trên ý kiến các bộ liên quan
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **44 tình huống thực tế** được giải đáp liên quan đến Điều 11.
+
+- [[bên-mời-thầu-được-tự-lập-hồ-sơ-yêu-cầu-đánh-giá-hồ-sơ-đề-xuất-40922cebbdd8fe42]] - Bên mời thầu được tự lập hồ sơ yêu cầu, đánh giá hồ sơ đề xuất?
+- [[bảo-đảm-dự-thầu-không-được-hoàn-trả-trong-trường-hợp-nào-c9321d7958fc5688]] - Bảo đảm dự thầu không được hoàn trả trong trường hợp nào?
+- [[bảo-đảm-dự-thầu-phải-căn-cứ-giá-gói-thầu-abb6096bfbd57d35]] - Bảo đảm dự thầu phải căn cứ giá gói thầu
+- [[bảo-đảm-dự-thầu-phải-được-nộp-vào-thời-điểm-nào-7b1e9bc4f9ea820f]] - Bảo đảm dự thầu phải được nộp vào thời điểm nào?
+- [[bộ-khđt-gỡ-vướng-một-số-tình-huống-trong-đấu-thầu-77778f7a617234bd]] - Bộ KHĐT gỡ vướng một số tình huống trong đấu thầu
+- [[chỉ-tịch-thu-bảo-lãnh-của-phần-gói-thầu-không-thực-hiện-f86bc143350d57f7]] - Chỉ tịch thu bảo lãnh của phần gói thầu không thực hiện
+- [[cách-tính-dự-toán-gói-thầu-bảo-hiểm-công-trình-bc24b165596ba811]] - Cách tính dự toán gói thầu bảo hiểm công trình
+- [[cách-xác-định-giá-khởi-điểm-của-quyền-sử-dụng-đất-f187d833ec36fb99]] - Cách xác định giá khởi điểm của quyền sử dụng đất
+- [[cách-xác-định-thời-điểm-thanh-toán-dự-án-sử-dụng-vốn-đầu-tư-công-8bc3bab2719af7cc]] - Cách xác định thời điểm thanh toán dự án sử dụng vốn đầu tư công
+- [[công-trình-nghiệm-thu-năm-2023-có-được-giảm-thuế-b84e3df0f7dc5701]] - Công trình nghiệm thu năm 2023 có được giảm thuế?
+- *...và 34 tình huống khác trong [[INDEX-QA#dieu-11|Mục lục Q&A Điều 11]].*
+
 ## Điều liên quan
 
 - [[dieu-2-doi-tuong]] - Đối tượng áp dụng

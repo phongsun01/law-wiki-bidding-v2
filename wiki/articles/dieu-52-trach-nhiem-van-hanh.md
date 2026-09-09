@@ -71,6 +71,15 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **4 tình huống thực tế** được giải đáp liên quan đến Điều 52.
+
+- [[khi-nào-dự-án-được-gia-hạn-tiến-độ-quá-24-tháng-51a3ce7f8e80e5e4]] - Khi nào dự án được gia hạn tiến độ quá 24 tháng?
+- [[không-hạn-chế-việc-giao-đất-cho-liên-danh-nhà-đầu-tư-trúng-thầu-87bd6f2465934ac1]] - Không hạn chế việc giao đất cho liên danh nhà đầu tư trúng thầu
+- [[về-việc-phê-duyệt-danh-sách-xếp-hạng-nhà-thầu-7724b6640644635b]] - Về việc phê duyệt danh sách xếp hạng nhà thầu
+- [[điều-kiện-thành-lập-tổ-chức-kinh-tế-để-thực-hiện-dự-án-ac1b9d05b18ddf93]] - Điều kiện thành lập tổ chức kinh tế để thực hiện dự án
+
 **Ghi chú:**
 - Tổ chức vận hành chịu trách nhiệm toàn diện về an toàn, bảo mật hệ thống
 - Phải ngăn chặn truy cập trái phép, thay thế hồ sơ

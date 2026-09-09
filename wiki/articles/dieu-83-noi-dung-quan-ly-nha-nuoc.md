@@ -62,6 +62,13 @@ Hợp tác quốc tế về đấu thầu.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **2 tình huống thực tế** được giải đáp liên quan đến Điều 83.
+
+- [[có-được-chỉ-định-thầu-gói-thầu-cung-cấp-dịch-vụ-công-d126bf7d56f42920]] - Có được chỉ định thầu gói thầu cung cấp dịch vụ công?
+- [[giao-khoán-vận-hành-khai-thác-tài-sản-thực-hiện-thế-nào-bc3bd7a278d33abc]] - Giao khoán vận hành, khai thác tài sản thực hiện thế nào?
+
 **Ghi chú:**
 - Nội dung quản lý nhà nước bao gồm 6 lĩnh vực chính
 - Quản lý hệ thống thông tin và cơ sở dữ liệu trên phạm vi toàn quốc

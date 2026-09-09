@@ -109,6 +109,19 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **8 tình huống thực tế** được giải đáp liên quan đến Điều 77.
+
+- [[các-trường-hợp-được-phép-hủy-thầu-34d2df923fb0a843]] - Các trường hợp được phép hủy thầu
+- [[mua-sắm-thuốc-và-vật-tư-y-tế-thực-hiện-theo-quy-định-nào-f1848a32dc1c0384]] - Mua sắm thuốc và vật tư y tế thực hiện theo quy định nào?
+- [[nhà-thầu-đứng-tên-nhập-khẩu-thiết-bị-tính-thuế-thế-nào-311a6ee46259e3d9]] - Nhà thầu đứng tên nhập khẩu thiết bị, tính thuế thế nào?
+- [[quyết-toán-chuyển-nguồn-ngân-sách-2025-theo-luật-nào-dd46d83ad062c12f]] - Quyết toán, chuyển nguồn ngân sách 2025 theo luật nào?
+- [[thẩm-quyền-chấp-thuận-chủ-trương-đầu-tư-dự-án-ngành-điện-49094d9e572974fc]] - Thẩm quyền chấp thuận chủ trương đầu tư dự án ngành điện
+- [[thẩm-quyền-duyệt-kế-hoạch-chọn-nhà-thầu-mua-sắm-thuốc-890e21ff0ebad2be]] - Thẩm quyền duyệt kế hoạch chọn nhà thầu mua sắm thuốc
+- [[thẩm-quyền-thẩm-định-và-phê-duyệt-kế-hoạch-lựa-chọn-nhà-đầu-tư-16405939cd682a8b]] - Thẩm quyền thẩm định và phê duyệt kế hoạch lựa chọn nhà đầu tư
+- [[xây-dựng-chế-tài-chặn-hành-vi-chuyển-nhượng-thầu-e163991d0d0baa83]] - Xây dựng chế tài chặn hành vi chuyển nhượng thầu
+
 **Ghi chú:**
 - Điều này thuộc Chương VIII (Trách nhiệm các bên trong hoạt động đấu thầu)
 - Khoản 2, 3 bị bãi bỏ theo Luật 57/2024 (không còn phê duyệt kế hoạch lựa chọn nhà thầu và thẩm định)

@@ -138,6 +138,22 @@ Thực hiện trách nhiệm khác theo quy định của Luật này và quy đ
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **24 tình huống thực tế** được giải đáp liên quan đến Điều 78.
+
+- [[chỉ-định-thầu-trước-khi-có-quyết-định-đầu-tư-thực-hiện-thế-nào-72881906fedb4809]] - Chỉ định thầu trước khi có quyết định đầu tư, thực hiện thế nào?
+- [[chủ-đầu-tư-có-được-tự-quyết-định-chỉ-định-thầu-rút-gọn-04d7bd74f0cf40d1]] - Chủ đầu tư có được tự quyết định chỉ định thầu rút gọn?
+- [[các-gói-thầu-được-áp-dụng-chỉ-định-thầu-rút-gọn-ddf7c7e55e2cad8f]] - Các gói thầu được áp dụng chỉ định thầu rút gọn
+- [[có-cần-lập-tổ-xây-dựng-kế-hoạch-lựa-chọn-nhà-thầu-3fe49a81dcfc385d]] - Có cần lập tổ xây dựng kế hoạch lựa chọn nhà thầu?
+- [[có-được-chỉ-định-một-nhà-thầu-cho-nhiều-gói-trong-cùng-dự-án-f7265e3567c6b4a7]] - Có được chỉ định một nhà thầu cho nhiều gói trong cùng dự án?
+- [[căn-cứ-lựa-chọn-quy-trình-chỉ-định-thầu-rút-gọn-b831998983a1f16d]] - Căn cứ lựa chọn quy trình chỉ định thầu rút gọn
+- [[căn-cứ-phân-loại-gói-thầu-587e3e25df588f25]] - Căn cứ phân loại gói thầu
+- [[căn-cứ-thành-lập-tổ-chuyên-gia-đấu-thầu-5eb8b8a2ea27d43d]] - Căn cứ thành lập tổ chuyên gia đấu thầu
+- [[gói-tư-vấn-quy-hoạch-trên-800-triệu-có-được-chỉ-định-thầu-94ef038138f17cc6]] - Gói tư vấn quy hoạch trên 800 triệu có được chỉ định thầu?
+- [[hạn-mức-chỉ-định-thầu-gói-sửa-chữa-bảo-trì-công-trình-thủy-lợi-5d5a1df84241f425]] - Hạn mức chỉ định thầu gói sửa chữa, bảo trì công trình thủy lợi
+- *...và 14 tình huống khác trong [[INDEX-QA#dieu-78|Mục lục Q&A Điều 78]].*
+
 **Ghi chú:**
 - Chủ đầu tư có 16 nhóm trách nhiệm chính
 - Trách nhiệm phê duyệt: kế hoạch lựa chọn nhà thầu, hồ sơ mời thầu, kết quả lựa chọn

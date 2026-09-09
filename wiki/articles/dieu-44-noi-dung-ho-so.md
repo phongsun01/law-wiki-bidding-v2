@@ -57,6 +57,22 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **14 tình huống thực tế** được giải đáp liên quan đến Điều 44.
+
+- [[có-được-yêu-cầu-nhà-thầu-cung-cấp-tờ-khai-hải-quan-hàng-hóa-499a0578400d9526]] - Có được yêu cầu nhà thầu cung cấp tờ khai hải quan hàng hóa?
+- [[doanh-nghiệp-lựa-chọn-nhà-thầu-theo-quy-định-nào-f083c0b473088d81]] - Doanh nghiệp lựa chọn nhà thầu theo quy định nào?
+- [[giá-gói-thầu-có-bao-gồm-các-khoản-thuế-phí-được-miễn-895138c071abf0cd]] - Giá gói thầu có bao gồm các khoản thuế, phí được miễn?
+- [[hướng-dẫn-xây-dựng-e-hsmt-gói-mua-sắm-vật-tư-y-tế-dbe606927b330ff7]] - Hướng dẫn xây dựng E-HSMT gói mua sắm vật tư y tế
+- [[quy-định-lập-e-hsmt-9174dda8ef3a06ae]] - Quy định lập E-HSMT
+- [[thẩm-quyền-cho-thuê-tài-sản-công-46d0acec8a34d9a6]] - Thẩm quyền cho thuê tài sản công
+- [[thẩm-định-giá-tài-sản-được-thực-hiện-trong-trường-hợp-nào-b07fe2eeb26bb571]] - Thẩm định giá tài sản được thực hiện trong trường hợp nào?
+- [[thủ-tục-đóng-mã-số-thuế-khi-giải-thể-doanh-nghiệp-6b7efb8bac058f42]] - Thủ tục đóng mã số thuế khi giải thể doanh nghiệp
+- [[yêu-cầu-chứng-chỉ-hành-nghề-trong-e-hsmt-có-sai-quy-định-1652b46ab1d3424f]] - Yêu cầu chứng chỉ hành nghề trong E-HSMT có sai quy định?
+- [[yêu-cầu-kinh-nghiệm-trong-hồ-sơ-mời-thầu-a5b4dad47e71d9a1]] - Yêu cầu kinh nghiệm trong hồ sơ mời thầu
+- *...và 4 tình huống khác trong [[INDEX-QA#dieu-44|Mục lục Q&A Điều 44]].*
+
 **Ghi chú:**
 - Hồ sơ mời thầu phải đầy đủ: chỉ dẫn, tiêu chuẩn đánh giá, dự thảo hợp đồng
 - Có thể quy định xuất xứ để đảm bảo chất lượng

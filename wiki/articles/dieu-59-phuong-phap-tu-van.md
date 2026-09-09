@@ -60,6 +60,20 @@ anchors:
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **9 tình huống thực tế** được giải đáp liên quan đến Điều 59.
+
+- [[chào-hàng-cạnh-tranh-có-phải-đấu-thầu-qua-mạng-9ecbcaf33d65a05b]] - Chào hàng cạnh tranh có phải đấu thầu qua mạng?
+- [[chào-hàng-cạnh-tranh-rút-gọn-có-bắt-buộc-thực-hiện-qua-mạng-0bb4c75c7eb64a19]] - Chào hàng cạnh tranh rút gọn có bắt buộc thực hiện qua mạng?
+- [[căn-cứ-chọn-nhà-thầu-gói-chào-hàng-cạnh-tranh-eb22849cc7510bcc]] - Căn cứ chọn nhà thầu gói chào hàng cạnh tranh
+- [[gói-thầu-10-triệu-đồng-được-chào-hàng-cạnh-tranh-rút-gọn-51de6d978232c512]] - Gói thầu 10 triệu đồng được chào hàng cạnh tranh rút gọn?
+- [[nhà-thầu-không-nộp-kèm-dự-thảo-hợp-đồng-có-bị-loại-9862643b55661712]] - Nhà thầu không nộp kèm dự thảo hợp đồng có bị loại?
+- [[thời-gian-phát-hành-yêu-cầu-báo-giá-trong-chào-hàng-cạnh-tranh-c80c4ef5888b824e]] - Thời gian phát hành yêu cầu báo giá trong chào hàng cạnh tranh
+- [[thực-hiện-chỉ-định-thầu-hay-chào-hàng-cạnh-tranh-7d7fbca4fe25148f]] - Thực hiện chỉ định thầu hay chào hàng cạnh tranh?
+- [[đánh-giá-tài-chính-gói-thầu-tư-vấn-theo-phương-pháp-nào-63efcd0c50c94f35]] - Đánh giá tài chính gói thầu tư vấn theo phương pháp nào?
+- [[đơn-vị-sự-nghiệp-công-lập-thuê-dịch-vụ-bảo-vệ-thế-nào-2cb9c5633d99876a]] - Đơn vị sự nghiệp công lập thuê dịch vụ bảo vệ thế nào?
+
 **Ghi chú:**
 - 4 phương pháp cho gói thầu tư vấn
 - Giá thấp nhất: tư vấn đơn giản, quy trình rõ ràng

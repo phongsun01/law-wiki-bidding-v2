@@ -55,6 +55,22 @@ Việc mở thầu được tiến hành hai lần. Hồ sơ đề xuất về k
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **17 tình huống thực tế** được giải đáp liên quan đến Điều 31.
+
+- [[chào-hàng-cạnh-tranh-có-phải-đấu-thầu-qua-mạng-9ecbcaf33d65a05b]] - Chào hàng cạnh tranh có phải đấu thầu qua mạng?
+- [[các-trường-hợp-thầu-áp-dụng-phương-thức-1-giai-đoạn-2-túi-hồ-sơ-9883979589db8050]] - Các trường hợp thầu áp dụng phương thức 1 giai đoạn 2 túi hồ sơ
+- [[có-thể-nộp-phí-duy-trì-tài-khoản-khi-đang-đánh-giá-hồ-sơ-dự-thầu-cb9df37058fcdb28]] - Có thể nộp phí duy trì tài khoản khi đang đánh giá hồ sơ dự thầu
+- [[có-tên-trên-hệ-thống-đấu-thầu-quốc-gia-là-đáp-ứng-yêu-cầu-2bfa7ccf054a60bc]] - Có tên trên Hệ thống đấu thầu quốc gia là đáp ứng yêu cầu?
+- [[căn-cứ-đánh-giá-sự-phù-hợp-của-dự-án-đầu-tư-với-quy-hoạch-da2def97b4c789fd]] - Căn cứ đánh giá sự phù hợp của dự án đầu tư với quy hoạch
+- [[gói-thầu-nào-áp-dụng-phương-thức-một-giai-đoạn-hai-túi-hồ-sơ-0a66cbbfed867c0f]] - Gói thầu nào áp dụng phương thức một giai đoạn hai túi hồ sơ?
+- [[lập-danh-mục-dự-án-thu-hồi-đất-có-cần-văn-bản-chấp-thuận-đầu-tư-f6c0d8bd14c98475]] - Lập danh mục dự án thu hồi đất có cần văn bản chấp thuận đầu tư?
+- [[nguyên-tắc-thẩm-tra-quyết-toán-dự-án-đầu-tư-công-ebc55ba9dfe32ec1]] - Nguyên tắc thẩm tra quyết toán dự án đầu tư công
+- [[quy-định-về-thanh-lý-xe-ô-tô-công-8c16e5c911206ff3]] - Quy định về thanh lý xe ô tô công
+- [[quy-định-về-đăng-tải-thông-tin-mua-sắm-tập-trung-b19d5d4fe814bb15]] - Quy định về đăng tải thông tin mua sắm tập trung
+- *...và 7 tình huống khác trong [[INDEX-QA#dieu-31|Mục lục Q&A Điều 31]].*
+
 **Ghi chú:**
 - Điểm b, c khoản 1 và khoản 1a được sửa đổi/bổ sung theo Luật 57/2024/QH15
 - Phương thức: 1 giai đoạn, 2 túi hồ sơ riêng biệt

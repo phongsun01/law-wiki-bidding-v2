@@ -55,6 +55,22 @@ Trường hợp nhà thầu thực hiện hợp đồng trước đó không có
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **25 tình huống thực tế** được giải đáp liên quan đến Điều 25.
+
+- [[ban-qlda-chuyên-ngành-có-được-tự-thực-hiện-gói-thầu-8bd21dc0211dc84c]] - Ban QLDA chuyên ngành có được tự thực hiện gói thầu?
+- [[chủ-đầu-tư-không-cung-cấp-đủ-hồ-sơ-quyết-toán-xử-lý-thế-nào-ac3865b5aec9babb]] - Chủ đầu tư không cung cấp đủ hồ sơ quyết toán, xử lý thế nào?
+- [[có-được-chuyển-nhượng-phần-việc-được-giao-tự-thực-hiện-d5c5d762f12d676d]] - Có được chuyển nhượng phần việc được giao tự thực hiện?
+- [[có-được-ký-hợp-đồng-thời-vụ-để-tự-thực-hiện-gói-thầu-216eac2ec47ec7bd]] - Có được ký hợp đồng thời vụ để tự thực hiện gói thầu?
+- [[có-được-áp-dụng-hình-thức-tự-thực-hiện-hay-không-afdf8e8a027ce143]] - Có được áp dụng hình thức tự thực hiện hay không?
+- [[căn-cứ-xác-định-hợp-đồng-tương-tự-khi-dự-thầu-af57e691c9c4acfa]] - Căn cứ xác định hợp đồng tương tự khi dự thầu
+- [[gói-thầu-mua-sắm-nào-được-tự-thực-hiện-6aec6f242e13c003]] - Gói thầu mua sắm nào được tự thực hiện?
+- [[gói-thầu-nào-được-áp-dụng-hình-thức-tự-thực-hiện-d0c3ed55843a19b9]] - Gói thầu nào được áp dụng hình thức tự thực hiện?
+- [[gói-thầu-nào-được-áp-dụng-hình-thức-tự-thực-hiện-fc4e2cc812c1b2d1]] - Gói thầu nào được áp dụng hình thức tự thực hiện?
+- [[hướng-dẫn-áp-dụng-hình-thức-tự-thực-hiện-gói-thầu-53fad86125131aff]] - Hướng dẫn áp dụng hình thức tự thực hiện gói thầu
+- *...và 15 tình huống khác trong [[INDEX-QA#dieu-25|Mục lục Q&A Điều 25]].*
+
 **Ghi chú:**
 - Mua sắm trực tiếp = mua thêm hàng hóa tương tự từ nhà thầu đã trúng thầu trước
 - Điều kiện bắt buộc:

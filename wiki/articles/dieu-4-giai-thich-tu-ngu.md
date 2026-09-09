@@ -194,6 +194,22 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 ## Văn bản hướng dẫn
 
 - [[documents/tt-79-2025/chuong-01]]
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **223 tình huống thực tế** được giải đáp liên quan đến Điều 4.
+
+- [[bảo-đảm-dự-thầu-phải-được-nộp-vào-thời-điểm-nào-7b1e9bc4f9ea820f]] - Bảo đảm dự thầu phải được nộp vào thời điểm nào?
+- [[bộ-hợp-đồng-bảo-hiểm-của-khách-hàng-gồm-những-giấy-tờ-gì-44669cb47924a782]] - Bộ hợp đồng bảo hiểm của khách hàng gồm những giấy tờ gì?
+- [[cai-tao-thay-thê-hê-thông-đen-thuộc-gói-thầu-loại-nào-4ac6f39c7b24409b]] - Cải tạo, thay thế hệ thống đèn thuộc gói thầu loại nào?
+- [[chi-phí-hạng-mục-chung-có-phân-bổ-vào-giá-dự-thầu-5d680a674f87d0aa]] - Chi phí hạng mục chung có phân bổ vào giá dự thầu?
+- [[chi-phí-logistics-phát-sinh-ở-nước-ngoài-có-chịu-thuế-giá-trị-gia-tăng-f3dac397ca7fd285]] - Chi phí logistics phát sinh ở nước ngoài có chịu thuế giá trị gia tăng?
+- [[chi-phí-lựa-chọn-dự-án-gồm-những-gì-1a251f5474c17dc9]] - Chi phí lựa chọn dự án gồm những gì?
+- [[chi-phí-quản-lý-dự-án-gồm-những-khoản-gì-c59a15a4d4ec01ad]] - Chi phí quản lý dự án gồm những khoản gì?
+- [[chi-phí-thuê-tư-vấn-lập-dự-án-hỗ-trợ-phát-triển-sản-xuất-4438fe0c91adf609]] - Chi phí thuê tư vấn lập dự án hỗ trợ phát triển sản xuất
+- [[chuyển-nhượng-khoản-nợ-nộp-thuế-thế-nào-00499ecab2907f5f]] - Chuyển nhượng khoản nợ, nộp thuế thế nào?
+- [[chuyển-thành-nhà-thầu-liên-danh-có-phải-báo-lại-bên-mời-thầu-d044cb0cb3ee5cc3]] - Chuyển thành nhà thầu liên danh có phải báo lại bên mời thầu?
+- *...và 213 tình huống khác trong [[INDEX-QA#dieu-4|Mục lục Q&A Điều 4]].*
+
 ## Điều liên quan
 
 - [[dieu-5-tu-cach-hop-le]] - Tư cách hợp lệ của nhà thầu, nhà đầu tư

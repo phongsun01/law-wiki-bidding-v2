@@ -57,6 +57,15 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **4 tình huống thực tế** được giải đáp liên quan đến Điều 46.
+
+- [[kinh-phí-phòng-chống-dịch-có-thuộc-dự-toán-mua-sắm-thường-xuyên-274545bb02d77932]] - Kinh phí phòng chống dịch có thuộc dự toán mua sắm thường xuyên?
+- [[đã-có-quy-định-về-trách-nhiệm-bảo-mật-thông-tin-tài-khoản-ngân-hàng-8f2933a62a17c929]] - Đã có quy định về trách nhiệm bảo mật thông tin tài khoản ngân hàng
+- [[được-cho-thuê-tài-sản-công-trong-trường-hợp-nào-baf3bb95983d998e]] - Được cho thuê tài sản công trong trường hợp nào?
+- [[đối-tượng-áp-dụng-quy-định-về-mua-sắm-theo-thông-tư-58-7889331c10cc28b2]] - Đối tượng áp dụng quy định về mua sắm theo Thông tư 58
+
 **Ghi chú:**
 - Quy trình gồm 6 bước: công bố, chuẩn bị, tổ chức, đánh giá, phê duyệt, ký hợp đồng
 - Nếu có từ 2 nhà đầu tư quan tâm: thêm bước mời quan tâm trước

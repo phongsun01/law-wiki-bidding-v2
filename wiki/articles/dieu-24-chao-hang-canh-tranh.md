@@ -54,6 +54,22 @@ Chào hàng cạnh tranh được áp dụng đối với gói thầu có giá g
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **29 tình huống thực tế** được giải đáp liên quan đến Điều 24.
+
+- [[bảo-lãnh-dự-thầu-thiếu-nội-dung-cam-kết-có-hợp-lệ-9233c6d8b49ad9f3]] - Bảo lãnh dự thầu thiếu nội dung cam kết có hợp lệ?
+- [[bảo-đảm-dự-thầu-của-liên-danh-thế-nào-là-hợp-lệ-13ee6e6341048ac1]] - Bảo đảm dự thầu của liên danh thế nào là hợp lệ?
+- [[chứng-minh-kinh-nghiệm-thực-hiện-hợp-đồng-tương-tự-thế-nào-fb3d00f45969e396]] - Chứng minh kinh nghiệm thực hiện hợp đồng tương tự thế nào?
+- [[cách-xác-định-giá-khởi-điểm-của-quyền-sử-dụng-đất-f187d833ec36fb99]] - Cách xác định giá khởi điểm của quyền sử dụng đất
+- [[có-phải-ký-hợp-đồng-nghiệm-thu-khi-đấu-nối-vào-lưới-điện-400c12bfe89ed621]] - Có phải ký hợp đồng nghiệm thu khi đấu nối vào lưới điện?
+- [[có-được-ký-hợp-đồng-giao-việc-cho-công-ty-con-d3b94af41adbe26d]] - Có được ký hợp đồng giao việc cho công ty con?
+- [[có-được-sửa-tỷ-lệ-liên-danh-trong-hồ-sơ-thầu-3e806d057885a864]] - Có được sửa tỷ lệ liên danh trong hồ sơ thầu?
+- [[có-được-thay-thế-hàng-hóa-tương-tự-khi-mở-rộng-gói-thầu-217de1ec2c687c48]] - Có được thay thế hàng hóa tương tự khi mở rộng gói thầu?
+- [[có-được-yêu-cầu-nhà-thầu-cung-cấp-tờ-khai-hải-quan-hàng-hóa-499a0578400d9526]] - Có được yêu cầu nhà thầu cung cấp tờ khai hải quan hàng hóa?
+- [[có-được-đổi-xuất-xứ-hàng-hóa-trong-hồ-sơ-dự-thầu-b7021005c1e972b5]] - Có được đổi xuất xứ hàng hóa trong hồ sơ dự thầu?
+- *...và 19 tình huống khác trong [[INDEX-QA#dieu-24|Mục lục Q&A Điều 24]].*
+
 **Ghi chú:**
 - Điều này được sửa đổi theo Luật 57/2024/QH15
 - Chào hàng cạnh tranh = hình thức đơn giản hóa của đấu thầu

@@ -63,6 +63,19 @@ Chính phủ quy định chi tiết Điều này.
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **8 tình huống thực tế** được giải đáp liên quan đến Điều 88.
+
+- [[chào-hàng-cạnh-tranh-qua-mạng-chấm-thầu-theo-phương-pháp-nào-be033c25eea2e158]] - Chào hàng cạnh tranh qua mạng, chấm thầu theo phương pháp nào?
+- [[có-được-kê-khai-thiết-bị-giống-nhau-cho-nhiều-gói-thầu-2acd50ee4038bba6]] - Có được kê khai thiết bị giống nhau cho nhiều gói thầu?
+- [[dn-mua-vật-liệu-thường-xuyên-có-phải-theo-luật-đấu-thầu-01f7b9070519b6ba]] - DN mua vật liệu thường xuyên có phải theo Luật Đấu thầu?
+- [[quy-định-thời-gian-phát-hành-hồ-sơ-mời-thầu-có-mâu-thuẫn-không-323298d926b9e889]] - Quy định thời gian phát hành hồ sơ mời thầu có mâu thuẫn không?
+- [[thông-báo-mời-thầu-có-cần-đính-kèm-hồ-sơ-mời-thầu-không-d5399dd797711885]] - Thông báo mời thầu có cần đính kèm hồ sơ mời thầu không?
+- [[thẩm-quyền-duyệt-kế-hoạch-chọn-nhà-thầu-mua-sắm-thuốc-890e21ff0ebad2be]] - Thẩm quyền duyệt kế hoạch chọn nhà thầu mua sắm thuốc
+- [[thời-điểm-phát-hành-hồ-sơ-mời-thầu-khi-đấu-thầu-không-qua-mạng-e17b9a0d6c52e6ca]] - Thời điểm phát hành hồ sơ mời thầu khi đấu thầu không qua mạng
+- [[xây-dựng-chế-tài-chặn-hành-vi-chuyển-nhượng-thầu-e163991d0d0baa83]] - Xây dựng chế tài chặn hành vi chuyển nhượng thầu
+
 **Ghi chú:**
 - Xử lý tình huống khi phát sinh vấn đề chưa được quy định rõ ràng
 - Phải tuân thủ nguyên tắc cạnh tranh, công bằng, minh bạch, hiệu quả kinh tế

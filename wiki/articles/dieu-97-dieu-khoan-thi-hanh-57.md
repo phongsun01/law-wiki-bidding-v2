@@ -28,3 +28,11 @@ related_articles: [1, 2, 3, 4, 95, 96, 98]
 - [[dieu-96-quy-dinh-chuyen-tiep]] - Quy định chuyển tiếp
 - [[dieu-98-dieu-khoan-thi-hanh-90]] - Điều khoản thi hành (Luật 90/2025)
 - [[chuong-10-dieu-khoan-thi-hanh]] - Chương X: Điều khoản thi hành
+
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **2 tình huống thực tế** được giải đáp liên quan đến Điều 97.
+
+- [[các-trường-hợp-không-đấu-thầu-qua-mạng-9e9e1122f104b5c8]] - Các trường hợp không đấu thầu qua mạng
+- [[nhà-thầu-có-được-thanh-toán-phần-chênh-lệch-khối-lượng-công-việc-b98273872c4d0baf]] - Nhà thầu có được thanh toán phần chênh lệch khối lượng công việc?
+

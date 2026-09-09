@@ -58,6 +58,22 @@ Kế hoạch lựa chọn nhà thầu được lập sau khi có dự toán mua 
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **35 tình huống thực tế** được giải đáp liên quan đến Điều 37.
+
+- [[bốn-giải-pháp-xử-lý-tồn-tại-trong-đấu-thầu-qua-mạng-fdc25a58a55126dd]] - Bốn giải pháp xử lý tồn tại trong đấu thầu qua mạng
+- [[chào-hàng-cạnh-tranh-rút-gọn-có-bắt-buộc-thực-hiện-qua-mạng-0bb4c75c7eb64a19]] - Chào hàng cạnh tranh rút gọn có bắt buộc thực hiện qua mạng?
+- [[chưa-nộp-phí-duy-trì-mạng-đấu-thầu-có-được-dự-thầu-ffcac384401c30db]] - Chưa nộp phí duy trì mạng đấu thầu có được dự thầu?
+- [[chưa-nộp-phí-duy-trì-trên-hệ-thống-có-được-chấm-thầu-3609b33ba6c69d67]] - Chưa nộp phí duy trì trên Hệ thống có được chấm thầu?
+- [[chưa-đăng-ký-thông-tin-trên-mạng-không-được-phép-dự-thầu-65a990eb3aa0d902]] - Chưa đăng ký thông tin trên mạng không được phép dự thầu
+- [[chưa-đăng-ký-thông-tin-trước-thời-điểm-đóng-thầu-có-bị-hủy-thầu-78cb52eede50a792]] - Chưa đăng ký thông tin trước thời điểm đóng thầu có bị hủy thầu?
+- [[chủ-đầu-tư-có-được-tự-duyệt-kế-hoạch-chọn-nhà-thầu-f041ff5f1e023004]] - Chủ đầu tư có được tự duyệt kế hoạch chọn nhà thầu?
+- [[các-trường-hợp-không-đấu-thầu-qua-mạng-9e9e1122f104b5c8]] - Các trường hợp không đấu thầu qua mạng
+- [[có-cần-lập-tổ-xây-dựng-kế-hoạch-lựa-chọn-nhà-thầu-3fe49a81dcfc385d]] - Có cần lập tổ xây dựng kế hoạch lựa chọn nhà thầu?
+- [[có-thể-kiểm-tra-thông-tin-đăng-ký-của-nhà-thầu-trên-mạng-c54299d0bbee64b6]] - Có thể kiểm tra thông tin đăng ký của nhà thầu trên mạng?
+- *...và 25 tình huống khác trong [[INDEX-QA#dieu-37|Mục lục Q&A Điều 37]].*
+
 **Ghi chú:**
 - Kế hoạch lựa chọn nhà thầu phải bao quát toàn bộ dự án hoặc dự toán mua sắm
 - Cho phép lập từng phần nếu chưa đủ điều kiện lập toàn bộ

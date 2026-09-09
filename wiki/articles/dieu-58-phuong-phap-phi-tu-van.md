@@ -72,6 +72,22 @@ a)<sup>111</sup>(#footnote-111) Phương pháp kết hợp giữa kỹ thuật v
 
 ---
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **15 tình huống thực tế** được giải đáp liên quan đến Điều 58.
+
+- [[chào-hàng-cạnh-tranh-có-phải-xếp-hạng-nhà-thầu-bc2d3a2a9547d805]] - Chào hàng cạnh tranh có phải xếp hạng nhà thầu?
+- [[chào-hàng-cạnh-tranh-qua-mạng-chấm-thầu-theo-phương-pháp-nào-be033c25eea2e158]] - Chào hàng cạnh tranh qua mạng, chấm thầu theo phương pháp nào?
+- [[chào-hàng-cạnh-tranh-áp-dụng-cho-gói-thầu-2-hay-5-tỷ-đồng-c2cf54e431c4e3bd]] - Chào hàng cạnh tranh áp dụng cho gói thầu 2 hay 5 tỷ đồng?
+- [[căn-cứ-xác-định-giá-khởi-điểm-khi-đấu-giá-quyền-sử-dụng-đất-a9d3f43fe2d921a3]] - Căn cứ xác định giá khởi điểm khi đấu giá quyền sử dụng đất
+- [[dự-án-có-một-nhà-đầu-tư-trúng-sơ-tuyển-lập-hồ-sơ-thế-nào-1b83899e87d8b373]] - Dự án có một nhà đầu tư trúng sơ tuyển, lập hồ sơ thế nào?
+- [[gói-thầu-thế-nào-được-coi-là-đơn-giản-747b356ebd3839bd]] - Gói thầu thế nào được coi là "đơn giản"?
+- [[hủy-kết-quả-chọn-nhà-thầu-trong-trường-hợp-nào-ef2299a701c4ae33]] - Hủy kết quả chọn nhà thầu trong trường hợp nào?
+- [[nguyên-tắc-thương-thảo-hợp-đồng-đấu-thầu-52fc2db022caccf1]] - Nguyên tắc thương thảo hợp đồng đấu thầu
+- [[thương-thảo-hợp-đồng-trong-chào-hàng-cạnh-tranh-rút-gọn-a9ed83c076ae40d3]] - Thương thảo hợp đồng trong chào hàng cạnh tranh rút gọn
+- [[thẩm-quyền-chấp-thuận-chủ-trương-đầu-tư-dự-án-ngành-điện-49094d9e572974fc]] - Thẩm quyền chấp thuận chủ trương đầu tư dự án ngành điện
+- *...và 5 tình huống khác trong [[INDEX-QA#dieu-58|Mục lục Q&A Điều 58]].*
+
 **Ghi chú:**
 - 4 phương pháp: giá thấp nhất, giá đánh giá, kết hợp kỹ thuật-giá, dựa trên kỹ thuật
 - Giá thấp nhất: áp dụng khi đề xuất cùng mặt bằng

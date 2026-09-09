@@ -85,6 +85,22 @@ Chính phủ quy định chi tiết Điều này.
 **Luật 57/2024/QH15:**
 - Khoản 1c: Bỏ "bên mời thầu" - chỉ còn chủ đầu tư chịu chi phí đăng tải và tổ chức
 
+## Tình huống thực tiễn (Q&A Chính sách)
+
+> Tổng cộng có **152 tình huống thực tế** được giải đáp liên quan đến Điều 15.
+
+- [[bảng-giá-dự-thầu-không-thống-nhất-xử-lý-thế-nào-71dcd2195472c071]] - Bảng giá dự thầu không thống nhất, xử lý thế nào?
+- [[bảo-đảm-dự-thầu-theo-hình-thức-thư-bảo-lãnh-của-ngân-hàng-4e04c5e1850c74ba]] - Bảo đảm dự thầu theo hình thức thư bảo lãnh của ngân hàng
+- [[chuyển-nhượng-vốn-hay-chuyển-nhượng-chứng-khoán-7dc771ea25eea531]] - Chuyển nhượng vốn hay chuyển nhượng chứng khoán?
+- [[chỉ-cần-chứng-minh-khả-năng-huy-động-nhân-sự-thực-hiện-gói-thầu-04ad3b0220ae6d44]] - Chỉ cần chứng minh khả năng huy động nhân sự thực hiện gói thầu
+- [[chứng-thư-bảo-lãnh-ký-trước-thời-điểm-liên-danh-có-hợp-lệ-e877a5bfbe2308d1]] - Chứng thư bảo lãnh ký trước thời điểm liên danh có hợp lệ?
+- [[các-nội-dung-được-yêu-cầu-làm-rõ-trong-hồ-sơ-dự-thầu-b792ec9207597f3b]] - Các nội dung được yêu cầu làm rõ trong hồ sơ dự thầu
+- [[các-tiêu-chuẩn-đánh-giá-hồ-sơ-dự-thầu-e57106c743d86fbe]] - Các tiêu chuẩn đánh giá hồ sơ dự thầu
+- [[các-tiêu-chí-đánh-giá-hợp-đồng-tương-tự-trong-hồ-sơ-thầu-55c12e924423a899]] - Các tiêu chí đánh giá hợp đồng tương tự trong hồ sơ thầu
+- [[cách-tính-dự-toán-gói-thầu-bảo-hiểm-công-trình-bc24b165596ba811]] - Cách tính dự toán gói thầu bảo hiểm công trình
+- [[cách-đánh-giá-giải-pháp-kỹ-thuật-trong-hồ-sơ-dự-thầu-e984ba8c2b5f65af]] - Cách đánh giá giải pháp kỹ thuật trong hồ sơ dự thầu
+- *...và 142 tình huống khác trong [[INDEX-QA#dieu-15|Mục lục Q&A Điều 15]].*
+
 ## Điều liên quan
 
 - [[dieu-11-dau-thau-quoc-te]] - Đấu thầu quốc tế
