@@ -16,13 +16,13 @@ tags: [tong-hop, thuc-tien, thuc-tien-chi-dinh-thau-va-chi-dinh-rut-gon]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-23-*|Điều 23]], [[dieu-43-*|Điều 43]], [[dieu-78-*|Điều 78]], [[dieu-40-*|Điều 40]]
 - **Khái niệm trọng tâm:** [[chu-dau-tu]], [[nguoi-co-tham-quyen]], [[nha-thau]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[documents/nd-349-2026|Nghị định 349/2026/NĐ-CP]], [[tt-79-2025]], [[tt-80-2025]]
 
 ---
 
 ## I. Các Vấn Đề Cốt Lõi Rút Ra Từ Thực Tiễn
 
-### 1. Hạn mức chỉ định thầu đối với gói thầu tư vấn (500tr), xây lắp/hàng hóa (1 tỷ)
+### 1. Hạn mức chỉ định thầu mới theo NĐ 349/2026: mua sắm không hình thành dự án (1 tỷ), tư vấn dự án (3 tỷ), xây lắp/hàng hóa/phi tư vấn dự án (5 tỷ)
 Qua rà soát các văn bản phản hồi chính thức từ các cơ quan quản lý nhà nước về đấu thầu, các đơn vị cần lưu ý áp dụng nhất quán theo các chuẩn mực sau:
 - **Về thẩm quyền:** Tuân thủ phân cấp giữa Người có thẩm quyền và Chủ đầu tư, không tự ý mở rộng hoặc áp dụng sai thẩm quyền được giao.
 - **Về căn cứ áp dụng:** Mọi quyết định chuyên môn phải được lập thành văn bản, lưu trữ đầy đủ trong hồ sơ quản lý đấu thầu.

@@ -89,7 +89,11 @@ Cập nhật: 2026-05-01
 
 ## Documents
 
-_(Sẽ được tạo sau Tier 2)_
+- [[documents/nd-214-2025|nd-214-2025]] - Nghị định 214/2025/NĐ-CP (chi tiết Luật Đấu thầu)
+- [[documents/nd-349-2026|nd-349-2026]] - Nghị định 349/2026/NĐ-CP (sửa đổi, bổ sung NĐ 214/2025)
+- [[documents/tt-79-2025|tt-79-2025]] - Thông tư 79/2025/TT-BTC
+- [[documents/tt-80-2025|tt-80-2025]] - Thông tư 80/2025/TT-BTC
+
 
 ## Entities
 

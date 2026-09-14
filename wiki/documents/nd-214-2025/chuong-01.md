@@ -639,6 +639,12 @@ Trong thời hạn tối đa 20 ngày kể từ ngày chủ đầu tư hoặc đ
 
 **Điều 21. Điều kiện năng lực, kinh nghiệm đối với tổ chuyên gia, tổ thẩm định**
 
+> [!NOTE]
+> **Lưu ý sửa đổi từ 09/09/2026 bởi [[documents/nd-349-2026|Nghị định 349/2026/NĐ-CP (Điều 2)]]:**
+> - Khoản 2, 2a Điều 21: Gói thầu KHCN, đổi mới sáng tạo, dự toán mua sắm không hình thành dự án hoặc chuyên gia chuyên ngành huy động thêm không bắt buộc phải có chứng chỉ nghiệp vụ chuyên môn về đấu thầu.
+
+
+
 1. Thành viên tổ chuyên gia, tổ thẩm định phải đáp ứng yêu cầu sau đây:
 
 a) Có chứng chỉ nghiệp vụ chuyên môn về đấu thầu, trừ trường hợp quy định tại khoản 2 Điều này;

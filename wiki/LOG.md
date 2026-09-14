@@ -1,3 +1,16 @@
+## 2026-09-14 - Ingest Nghị định 349/2026/NĐ-CP sửa đổi NĐ 214 (COMPLETE)
+
+**Date:** 2026-09-14  
+**Source:** `raw/nd-349.md`  
+**Output:**
+- Tạo tài liệu hub và nội dung chi tiết: `wiki/documents/nd-349-2026.md` (28 điều)
+- Cập nhật ghi chú sửa đổi tại `wiki/documents/nd-214-2025.md`, `chuong-01.md`, `chuong-05.md`
+- Cập nhật liên kết văn bản hướng dẫn tại `wiki/articles/dieu-23-chi-dinh-thau.md`
+- Cập nhật cẩm nang `wiki/syntheses/thuc-tien-chi-dinh-thau-va-chi-dinh-rut-gon.md` với hạn mức mới (1 tỷ, 3 tỷ, 5 tỷ)
+- Cập nhật mục lục `wiki/INDEX.md`
+
+---
+
 ## 2026-09-09 - Tier 7: Xây dựng 15 trang Syntheses Tổng hợp thực tiễn (COMPLETE)
 
 **Output:** 15 chuyên đề tổng hợp chuyên sâu tại `wiki/syntheses/`

@@ -60,6 +60,7 @@ Chính phủ quy định chi tiết Điều này.
 ## Văn bản hướng dẫn
 
 - [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
+- [[documents/nd-349-2026|Nghị định 349/2026/NĐ-CP]] - Nghị định sửa đổi NĐ 214 (nâng hạn mức chỉ định thầu lên 1 tỷ, 3 tỷ, 5 tỷ)
 - [[chuong-02]] - Lựa chọn nhà thầu cung cấp dịch vụ phi tư vấn, hàng hóa, xây lắp, hỗn hợp
 
 ---

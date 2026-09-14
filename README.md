@@ -8,6 +8,7 @@ Wiki này bao gồm:
 - **Luật Đấu thầu 2023** (hợp nhất Luật 22/2023, 57/2024, 90/2025)
 - 10 chương, 98 điều
 - **Nghị định 214/2025/NĐ-CP** (1 index + 14 chương)
+- **Nghị định 349/2026/NĐ-CP** (28 điều, sửa đổi bổ sung NĐ 214/2025 & NĐ 32/2019)
 - **Thông tư 79/2025/TT-BTC** (1 index + 4 chương, 35 điều)
 - **Thông tư 80/2025/TT-BTC** (1 document, 6 điều)
 - **1.570 Tình huống thực tế (Q&A)** trích xuất và chuẩn hóa từ Cổng TTĐT Chính phủ (Bộ KH&ĐT, Bộ Tài chính giải đáp)
@@ -53,6 +54,12 @@ Mở folder này làm vault → Graph View để xem mạng lưới quan hệ gi
 
 ## Phiên bản
 
+- **v2.1.0** (2026-09-14): Ingest Nghị định 349/2026/NĐ-CP sửa đổi Nghị định 214
+  - Thêm wiki/documents/nd-349-2026.md (toàn văn 28 điều sửa đổi NĐ 214 & NĐ 32)
+  - Cập nhật các điểm sửa đổi then chốt vào wiki/documents/nd-214-2025/ (Chương I, Chương V)
+  - Cập nhật hạn mức chỉ định thầu mới (1 tỷ, 3 tỷ, 5 tỷ) vào Điều 23 và Cẩm nang Syntheses
+  - Cập nhật liên kết văn bản hướng dẫn và đồ thị tri thức 3 tầng
+
 - **v2.0.0** (2026-09-09): Triển khai Tầng Thực Tiễn & Cẩm Nang Chuyên Sâu (Q&A & Syntheses)
   - Ingest & liên kết **1.570 bài Q&A thực tế** từ Cổng TTĐT Chính phủ vào wiki/qa/
   - Xây dựng **15 chuyên đề tổng hợp thực tiễn chuyên sâu** tại wiki/syntheses/
@@ -79,7 +86,8 @@ Mở folder này làm vault → Graph View để xem mạng lưới quan hệ gi
   - Patched 27 law articles with ## Văn bản hướng dẫn links to NĐ 214
 
 - **v1.1.0** (2026-05-10): Concept-based relationship graph
-  - 98 articles với elated_articles field
+  - 98 articles với 
+elated_articles field
   - 31 concepts (khái niệm pháp lý)
   - Cross-chapter process flow links
   - Điều 4 as central hub (93 connections)

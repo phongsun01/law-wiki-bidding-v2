@@ -21,6 +21,14 @@ tags: [nghị-định, nd-214-2025, chương-05]
 
 **Điều 78. Các trường hợp chỉ định thầu**
 
+> [!NOTE]
+> **Lưu ý sửa đổi từ 09/09/2026 bởi [[documents/nd-349-2026|Nghị định 349/2026/NĐ-CP (Điều 4)]]:**
+> - **Nâng hạn mức chỉ định thầu (khoản 4):** Dự toán mua sắm không hình thành dự án: lên **01 tỷ đồng** (cũ 500tr); Gói thầu tư vấn thuộc dự án: lên **03 tỷ đồng** (cũ 800tr); Gói thầu phi tư vấn, hàng hóa, xây lắp, hỗn hợp thuộc dự án: lên **05 tỷ đồng** (cũ 02 tỷ).
+> - Bổ sung điểm e1 khoản 2: Cho phép chỉ định thầu khi đấu thầu không có nhà thầu tham dự hoặc tất cả không đáp ứng.
+> - Mở rộng chỉ định thầu chuyển đổi số, CSDL quốc gia (điểm d khoản 3), giải phóng mặt bằng tái định cư (điểm c khoản 5), mua sắm thanh lý/phá sản/sàn giao dịch (điểm i, k khoản 5).
+
+
+
 1. Các gói thầu có yêu cầu cấp bách, khẩn cấp, gồm:
 
 a) Gói thầu có yêu cầu cấp bách, khẩn cấpnhằm thực hiện nhiệm vụ quốc phòng, an ninh, đối ngoại, bảo vệ chủ quyền quốc gia;
@@ -96,6 +104,13 @@ h) Gói thầu cung cấp dịch vụ tư vấn lập báo cáo nghiên cứu kh
 Đối với gói thầu thuộc trường hợp chỉ định thầu theo quy định tại khoản này, căn cứ tiến độ hoàn thành của gói thầu, chủ đầu tư thực hiện quy trình chỉ định thầu thông thường hoặc rút gọn theo quy định tương ứng tại Điều 79, khoản 2 và khoản 3 Điều 80 của Nghị định này. Trường hợp có quy định khác tại Nghị quyết của Quốc hội hoặc pháp luật quản lý ngành, lĩnh vực về quy trình, thủ tục chỉ định thầu thì thực hiện theo Nghị quyết Quốc hội hoặc pháp luật quản lý ngành, lĩnh vực đó.
 
 **Điều 79. Quy trình chỉ định thầu thông thường**
+
+> [!NOTE]
+> **Lưu ý sửa đổi từ 09/09/2026 bởi [[documents/nd-349-2026|Nghị định 349/2026/NĐ-CP (Điều 5, 6)]]:**
+> - Chủ đầu tư không bắt buộc thẩm định hồ sơ yêu cầu và kết quả lựa chọn nhà thầu đối với chỉ định thầu thông thường.
+> - Quy định rõ chỉ định thầu rút gọn áp dụng cho trường hợp đấu thầu không thành công (điểm e1 khoản 2 Điều 78).
+
+
 
 1. Gói thầu thuộc các trường hợp quy định tại các điểm c, d, đ, e, g và h khoản 5 và khoản 6 Điều 78 của Nghị định này được áp dụng quy trình chỉ định thầu thông thường.
 
