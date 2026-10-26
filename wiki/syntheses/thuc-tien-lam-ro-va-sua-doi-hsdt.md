@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-lam-ro-va-sua-doi-hsdt]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-67-ky-ket-hop-dong-nha-thau|Điều 67]], [[dieu-63-xet-duyet-trung-thau-nha-dau-tu|Điều 63]], [[dieu-64-loai-hop-dong|Điều 64]]
 - **Khái niệm trọng tâm:** [[ho-so-du-thau]], [[to-chuyen-gia]], [[nha-thau]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 

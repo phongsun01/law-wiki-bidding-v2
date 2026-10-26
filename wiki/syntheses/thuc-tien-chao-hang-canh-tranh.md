@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-chao-hang-canh-tranh]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-24-chao-hang-canh-tranh|Điều 24]], [[dieu-45-thoi-gian|Điều 45]]
 - **Khái niệm trọng tâm:** [[hang-hoa]], [[nha-thau]], [[chu-dau-tu]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 

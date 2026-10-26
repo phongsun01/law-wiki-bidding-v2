@@ -1,6 +1,6 @@
 ---
 name: tra-cuu-luat-dau-thau
-description: Tra cứu quy định pháp luật Đấu thầu Việt Nam (Luật 22/2023, NĐ 214/2025, NĐ 349/2026, TT 79, TT 80, 1.570 Q&A nghiệp vụ và 15 chuyên đề thực tiễn)
+description: Tra cứu quy định pháp luật Đấu thầu Việt Nam (Luật 22/2023, NĐ 214/2025, NĐ 349/2026, TT 79, TT 134 (thay TT 134), 1.570 Q&A nghiệp vụ và 15 chuyên đề thực tiễn)
 ---
 
 # Kỹ năng Tra cứu Pháp luật Đấu thầu (law-wiki-bidding-v2)
@@ -16,7 +16,7 @@ Kỹ năng này hướng dẫn Muse / AI Agent truy cập, định vị và gi�
   - `wiki/documents/nd-214-2025/`: Nghị định 214/2025/NĐ-CP (hướng dẫn thi hành Luật Đấu thầu, chia theo chương).
   - `wiki/documents/nd-349-2026.md`: Nghị định 349/2026/NĐ-CP (sửa đổi NĐ 214, điều chỉnh nâng hạn mức chỉ định thầu lên 1 tỷ, 3 tỷ, 5 tỷ).
   - `wiki/documents/nd-24-2024.md`: Nghị định 24/2024/NĐ-CP (*Status: superseded* - lưu vết lịch sử).
-  - `wiki/documents/tt-79-2025/` & `wiki/documents/tt-80-2025.md`: Thông tư hướng dẫn của Bộ Tài chính.
+  - `wiki/documents/tt-79-2025/` & `wiki/documents/tt-134-2026.md (thay thế tt-80-2025.md)`: Thông tư hướng dẫn của Bộ Tài chính.
 - **Khái niệm & Nguyên tắc:**
   - `wiki/concepts/`: 38 khái niệm và chủ thể đấu thầu (Chủ đầu tư, Bên mời thầu, Nhà đầu tư, Bảo đảm cạnh tranh, Chỉ định thầu, v.v.).
 - **Tình huống thực tế & Chuyên đề sâu:**

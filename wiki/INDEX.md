@@ -236,7 +236,8 @@ Cập nhật: 2026-09-14 (Đồng bộ theo Nghị định 349/2026/NĐ-CP)
 - [[documents/nd-349-2026|Nghị định 349/2026/NĐ-CP]] - Sửa đổi, bổ sung NĐ 214 (Nâng hạn mức chỉ định thầu lên 1 tỷ, 3 tỷ, 5 tỷ; hiệu lực 09/09/2026)
 - [[documents/nd-24-2024|Nghị định 24/2024/NĐ-CP]] - *(Status: superseded - đã hết hiệu lực, thay thế bởi NĐ 214/2025)*
 - [[documents/tt-79-2025|Thông tư 79/2025/TT-BTC]] - Hướng dẫn lựa chọn nhà thầu trên Hệ thống mạng đấu thầu quốc gia
-- [[documents/tt-80-2025|Thông tư 80/2025/TT-BTC]] - Mẫu hồ sơ yêu cầu, báo cáo đánh giá, thẩm định và kiểm tra
+- [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] - Mẫu hồ sơ yêu cầu chỉ định thầu, báo cáo đánh giá, thẩm định, kiểm tra, giám sát (Hiệu lực 09/09/2026, thay thế TT 80)
+- [[documents/tt-80-2025|Thông tư 80/2025/TT-BTC]] - *(Status: superseded - hết hiệu lực từ 09/09/2026)*
 
 ## Cẩm nang Tổng hợp Thực tiễn (Syntheses - 15 Chuyên đề sâu)
 
@@ -268,7 +269,7 @@ Cập nhật: 2026-09-14 (Đồng bộ theo Nghị định 349/2026/NĐ-CP)
 - Chương: 10
 - Điều luật: 100 (98 điều gốc + Điều 29a, Điều 29b)
 - Khái niệm (Concepts): 38
-- Văn bản hướng dẫn (Documents): 5 (NĐ 214, NĐ 349, NĐ 24, TT 79, TT 80)
+- Văn bản hướng dẫn (Documents): 6 (NĐ 214, NĐ 349, NĐ 24, TT 79, TT 80, TT 134)
 - Chuyên đề thực tiễn (Syntheses): 15
 - Tình huống thực tiễn (Q&A): 1.570
 - Tổng số tệp tri thức trong wiki/: 1.762 files

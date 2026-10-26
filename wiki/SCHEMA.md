@@ -14,7 +14,8 @@ Kho tri thức hệ thống hóa toàn diện hệ thống pháp luật về đ�
   - [[documents/nd-24-2024|Nghị định 24/2024/NĐ-CP]] (*Status: superseded* - lưu vết lịch sử phục vụ đối chiếu các tình huống cũ).
 - **Thông tư hướng dẫn:**
   - [[documents/tt-79-2025|Thông tư 79/2025/TT-BTC]] (Quy định chi tiết về cung cấp, đăng tải thông tin và lựa chọn nhà thầu trên Hệ thống mạng đấu thầu quốc gia).
-  - [[documents/tt-80-2025|Thông tư 80/2025/TT-BTC]] (Quy định mẫu hồ sơ yêu cầu, báo cáo đánh giá, báo cáo thẩm định, kiểm tra hoạt động đấu thầu).
+  - [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (Quy định mẫu hồ sơ yêu cầu chỉ định thầu, báo cáo đánh giá, thẩm định, kiểm tra, giám sát - thay thế Thông tư 80/2025/TT-BTC).
+  - [[documents/tt-80-2025|Thông tư 80/2025/TT-BTC]] (*Status: superseded* - đã hết hiệu lực từ ngày 09/09/2026).
 - **Thực tiễn áp dụng:**
   - 1.570 câu hỏi và giải đáp nghiệp vụ chính thức từ Cổng Thông tin điện tử Chính phủ (`wiki/qa/`).
   - 15 chuyên đề tổng hợp thực tiễn sâu rộng (`wiki/syntheses/`).

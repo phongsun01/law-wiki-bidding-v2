@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-to-chuyen-gia-va-tham-dinh]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-19-to-chuyen-gia|Điều 19]], [[dieu-78-trach-nhiem-chu-dau-tu|Điều 78]], [[dieu-79-trach-nhiem-ben-moi-thau|Điều 79]], [[dieu-80-trach-nhiem-to-chuyen-gia|Điều 80]]
 - **Khái niệm trọng tâm:** [[to-chuyen-gia]], [[to-tham-dinh]], [[chu-dau-tu]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 

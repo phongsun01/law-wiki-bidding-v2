@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-kien-nghi-va-giai-quyet-tranh-chap]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-89-giai-quyet-kien-nghi|Điều 89]], [[dieu-90-dieu-kien-kien-nghi|Điều 90]], [[dieu-91-quy-trinh-nha-thau|Điều 91]], [[dieu-92-quy-trinh-nha-dau-tu|Điều 92]], [[dieu-93-hoi-dong-kien-nghi|Điều 93]], [[dieu-94-khoi-kien|Điều 94]]
 - **Khái niệm trọng tâm:** [[kien-nghi]], [[nha-thau]], [[chu-dau-tu]], [[nguoi-co-tham-quyen]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 

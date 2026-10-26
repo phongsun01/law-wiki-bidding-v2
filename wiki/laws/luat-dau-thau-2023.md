@@ -76,7 +76,7 @@ Chương X: Điều khoản thi hành (Điều 95-98)
 
 - [[nd-214-2025]] - Nghị định 214/2025/NĐ-CP hướng dẫn Luật Đấu thầu
 - [[tt-79-2025]] - Thông tư 79/2025/TT-BTC về đăng tải thông tin đấu thầu
-- [[tt-80-2025]] - Thông tư 80/2025/TT-BTC về mẫu hồ sơ, báo cáo
+- [[documents/tt-134-2026|tt-134-2026]] - Thông tư 134/2026/TT-BTC về mẫu hồ sơ yêu cầu, báo cáo đánh giá, kiểm tra, giám sát (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ## Nguồn
 

@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-chi-dinh-thau-va-chi-dinh-rut-gon]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-23-chi-dinh-thau|Điều 23]], [[dieu-43-quy-trinh|Điều 43]], [[dieu-78-trach-nhiem-chu-dau-tu|Điều 78]], [[dieu-40-phe-duyet-du-an|Điều 40]]
 - **Khái niệm trọng tâm:** [[chu-dau-tu]], [[nguoi-co-tham-quyen]], [[nha-thau]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[documents/nd-349-2026|Nghị định 349/2026/NĐ-CP]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[documents/nd-349-2026|Nghị định 349/2026/NĐ-CP]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 

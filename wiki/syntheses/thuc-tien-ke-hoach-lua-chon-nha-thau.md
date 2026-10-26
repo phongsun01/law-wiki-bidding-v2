@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-ke-hoach-lua-chon-nha-thau]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-37-nguyen-tac-lap-ke-hoach|Điều 37]], [[dieu-38-lap-ke-hoach|Điều 38]], [[dieu-39-noi-dung-ke-hoach|Điều 39]], [[dieu-40-phe-duyet-du-an|Điều 40]], [[dieu-41-phe-duyet-du-toan|Điều 41]], [[dieu-42-dau-thau-truoc|Điều 42]]
 - **Khái niệm trọng tâm:** [[ke-hoach-lua-chon-nha-thau]], [[chu-dau-tu]], [[nguoi-co-tham-quyen]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 

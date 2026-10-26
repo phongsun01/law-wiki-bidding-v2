@@ -12,7 +12,8 @@ Wiki này bao gồm:
   - **Nghị định 349/2026/NĐ-CP** (toàn văn 28 điều sửa đổi, bổ sung NĐ 214/2025 và NĐ 32/2019; nâng hạn mức chỉ định thầu lên 1 tỷ, 3 tỷ, 5 tỷ đồng).
   - **Nghị định 24/2024/NĐ-CP** (*Status: superseded* - lưu vết lịch sử phục vụ đối chiếu các tình huống cũ).
   - **Thông tư 79/2025/TT-BTC** (1 hub document + 4 chương, 35 điều quy định về Hệ thống mạng đấu thầu quốc gia).
-  - **Thông tư 80/2025/TT-BTC** (1 document, 6 điều quy định mẫu hồ sơ yêu cầu, báo cáo đánh giá, thẩm định và kiểm tra).
+  - **Thông tư 134/2026/TT-BTC** (1 document, 7 điều quy định chi tiết mẫu hồ sơ yêu cầu chỉ định thầu, báo cáo đánh giá, thẩm định, kiểm tra, giám sát hoạt động đấu thầu; sửa đổi TT 79 và thay thế TT 80).
+  - **Thông tư 80/2025/TT-BTC** (*Status: superseded* - hết hiệu lực từ ngày 09/09/2026, lưu vết lịch sử).
 - **Khái niệm & Nguyên tắc Pháp lý cốt lõi (Concepts):**
   - **38 concepts** (31 khái niệm pháp lý gốc + 4 khái niệm từ Điều 2 NĐ 214 + 3 chủ thể/nguyên tắc trọng điểm: Bên mời thầu, Nhà đầu tư, Bảo đảm cạnh tranh).
 - **Thực tiễn nghiệp vụ & Cẩm nang chuyên sâu:**
@@ -34,7 +35,7 @@ law-wiki-bidding-v2/
 │   ├── articles/             # 100 điều luật (Điều 1 - 98 + Điều 29a, Điều 29b)
 │   ├── chapters/             # 10 chương của Luật Đấu thầu
 │   ├── concepts/             # 38 khái niệm và chủ thể pháp lý
-│   ├── documents/            # Văn bản hướng dẫn (NĐ 214, NĐ 349, NĐ 24, TT 79, TT 80)
+│   ├── documents/            # Văn bản hướng dẫn (NĐ 214, NĐ 349, NĐ 24, TT 79, TT 80, TT 134)
 │   ├── laws/                 # Văn bản luật gốc hợp nhất
 │   ├── qa/                   # 1.570 tình huống thực tế
 │   └── syntheses/            # 15 chuyên đề tổng hợp thực tiễn chuyên sâu

@@ -1,3 +1,15 @@
+## 2026-09-14 - Ingest Thông tư 134/2026/TT-BTC thay thế Thông tư 80/2025/TT-BTC (COMPLETE)
+
+**Date:** 2026-09-14  
+**Source:** `raw/tt-134-btc.md`  
+**Output:**
+- Tạo tài liệu quy chuẩn: `wiki/documents/tt-134-2026.md` (7 điều, 8 mẫu HSYC, 3 mẫu báo cáo đánh giá, 3 mẫu thẩm định, 6 mẫu kiểm tra, 2 mẫu giám sát).
+- Chuyển `wiki/documents/tt-80-2025.md` sang `status: superseded`, gắn cảnh báo thay thế bởi TT 134/2026.
+- Cập nhật điểm sửa đổi của TT 134 đối với Thông tư 79/2025/TT-BTC (Mẫu bảo lãnh dự thầu mới 04A, 04B và nâng hạn mức mua sắm lên 100 triệu).
+- Cập nhật liên kết hướng dẫn tại các chuyên đề Syntheses, Luật Đấu thầu, INDEX.md, SCHEMA.md và README.md.
+
+---
+
 ## 2026-09-14 - Audit toàn diện, sửa link/anchor hỏng, chuẩn hóa Schema & Linter (COMPLETE)
 
 **Date:** 2026-09-14  

@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-dau-thau-qua-mang]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-50-dau-thau-qua-mang|Điều 50]], [[dieu-51-yeu-cau-he-thong|Điều 51]], [[dieu-52-trach-nhiem-van-hanh|Điều 52]], [[dieu-53-mua-sam-tap-trung|Điều 53]], [[dieu-54-thoa-thuan-khung|Điều 54]]
 - **Khái niệm trọng tâm:** [[dau-thau-qua-mang]], [[he-thong-mang-dau-thau-quoc-gia]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 

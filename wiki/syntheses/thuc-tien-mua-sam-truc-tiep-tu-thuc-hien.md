@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-mua-sam-truc-tiep-tu-thuc-hien]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-25-mua-sam-truc-tiep|Điều 25]], [[dieu-26-tu-thuc-hien|Điều 26]], [[dieu-29-truong-hop-dac-biet|Điều 29]]
 - **Khái niệm trọng tâm:** [[hang-hoa]], [[nha-thau]], [[chu-dau-tu]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 

@@ -16,7 +16,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-xu-ly-tinh-huong-dau-thau]
 ## Căn cứ pháp lý & Khái niệm liên quan
 - **Điều luật chi phối:** [[dieu-88-xu-ly-tinh-huong|Điều 88]], [[dieu-17-huy-thau|Điều 17]], [[dieu-18-dinh-chi|Điều 18]]
 - **Khái niệm trọng tâm:** [[chu-dau-tu]], [[nguoi-co-tham-quyen]], [[nha-thau]]
-- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
+- **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[documents/tt-134-2026|Thông tư 134/2026/TT-BTC]] (thay thế [[documents/tt-80-2025|TT 80/2025]])
 
 ---
 
