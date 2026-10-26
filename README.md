@@ -68,6 +68,12 @@ python scripts/lint.py
 
 ## Lịch sử Phiên bản
 
+- **v2.3.0** (2026-09-14): Ingest Thông tư 134/2026/TT-BTC thay thế toàn diện Thông tư 80/2025/TT-BTC
+  - Thêm wiki/documents/tt-134-2026.md (toàn văn 7 điều và phụ lục 8 mẫu hồ sơ yêu cầu chỉ định thầu, 3 mẫu báo cáo đánh giá, 3 mẫu thẩm định, 6 mẫu kiểm tra, 2 mẫu giám sát).
+  - Đổi trạng thái wiki/documents/tt-80-2025.md sang status: superseded, gắn cảnh báo thay thế từ 09/09/2026.
+  - Cập nhật các điểm sửa đổi đối với Thông tư 79/2025/TT-BTC (Mẫu bảo lãnh dự thầu mới 04A, 04B và nâng hạn mức mua sắm lên 100 triệu đồng).
+  - Cập nhật liên kết hướng dẫn tại 15 chuyên đề Syntheses, Luật Đấu thầu, INDEX.md, SCHEMA.md và kỹ năng Muse 	ra-cuu-luat-dau-thau.
+
 - **v2.2.0** (2026-09-14): Chuẩn hóa toàn diện, sửa link/anchor hỏng & nâng cấp Schema
   - Xử lý triệt để 100% link hỏng và anchor hỏng theo đồ thị wikilink.
   - Bổ sung `wiki/documents/nd-24-2024.md` (*status: superseded*) giải quyết triệt để 86 tham chiếu cũ.
