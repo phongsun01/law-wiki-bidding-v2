@@ -14,7 +14,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-xu-ly-tinh-huong-dau-thau]
 > Giúp cán bộ quản lý dự án, chủ đầu tư và nhà thầu nắm bắt nhanh các nguyên tắc áp dụng, phòng tránh sai phạm.
 
 ## Căn cứ pháp lý & Khái niệm liên quan
-- **Điều luật chi phối:** [[dieu-88-*|Điều 88]], [[dieu-17-*|Điều 17]], [[dieu-18-*|Điều 18]]
+- **Điều luật chi phối:** [[dieu-88-xu-ly-tinh-huong|Điều 88]], [[dieu-17-huy-thau|Điều 17]], [[dieu-18-dinh-chi|Điều 18]]
 - **Khái niệm trọng tâm:** [[chu-dau-tu]], [[nguoi-co-tham-quyen]], [[nha-thau]]
 - **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
 

@@ -164,7 +164,7 @@ tags: [đánh-giá, hồ-sơ, tổ-chuyên-gia]
 
 - [[dieu-19-to-chuyen-gia]] - Tổ chuyên gia
 - [[dieu-44-noi-dung-ho-so]] - Nội dung hồ sơ mời thầu
-- [[dieu-40-phe-duyet-ket-qua]] - Phê duyệt kết quả
+- [[dieu-40-phe-duyet-du-an]] - Phê duyệt kết quả
 
 ## Tham khảo
 

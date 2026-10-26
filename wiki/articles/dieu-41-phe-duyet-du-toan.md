@@ -10,23 +10,15 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Hồ sơ trình duyệt kế hoạch lựa chọn nhà thầu bao gồm những nội dung sau
   đây:'
-related_articles: [4, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 29, 38, 39, 40]
+related_articles: [4, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 38, 39, 40]
 clauses: 2
 threshold_vnd: null
 method: null
-applies_to:
-- chủ-đầu-tư
-- dự-toán-mua-sắm
-tags:
-- phê-duyệt
-- kế-hoạch
-- dự-toán-mua-sắm
+applies_to: [chủ-đầu-tư, dự-toán-mua-sắm]
+tags: [phê-duyệt, kế-hoạch, dự-toán-mua-sắm]
 total_clauses: 2
-anchors:
-- khoan-1
-- khoan-2
+anchors: [khoan-1, khoan-2]
 ---
-
 # Điều 41. Phê duyệt kế hoạch lựa chọn nhà thầu đối với dự toán mua sắm
 
 **Thuộc:** [[chuong-3-ke-hoach]]

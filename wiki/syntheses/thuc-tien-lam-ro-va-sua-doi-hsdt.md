@@ -14,7 +14,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-lam-ro-va-sua-doi-hsdt]
 > Giúp cán bộ quản lý dự án, chủ đầu tư và nhà thầu nắm bắt nhanh các nguyên tắc áp dụng, phòng tránh sai phạm.
 
 ## Căn cứ pháp lý & Khái niệm liên quan
-- **Điều luật chi phối:** [[dieu-67-*|Điều 67]], [[dieu-63-*|Điều 63]], [[dieu-64-*|Điều 64]]
+- **Điều luật chi phối:** [[dieu-67-ky-ket-hop-dong-nha-thau|Điều 67]], [[dieu-63-xet-duyet-trung-thau-nha-dau-tu|Điều 63]], [[dieu-64-loai-hop-dong|Điều 64]]
 - **Khái niệm trọng tâm:** [[ho-so-du-thau]], [[to-chuyen-gia]], [[nha-thau]]
 - **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
 

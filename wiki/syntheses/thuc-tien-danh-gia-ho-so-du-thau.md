@@ -14,7 +14,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-danh-gia-ho-so-du-thau]
 > Giúp cán bộ quản lý dự án, chủ đầu tư và nhà thầu nắm bắt nhanh các nguyên tắc áp dụng, phòng tránh sai phạm.
 
 ## Căn cứ pháp lý & Khái niệm liên quan
-- **Điều luật chi phối:** [[dieu-63-*|Điều 63]], [[dieu-64-*|Điều 64]], [[dieu-65-*|Điều 65]], [[dieu-66-*|Điều 66]], [[dieu-67-*|Điều 67]], [[dieu-21-*|Điều 21]], [[dieu-22-*|Điều 22]]
+- **Điều luật chi phối:** [[dieu-63-xet-duyet-trung-thau-nha-dau-tu|Điều 63]], [[dieu-64-loai-hop-dong|Điều 64]], [[dieu-65-ho-so-hop-dong|Điều 65]], [[dieu-66-dieu-kien-ky-ket-hop-dong|Điều 66]], [[dieu-67-ky-ket-hop-dong-nha-thau|Điều 67]], [[dieu-21-dau-thau-rong-rai|Điều 21]], [[dieu-22-dau-thau-han-che|Điều 22]]
 - **Khái niệm trọng tâm:** [[danh-gia-ho-so]], [[ho-so-du-thau]], [[nha-thau]], [[to-chuyen-gia]]
 - **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
 

@@ -12,21 +12,11 @@ summary: Đấu thầu rộng rãi được áp dụng đối với dự án đ�
   chế số lượng nhà đầu tư tham dự.
 related_articles: [4, 20, 21, 22, 35]
 clauses: 4
-applies_to:
-- dự-án-đầu-tư
-- nhà-đầu-tư
-tags:
-- hình-thức-lựa-chọn
-- nhà-đầu-tư
-- đấu-thầu
-- chỉ-định
-total_clauses: 3
-anchors:
-- khoan-1
-- khoan-2
-- khoan-3
+applies_to: [dự-án-đầu-tư, nhà-đầu-tư]
+tags: [hình-thức-lựa-chọn, nhà-đầu-tư, đấu-thầu, chỉ-định]
+total_clauses: 4
+anchors: [khoan-1, khoan-2, khoan-3]
 ---
-
 # Điều 34. Hình thức lựa chọn nhà đầu tư
 
 **Thuộc:** [[chuong-2-lua-chon-nha-thau]]

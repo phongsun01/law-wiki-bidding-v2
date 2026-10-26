@@ -2,7 +2,7 @@
 type: concept
 category: legal-concept
 name: "Phê duyệt"
-defined_in: "[[dieu-36-ke-hoach]]"
+defined_in: "[[dieu-36-ke-hoach-tong-the]]"
 domain: procurement-law
 related_concepts: ["[[nguoi-co-tham-quyen]]", "[[tham-quyen]]", "[[ke-hoach-lua-chon-nha-thau]]", "[[ket-qua-lua-chon-nha-thau]]"]
 tags: [phê-duyệt, quyết-định, thẩm-quyền]
@@ -14,7 +14,7 @@ tags: [phê-duyệt, quyết-định, thẩm-quyền]
 
 *Phê duyệt* là hành vi của người có thẩm quyền chấp thuận, công nhận tính hợp pháp và hiệu lực của kế hoạch, kết quả lựa chọn nhà thầu.
 
-**Nguồn:** [[dieu-36-ke-hoach]]
+**Nguồn:** [[dieu-36-ke-hoach-tong-the]]
 
 ## Vai trò
 
@@ -109,8 +109,8 @@ Phê duyệt là bước kiểm soát quan trọng trong đấu thầu, có vai 
 
 ## Điều liên quan
 
-- [[dieu-36-ke-hoach]] - Kế hoạch lựa chọn nhà thầu
-- [[dieu-40-phe-duyet-ket-qua]] - Phê duyệt kết quả lựa chọn nhà thầu
+- [[dieu-36-ke-hoach-tong-the]] - Kế hoạch lựa chọn nhà thầu
+- [[dieu-40-phe-duyet-du-an]] - Phê duyệt kết quả lựa chọn nhà thầu
 
 ## Tham khảo
 

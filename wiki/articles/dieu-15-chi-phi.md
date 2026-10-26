@@ -110,4 +110,3 @@ Chính phủ quy định chi tiết Điều này.
 
 - [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
 - [[chuong-01]] - Nội dung liên quan lập kế hoạch và tổ chức lựa chọn nhà thầu
-

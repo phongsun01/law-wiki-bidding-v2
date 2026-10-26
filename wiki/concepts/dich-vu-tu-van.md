@@ -92,11 +92,11 @@ Hồ sơ dự thầu tư vấn được đánh giá theo:
 ## Điều liên quan
 
 - [[dieu-4-giai-thich-tu-ngu#khoan-4]] - Định nghĩa
-- [[dieu-30-phuong-thuc-mot-tui]] - Phương thức một túi hồ sơ (tư vấn)
-- [[dieu-31-phuong-thuc-hai-tui]] - Phương thức hai túi hồ sơ (tư vấn)
-- [[dieu-32-phuong-thuc-chi-so-chat-luong]] - Phương thức chỉ số chất lượng (tư vấn)
-- [[dieu-33-phuong-thuc-gia-co-dinh]] - Phương thức giá cố định (tư vấn)
-- [[dieu-34-phuong-thuc-chi-phi-cong-phi]] - Phương thức chi phí cộng phí (tư vấn)
+- [[dieu-30-mot-giai-doan-mot-tui]] - Phương thức một túi hồ sơ (tư vấn)
+- [[dieu-31-mot-giai-doan-hai-tui]] - Phương thức hai túi hồ sơ (tư vấn)
+- [[dieu-32-hai-giai-doan-mot-tui]] - Phương thức chỉ số chất lượng (tư vấn)
+- [[dieu-33-hai-giai-doan-hai-tui]] - Phương thức giá cố định (tư vấn)
+- [[dieu-34-hinh-thuc-nha-dau-tu]] - Phương thức chi phí cộng phí (tư vấn)
 
 ## Ví dụ áp dụng
 

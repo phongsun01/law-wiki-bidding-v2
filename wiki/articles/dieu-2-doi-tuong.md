@@ -11,22 +11,12 @@ status: amended
 summary: 'Luật này áp dụng đối với các cơ quan, tổ chức, cá nhân tham gia hoặc có
   liên quan đến hoạt động đấu thầu bao gồm:'
 related_articles: [1, 3, 4, 5]
-clauses: 4
-tags:
-- đối-tượng-áp-dụng
-- phạm-vi
+clauses: 3
+tags: [đối-tượng-áp-dụng, phạm-vi]
 total_clauses: 3
-anchors:
-- khoan-1
-- khoan-1-diem-a
-- khoan-1-diem-b
-- khoan-1-diem-c
-- khoan-3
-- khoan-3-diem-a
-- khoan-3-diem-b
-- khoan-4
+anchors: [khoan-1, khoan-1-diem-a, khoan-1-diem-b, khoan-1-diem-c, khoan-3, khoan-3-diem-a,
+  khoan-3-diem-b, khoan-4]
 ---
-
 # Điều 2. Đối tượng áp dụng
 
 **Thuộc:** [[chuong-1-quy-dinh-chung]]

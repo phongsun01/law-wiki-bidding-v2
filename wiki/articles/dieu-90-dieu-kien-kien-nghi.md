@@ -10,8 +10,8 @@ amendment_history: Luật 22/2023/QH15, Luật 90/2025/QH15
 status: repealed
 summary: Điều này đã bị bãi bỏ theo Luật 90/2025/QH15
 related_articles: [1, 4, 89, 91]
+tags: [luat-dau-thau, dieu-khoan, kien-nghi, giai-quyet-tranh-chap]
 ---
-
 # ~~Điều 90~~. ~~Điều kiện xem xét, giải quyết kiến nghị~~
 
 **Thuộc:** [[chuong-9-kien-nghi-khoi-kien]]
@@ -39,4 +39,3 @@ Nội dung điều kiện xem xét, giải quyết kiến nghị hiện được
 - [[mức-phạt-khi-phê-duyệt-loại-hợp-đồng-không-phù-hợp-gói-thầu-91786fab6cb5115e]] - Mức phạt khi phê duyệt loại hợp đồng không phù hợp gói thầu
 - [[thẩm-quyền-cấm-tham-gia-đấu-thầu-27d3f0648478adec]] - Thẩm quyền cấm tham gia đấu thầu
 - [[thế-nào-bị-coi-là-chuyển-nhượng-thầu-fdfe94e33de1f53e]] - Thế nào bị coi là chuyển nhượng thầu?
-

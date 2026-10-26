@@ -2,7 +2,7 @@
 type: concept
 category: legal-concept
 name: "Thực hiện hợp đồng"
-defined_in: "[[dieu-77-trach-nhiem-chu-dau-tu]]"
+defined_in: "[[dieu-78-trach-nhiem-chu-dau-tu]]"
 domain: procurement-law
 related_concepts: ["[[hop-dong]]", "[[nha-thau]]", "[[chu-dau-tu]]"]
 tags: [hợp-đồng, thực-hiện, giám-sát]
@@ -14,7 +14,7 @@ tags: [hợp-đồng, thực-hiện, giám-sát]
 
 *Thực hiện hợp đồng* là quá trình nhà thầu thực hiện các công việc theo cam kết trong hợp đồng và chủ đầu tư giám sát, nghiệm thu, thanh toán.
 
-**Nguồn:** [[dieu-77-trach-nhiem-chu-dau-tu]], [[dieu-78-trach-nhiem-nha-thau]]
+**Nguồn:** [[dieu-78-trach-nhiem-chu-dau-tu]], [[dieu-82-trach-nhiem-nha-thau-nha-dau-tu]]
 
 ## Vai trò
 
@@ -146,9 +146,9 @@ Thực hiện hợp đồng là giai đoạn cuối cùng của chu trình đấ
 
 ## Điều liên quan
 
-- [[dieu-77-trach-nhiem-chu-dau-tu]] - Trách nhiệm chủ đầu tư
-- [[dieu-78-trach-nhiem-nha-thau]] - Trách nhiệm nhà thầu
-- [[dieu-79-giam-sat]] - Giám sát thực hiện hợp đồng
+- [[dieu-78-trach-nhiem-chu-dau-tu]] - Trách nhiệm chủ đầu tư
+- [[dieu-82-trach-nhiem-nha-thau-nha-dau-tu]] - Trách nhiệm nhà thầu
+- [[dieu-86-thanh-tra-kiem-tra-giam-sat]] - Giám sát thực hiện hợp đồng
 
 ## Tham khảo
 

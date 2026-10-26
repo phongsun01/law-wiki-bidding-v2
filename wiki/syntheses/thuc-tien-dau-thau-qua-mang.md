@@ -14,7 +14,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-dau-thau-qua-mang]
 > Giúp cán bộ quản lý dự án, chủ đầu tư và nhà thầu nắm bắt nhanh các nguyên tắc áp dụng, phòng tránh sai phạm.
 
 ## Căn cứ pháp lý & Khái niệm liên quan
-- **Điều luật chi phối:** [[dieu-50-*|Điều 50]], [[dieu-51-*|Điều 51]], [[dieu-52-*|Điều 52]], [[dieu-53-*|Điều 53]], [[dieu-54-*|Điều 54]]
+- **Điều luật chi phối:** [[dieu-50-dau-thau-qua-mang|Điều 50]], [[dieu-51-yeu-cau-he-thong|Điều 51]], [[dieu-52-trach-nhiem-van-hanh|Điều 52]], [[dieu-53-mua-sam-tap-trung|Điều 53]], [[dieu-54-thoa-thuan-khung|Điều 54]]
 - **Khái niệm trọng tâm:** [[dau-thau-qua-mang]], [[he-thong-mang-dau-thau-quoc-gia]]
 - **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
 

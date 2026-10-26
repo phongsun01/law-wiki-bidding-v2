@@ -11,8 +11,6 @@ status: amended
 summary: Chính phủ thống nhất quản lý nhà nước đối với hoạt động đấu thầu trên phạm
   vi cả nước.
 related_articles: [4, 83, 85, 86, 87]
-- 83
-- 85
 clauses: 2
 threshold_vnd: null
 method: null

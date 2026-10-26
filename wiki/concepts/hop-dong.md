@@ -100,8 +100,8 @@ Hợp đồng là kết quả cuối cùng của quá trình lựa chọn nhà t
 ## Điều liên quan
 
 - [[dieu-4-giai-thich-tu-ngu]] - Giải thích từ ngữ
-- [[dieu-77-trach-nhiem-chu-dau-tu]] - Trách nhiệm chủ đầu tư
-- [[dieu-78-trach-nhiem-nha-thau]] - Trách nhiệm nhà thầu
+- [[dieu-78-trach-nhiem-chu-dau-tu]] - Trách nhiệm chủ đầu tư
+- [[dieu-82-trach-nhiem-nha-thau-nha-dau-tu]] - Trách nhiệm nhà thầu
 
 ## Tham khảo
 

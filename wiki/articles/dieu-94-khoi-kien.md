@@ -8,10 +8,11 @@ effective_date: 2024-01-01
 last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15
 status: active
-summary: Quy định về quyền khởi kiện ra Tòa án và yêu cầu áp dụng các biện pháp khẩn cấp tạm thời trong quá trình giải quyết tranh chấp đấu thầu
+summary: Quy định về quyền khởi kiện ra Tòa án và yêu cầu áp dụng các biện pháp khẩn
+  cấp tạm thời trong quá trình giải quyết tranh chấp đấu thầu
 related_articles: [4, 89, 90, 91, 92, 93]
+tags: [luat-dau-thau, dieu-khoan, khoi-kien, toa-an]
 ---
-
 # Điều 94. Quyền khởi kiện và yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời
 
 **Thuộc:** [[chuong-9-kien-nghi-khoi-kien]]
@@ -39,4 +40,3 @@ Khi nộp đơn khởi kiện hoặc trong quá trình Tòa án giải quyết v
 - [[có-quy-định-nhà-thầu-phải-cung-cấp-đơn-giá-chi-tiết-ccd63b5b78e54792]] - Có quy định nhà thầu phải cung cấp đơn giá chi tiết?
 - [[căn-cứ-tính-giảm-giá-gói-thầu-b3f67c1ddb16bb35]] - Căn cứ tính giảm giá gói thầu
 - [[nhà-thầu-được-thanh-toán-theo-đúng-giá-trong-hợp-đồng-78754209b54fc313]] - Nhà thầu được thanh toán theo đúng giá trong hợp đồng
-

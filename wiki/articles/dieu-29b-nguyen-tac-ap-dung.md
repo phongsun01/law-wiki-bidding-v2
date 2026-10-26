@@ -11,22 +11,13 @@ status: active
 summary: Chủ đầu tư áp dụng một trong các hình thức lựa chọn nhà thầu quy định tại
   khoản 1 Điều 20 của Luật này trong các trường hợp và đáp ứng điều kiện quy định
   tại các điều 21, 22, 23, 24, 25, 26, 27, 28, 2
-related_articles: [4, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 29]
+related_articles: [4, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
 clauses: 3
-applies_to:
-- chủ-đầu-tư
-- gói-thầu
-tags:
-- nguyên-tắc-áp-dụng
-- hình-thức-lựa-chọn
-- linh-hoạt
+applies_to: [chủ-đầu-tư, gói-thầu]
+tags: [nguyên-tắc-áp-dụng, hình-thức-lựa-chọn, linh-hoạt]
 total_clauses: 3
-anchors:
-- khoan-1
-- khoan-2
-- khoan-3
+anchors: [khoan-1, khoan-2, khoan-3]
 ---
-
 # Điều 29b. Nguyên tắc áp dụng hình thức lựa chọn nhà thầu
 
 **Thuộc:** [[chuong-2-lua-chon-nha-thau]]

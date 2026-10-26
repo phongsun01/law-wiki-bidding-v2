@@ -1,3 +1,32 @@
+## 2026-09-14 - Audit toàn diện, sửa link/anchor hỏng, chuẩn hóa Schema & Linter (COMPLETE)
+
+**Date:** 2026-09-14  
+**Phạm vi:** Toàn bộ kho tri thức `wiki/` (1.762 files)  
+**Nội dung thực hiện:**
+1. **Sửa dứt điểm 100% link hỏng và anchor hỏng:**
+   - Tạo stub `wiki/documents/nd-24-2024.md` (status: superseded) giải quyết triệt để 86 link hỏng từ syntheses và qa.
+   - Sửa 67 link placeholder wildcard `dieu-XX-*` trong các chuyên đề syntheses thành slug điều luật chuẩn.
+   - Sửa 44 link lệch tên file do đổi tên (`dieu-20-...`, `dieu-36-...`, `dieu-40-...`, `dieu-78-...`, `chuong-2`, `chuong-9`, `dieu-29a`, `dieu-29b`).
+   - Sửa 16 anchor NĐ 214 trỏ đúng `documents/nd-214-2025/chuong-01#dieu-2-giai-thich-tu-ngu`.
+   - Tạo 3 concept cốt lõi: `ben-moi-thau.md`, `nha-dau-tu.md`, `bao-dam-canh-tranh.md`.
+2. **Viết lại SCHEMA.md và thay thế CLAUDE.md bằng Muse Skill:**
+   - Viết lại toàn bộ `wiki/SCHEMA.md` định rõ taxonomy, nguyên tắc không ép 200 dòng đối với văn bản quy phạm pháp luật gốc, quy tắc mảng integer `related_articles`, và phương thức tra cứu Q&A qua grep.
+   - Xóa `CLAUDE.md`, gỡ sạch các đường dẫn cá nhân macOS `/Users/xitrum/...` trong scripts và docs.
+   - Tạo kỹ năng Muse chuẩn tại `skills/tra-cuu-luat-dau-thau/SKILL.md` và `.agents/skills/`.
+3. **Sửa script và bổ sung công cụ Lint:**
+   - Đổi hardcode paths trong `scripts/patch_tt79_batch_*.py` sang đường dẫn tương đối.
+   - Viết `scripts/lint.py` kiểm tra tự động toàn diện: link, anchor, frontmatter, orphan, tags, index sync. Kết quả chạy đạt **0 lỗi, 0 cảnh báo**.
+4. **Đồng bộ hóa chỉ mục, số liệu và ngày tháng:**
+   - Cập nhật ngày tháng trong `INDEX.md` lên 2026-09-14.
+   - Mở rộng `INDEX.md` liệt kê chi tiết đầy đủ 100 Điều luật (Điều 1 - 98 + Điều 29a, 29b) phân theo 10 chương.
+   - Đồng bộ hóa số liệu trong `README.md` (100 articles = 98 + 29a + 29b, 38 concepts = 31 gốc + 4 NĐ214 + 3 mới).
+5. **Chuẩn hóa Frontmatter & cập nhật Điều 23:**
+   - Khắc phục lỗi YAML và chuẩn hóa frontmatter trên toàn bộ 100 articles (tags đầy đủ, clauses đồng bộ).
+   - Loại bỏ các số trùng lặp trong `related_articles` (ví dụ `[4, 20, 29, 38]`).
+   - Cập nhật nội dung hạn mức NĐ 349 (1 tỷ, 3 tỷ, 5 tỷ) trực tiếp vào thân bài và ghi chú của `dieu-23-chi-dinh-thau.md`, sửa `last_amended: 2026-09-09`.
+
+---
+
 ## 2026-09-14 - Ingest Nghị định 349/2026/NĐ-CP sửa đổi NĐ 214 (COMPLETE)
 
 **Date:** 2026-09-14  
@@ -39,7 +68,7 @@
 ### TT-80/2025/TT-BTC Ingest
 
 **Date:** 2026-05-14  
-**Source:** `/Users/xitrum/Library/CloudStorage/Box-Box/Tai lieu - Phong/Van ban phap luat/TT-80-BTC.md`  
+**Source:** `raw/TT-80-BTC.md`  
 **Strategy:** Single document file (no chapter structure)
 
 **Output:**
@@ -79,7 +108,7 @@
 ### TT-79/2025/TT-BTC Ingest
 
 **Date:** 2026-05-14  
-**Source:** `/Users/xitrum/Library/CloudStorage/Box-Box/Tai lieu - Phong/Van ban phap luat/TT-79-BTC.md`  
+**Source:** `raw/TT-79-BTC.md`  
 **Strategy:** Hub + chapter structure (không tách điều riêng)
 
 **Output:**
@@ -250,8 +279,8 @@ grep -oh '{#[^}]*}' wiki/articles/*.md | grep -v '{#khoan-[0-9]' | grep -v 'diem
 
 ### Ingest Luật Đấu thầu Hợp nhất - Tier 1
 
-**Source:** `/Users/xitrum/Library/CloudStorage/Box-Box/Tai lieu - Phong/Van ban phap luat/luat-22-25-90.md`  
-**Target:** `/Users/xitrum/law-wiki-bidding-v2/`  
+**Source:** `raw/luat-22-25-90.md`  
+**Target:** ``  
 **Strategy:** 3-tier ingest theo schema v2.0
 
 **Tier 1 Output:**

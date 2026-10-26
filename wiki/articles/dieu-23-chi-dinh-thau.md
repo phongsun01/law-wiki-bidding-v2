@@ -5,12 +5,12 @@ title: Chỉ định thầu
 chapter: 2
 chapter_title: Lựa chọn nhà thầu, nhà đầu tư
 effective_date: 2024-01-01
-last_amended: 2024-01-01
-amendment_history: Luật 22/2023/QH15
+last_amended: 2026-09-09
+amendment_history: 'Luật 22/2023/QH15, Luật 57/2024/QH15, NĐ 349/2026/NĐ-CP'
 status: amended
 summary: 'Chỉ định thầu được áp dụng để giao cho một nhà thầu thực hiện gói thầu thuộc
   dự án, dự toán mua sắm đáp ứng một trong các yêu cầu sau:'
-related_articles: [4, 20, 29, 29, 38]
+related_articles: [4, 20, 29, 38]
 clauses: 2
 method: chỉ-định-thầu
 applies_to:
@@ -81,10 +81,18 @@ Chính phủ quy định chi tiết Điều này.
 - [[có-được-chỉ-định-thầu-cho-nhà-thầu-đã-cung-cấp-dịch-vụ-tư-vấn-f5cb725af5b43615]] - Có được chỉ định thầu cho nhà thầu đã cung cấp dịch vụ tư vấn?
 - *...và 60 tình huống khác trong [[INDEX-QA#dieu-23|Mục lục Q&A Điều 23]].*
 
-**Ghi chú:**
-- Điều này được sửa đổi theo Luật 57/2024/QH15
-- Chỉ định thầu = giao trực tiếp cho 1 nhà thầu, không qua cạnh tranh
-- 9 trường hợp áp dụng (a-i)
-- Điểm e: có hạn mức do Chính phủ quy định (thường < 500 triệu - 1 tỷ)
-- Điểm h, i: bổ sung mới cho khoa học công nghệ, đổi mới sáng tạo
-- Phải có căn cứ rõ ràng, tránh lạm dụng
+> [!IMPORTANT]
+> **Cập nhật quan trọng theo Nghị định 349/2026/NĐ-CP (có hiệu lực từ 09/09/2026):**
+> Hạn mức áp dụng chỉ định thầu quy định tại Điểm e Khoản 1 đã được nâng mạnh theo quy định sửa đổi Điều 78 Nghị định 214/2025/NĐ-CP:
+> - **01 tỷ đồng:** Đối với gói thầu thuộc dự toán mua sắm không hình thành dự án.
+> - **03 tỷ đồng:** Đối với gói thầu dịch vụ tư vấn thuộc dự án đầu tư.
+> - **05 tỷ đồng:** Đối với gói thầu dịch vụ phi tư vấn, hàng hóa, xây lắp, hỗn hợp thuộc dự án đầu tư.
+> *(Không còn áp dụng các hạn mức cũ dưới 500 triệu - 1 tỷ đồng).*
+
+**Ghi chú tổng hợp:**
+- Căn cứ pháp lý: Luật 22/2023/QH15, sửa đổi bởi Luật 57/2024/QH15; hướng dẫn chi tiết bởi [[documents/nd-214-2025|NĐ 214/2025/NĐ-CP]] và sửa đổi bởi [[documents/nd-349-2026|NĐ 349/2026/NĐ-CP]].
+- Bản chất: Chỉ định thầu = giao trực tiếp cho 1 nhà thầu được xác định, không qua thủ tục đấu thầu cạnh tranh rộng rãi.
+- 9 trường hợp áp dụng (Điểm a đến Điểm i Khoản 1).
+- Điểm e: Áp dụng theo các hạn mức mới (1 tỷ, 3 tỷ, 5 tỷ đồng).
+- Điểm h, i: Áp dụng mở rộng cho lĩnh vực chiến lược, KHCN, đổi mới sáng tạo, chuyển đổi số.
+- Nghiêm cấm chia nhỏ gói thầu nhằm mục đích áp dụng chỉ định thầu trái luật.

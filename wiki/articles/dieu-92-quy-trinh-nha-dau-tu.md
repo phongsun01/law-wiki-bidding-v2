@@ -10,8 +10,8 @@ amendment_history: Luật 22/2023/QH15, Luật 90/2025/QH15
 status: repealed
 summary: Điều này đã bị bãi bỏ theo Luật 90/2025/QH15
 related_articles: [1, 4, 82, 89, 90, 91, 93]
+tags: [luat-dau-thau, dieu-khoan, kien-nghi, giai-quyet-tranh-chap]
 ---
-
 # ~~Điều 92~~. ~~Quy trình giải quyết kiến nghị về lựa chọn nhà đầu tư~~
 
 **Thuộc:** [[chuong-9-kien-nghi-khoi-kien]]
@@ -40,4 +40,3 @@ Nội dung quy trình giải quyết kiến nghị hiện được quy định c
 - [[nhà-thầu-có-quyền-kiến-nghị-khởi-kiện-chủ-đầu-tư-c5b37aa27cb02e07]] - Nhà thầu có quyền kiến nghị, khởi kiện chủ đầu tư
 - [[nhà-thầu-có-quyền-yêu-cầu-bên-mời-thầu-làm-rõ-hsmt-d81178487b2b4b39]] - Nhà thầu có quyền yêu cầu bên mời thầu làm rõ HSMT
 - [[nhà-thầu-có-thể-kiến-nghị-hoặc-khởi-kiện-về-kết-quả-đấu-thầu-6ff2d92dc60ca37a]] - Nhà thầu có thể kiến nghị hoặc khởi kiện về kết quả đấu thầu
-

@@ -50,4 +50,4 @@ Chương này gồm 19 điều (Điều 1-19), bao gồm:
 
 ## Liên quan
 
-- [[chuong-2-hinh-thuc-phuong-thuc]] - Hình thức, phương thức lựa chọn nhà thầu
+- [[chuong-2-lua-chon-nha-thau]] - Hình thức, phương thức lựa chọn nhà thầu

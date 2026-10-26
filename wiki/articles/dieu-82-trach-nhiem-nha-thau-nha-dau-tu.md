@@ -11,8 +11,6 @@ status: amended
 summary: Yêu cầu chủ đầu tư, bên mời thầu<sup>145</sup>(#footnote-145) làm rõ hồ sơ
   mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu.
 related_articles: [4, 63, 64, 67, 81]
-- 80
-- 81
 clauses: 5
 threshold_vnd: null
 method: null

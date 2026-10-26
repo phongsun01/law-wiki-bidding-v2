@@ -8,10 +8,11 @@ effective_date: 2024-01-01
 last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15, Luật 57/2024/QH15, Luật 90/2025/QH15
 status: active
-summary: Quy định về việc áp dụng chuyển tiếp đối với các gói thầu và dự án đầu tư đã phê duyệt trước khi Luật có hiệu lực
+summary: Quy định về việc áp dụng chuyển tiếp đối với các gói thầu và dự án đầu tư
+  đã phê duyệt trước khi Luật có hiệu lực
 related_articles: [1, 2, 3, 4, 6, 10, 95, 97, 98]
+tags: [luat-dau-thau, dieu-khoan, chuyen-tiep, hieu-luc]
 ---
-
 # Điều 96. Quy định chuyển tiếp
 
 **Thuộc:** [[chuong-10-dieu-khoan-thi-hanh]]
@@ -80,4 +81,3 @@ Các gói thầu lựa chọn nhà thầu, dự án đầu tư kinh doanh đã p
 - [[có-được-sử-dụng-tài-khoản-của-chi-nhánh-để-đấu-thầu-qua-mạng-05622e0eaef4b8d1]] - Có được sử dụng tài khoản của chi nhánh để đấu thầu qua mạng?
 - [[gói-thầu-phi-tư-vấn-áp-dụng-mẫu-hợp-đồng-nào-2bb957e54de6501b]] - Gói thầu phi tư vấn áp dụng mẫu hợp đồng nào?
 - [[nhà-thầu-có-được-thanh-toán-phần-chênh-lệch-khối-lượng-công-việc-b98273872c4d0baf]] - Nhà thầu có được thanh toán phần chênh lệch khối lượng công việc?
-

@@ -35,4 +35,4 @@ Chương IX quy định cơ chế giải quyết tranh chấp và xử lý vi ph
 
 ## Liên quan
 
-- [[chuong-8-quan-ly-nha-nuoc]] - Quản lý nhà nước
+- [[chuong-8-trach-nhiem]] - Quản lý nhà nước

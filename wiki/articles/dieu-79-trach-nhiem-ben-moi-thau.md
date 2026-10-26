@@ -10,9 +10,6 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: ~~1~~<sup>138</sup>(#footnote-138). ~~Đối với lựa chọn nhà thầu:~~
 related_articles: [4, 17, 20, 21, 78, 80]
-- 77
-- 78
-- 17
 clauses: 4
 threshold_vnd: null
 method: null

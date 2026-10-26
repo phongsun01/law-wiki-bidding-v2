@@ -11,8 +11,6 @@ status: active
 summary: Thực hiện quản lý nhà nước đối với hoạt động đấu thầu trong phạm vi quản
   lý.
 related_articles: [4, 83, 84, 86]
-- 84
-- 86
 clauses: 5
 threshold_vnd: null
 method: null

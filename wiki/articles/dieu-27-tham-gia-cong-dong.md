@@ -1,22 +1,24 @@
 ---
 law_id: luat-dau-thau-2023
 article_number: 27
-title: "Tham gia thực hiện của cộng đồng"
+title: Tham gia thực hiện của cộng đồng
 chapter: 2
-chapter_title: "Lựa chọn nhà thầu, nhà đầu tư"
+chapter_title: Lựa chọn nhà thầu, nhà đầu tư
 effective_date: 2024-01-01
 last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
-summary: "Cộng đồng dân cư, tổ, nhóm thợ đủ năng lực tại địa phương nơi có gói thầu được giao thực hiện toàn bộ hoặc một phần gói thầu thuộc chương trình mục tiêu quốc gia, chương trình đầu tư công mà Nhà nước "
+summary: 'Cộng đồng dân cư, tổ, nhóm thợ đủ năng lực tại địa phương nơi có gói thầu
+  được giao thực hiện toàn bộ hoặc một phần gói thầu thuộc chương trình mục tiêu quốc
+  gia, chương trình đầu tư công mà Nhà nước '
 related_articles: [4, 20, 26]
 clauses: 1
 threshold_vnd: 5000000000
 method: tham-gia-cộng-đồng
-applies_to: ['gói-thầu', 'cộng-đồng']
-tags: ['tham-gia-cộng-đồng', 'hình-thức-lựa-chọn', 'chương-trình-mục-tiêu']
+applies_to: [gói-thầu, cộng-đồng]
+tags: [tham-gia-cộng-đồng, hình-thức-lựa-chọn, chương-trình-mục-tiêu]
+total_clauses: 1
 ---
-
 # Điều 27. Tham gia thực hiện của cộng đồng
 
 **Thuộc:** [[chuong-2-lua-chon-nha-thau]]

@@ -9,21 +9,13 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Các hình thức lựa chọn nhà thầu bao gồm:'
-related_articles: [4, 21, 22, 23, 24, 25, 26, 27, 28, 29, 29]
+related_articles: [4, 21, 22, 23, 24, 25, 26, 27, 28, 29]
 clauses: 2
-applies_to:
-- gói-thầu
-- chủ-đầu-tư
-tags:
-- hình-thức-lựa-chọn
-- đấu-thầu
-- chỉ-định-thầu
+applies_to: [gói-thầu, chủ-đầu-tư]
+tags: [hình-thức-lựa-chọn, đấu-thầu, chỉ-định-thầu]
 total_clauses: 2
-anchors:
-- khoan-1
-- khoan-2
+anchors: [khoan-1, khoan-2]
 ---
-
 # Điều 20. Các hình thức lựa chọn nhà thầu
 
 **Thuộc:** [[chuong-2-lua-chon-nha-thau]]

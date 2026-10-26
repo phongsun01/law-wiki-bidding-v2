@@ -1,19 +1,20 @@
 ---
 law_id: luat-dau-thau-2023
 article_number: 16
-title: "Các hành vi bị cấm trong hoạt động đấu thầu"
+title: Các hành vi bị cấm trong hoạt động đấu thầu
 chapter: 2
-chapter_title: "Lựa chọn nhà thầu, nhà đầu tư"
+chapter_title: Lựa chọn nhà thầu, nhà đầu tư
 effective_date: 2024-01-01
 last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
-summary: "Lợi dụng chức vụ, quyền hạn để gây ảnh hưởng, can thiệp trái pháp luật vào hoạt động đấu thầu dưới mọi hình thức."
+summary: Lợi dụng chức vụ, quyền hạn để gây ảnh hưởng, can thiệp trái pháp luật vào
+  hoạt động đấu thầu dưới mọi hình thức.
 related_articles: [4, 5, 6, 10, 14, 17, 18, 42, 44, 56, 87]
 clauses: 9
-tags: ['hành-vi-cấm', 'vi-phạm', 'thông-thầu', 'gian-lận']
+tags: [hành-vi-cấm, vi-phạm, thông-thầu, gian-lận]
+total_clauses: 9
 ---
-
 # Điều 16. Các hành vi bị cấm trong hoạt động đấu thầu
 
 **Thuộc:** [[chuong-2-lua-chon-nha-thau]]
@@ -25,7 +26,7 @@ tags: ['hành-vi-cấm', 'vi-phạm', 'thông-thầu', 'gian-lận']
 ### 2. Lợi dụng chức vụ, quyền hạn
 Lợi dụng chức vụ, quyền hạn để gây ảnh hưởng, can thiệp trái pháp luật vào hoạt động đấu thầu dưới mọi hình thức.
 
-### 3. Thông thầu
+### 3. Thông thầu {#khoan-3}
 Bao gồm các hành vi sau đây:
 
 a) Dàn xếp, thỏa thuận, ép buộc để một hoặc các bên chuẩn bị hồ sơ dự thầu hoặc rút hồ sơ dự thầu để một bên trúng thầu

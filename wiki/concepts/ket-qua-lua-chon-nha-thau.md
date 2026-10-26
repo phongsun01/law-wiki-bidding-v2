@@ -2,7 +2,7 @@
 type: concept
 category: legal-concept
 name: "Kết quả lựa chọn nhà thầu"
-defined_in: "[[dieu-40-phe-duyet-ket-qua]]"
+defined_in: "[[dieu-40-phe-duyet-du-an]]"
 domain: procurement-law
 related_concepts: ["[[lua-chon-nha-thau]]", "[[nha-thau]]", "[[phe-duyet]]", "[[danh-gia-ho-so]]"]
 tags: [kết-quả, phê-duyệt, trúng-thầu]
@@ -14,7 +14,7 @@ tags: [kết-quả, phê-duyệt, trúng-thầu]
 
 *Kết quả lựa chọn nhà thầu* là kết luận cuối cùng về nhà thầu được lựa chọn, giá trúng thầu, và các điều kiện hợp đồng sau quá trình đánh giá hồ sơ dự thầu.
 
-**Nguồn:** [[dieu-40-phe-duyet-ket-qua]]
+**Nguồn:** [[dieu-40-phe-duyet-du-an]]
 
 ## Vai trò
 
@@ -114,7 +114,7 @@ Kết quả lựa chọn nhà thầu là đầu ra quan trọng của quá trìn
 
 ## Điều liên quan
 
-- [[dieu-40-phe-duyet-ket-qua]] - Phê duyệt kết quả
+- [[dieu-40-phe-duyet-du-an]] - Phê duyệt kết quả
 - [[dieu-7-thong-tin]] - Thông tin về đấu thầu
 - [[dieu-89-giai-quyet-kien-nghi]] - Giải quyết kiến nghị
 

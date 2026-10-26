@@ -1,22 +1,22 @@
 ---
 law_id: luat-dau-thau-2023
 article_number: 72
-title: "Hồ sơ hợp đồng dự án đầu tư kinh doanh"
+title: Hồ sơ hợp đồng dự án đầu tư kinh doanh
 chapter: 7
-chapter_title: "Thông tin về đấu thầu"
+chapter_title: Thông tin về đấu thầu
 effective_date: 2024-01-01
 last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
-summary: "Hồ sơ hợp đồng dự án đầu tư kinh doanh bao gồm các tài liệu sau đây:"
+summary: 'Hồ sơ hợp đồng dự án đầu tư kinh doanh bao gồm các tài liệu sau đây:'
 related_articles: [4, 65, 71, 73]
 clauses: 1
 threshold_vnd: null
 method: null
-applies_to: ['nhà-đầu-tư', 'cơ-quan-có-thẩm-quyền']
-tags: ['hợp-đồng', 'dự-án-đầu-tư-kinh-doanh', 'hồ-sơ']
+applies_to: [nhà-đầu-tư, cơ-quan-có-thẩm-quyền]
+tags: [hợp-đồng, dự-án-đầu-tư-kinh-doanh, hồ-sơ]
+total_clauses: 1
 ---
-
 # Điều 72. Hồ sơ hợp đồng dự án đầu tư kinh doanh
 
 **Thuộc:** [[chuong-7-hop-dong]]

@@ -158,4 +158,3 @@ Chính phủ quy định chi tiết Điều này.
 
 - [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
 - [[chuong-07]] - Lựa chọn nhà thầu qua mạng, dữ liệu và quy trình trên Hệ thống
-

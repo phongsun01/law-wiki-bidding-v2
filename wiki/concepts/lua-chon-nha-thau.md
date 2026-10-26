@@ -77,8 +77,12 @@ Lựa chọn nhà thầu là hoạt động trung tâm của Luật Đấu thầ
 ## Điều liên quan
 
 - [[dieu-1-pham-vi]] - Phạm vi điều chỉnh
-- [[dieu-20-hinh-thuc]] - Các hình thức lựa chọn nhà thầu
-- [[dieu-36-ke-hoach]] - Kế hoạch lựa chọn nhà thầu
+- [[dieu-20-hinh-thuc-lua-chon]] - Các hình thức lựa chọn nhà thầu
+- [[dieu-29a-dat-hang]] - Đặt hàng cung cấp sản phẩm dịch vụ
+- [[dieu-36-ke-hoach-tong-the]] - Kế hoạch lựa chọn nhà thầu
+- [[chao-gia-truc-tuyen]] - Chào giá trực tuyến
+- [[dau-thau-ben-vung]] - Đấu thầu bền vững
+- [[gia-trung-thau]] - Giá trúng thầu
 
 ## Tham khảo
 

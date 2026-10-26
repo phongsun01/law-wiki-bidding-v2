@@ -14,7 +14,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-tu-cach-hop-le-va-canh-tranh]
 > Giúp cán bộ quản lý dự án, chủ đầu tư và nhà thầu nắm bắt nhanh các nguyên tắc áp dụng, phòng tránh sai phạm.
 
 ## Căn cứ pháp lý & Khái niệm liên quan
-- **Điều luật chi phối:** [[dieu-5-*|Điều 5]], [[dieu-6-*|Điều 6]], [[dieu-7-*|Điều 7]]
+- **Điều luật chi phối:** [[dieu-5-tu-cach-hop-le|Điều 5]], [[dieu-6-bao-dam-canh-tranh|Điều 6]], [[dieu-7-thong-tin|Điều 7]]
 - **Khái niệm trọng tâm:** [[nha-thau]], [[canh-tranh]], [[chu-dau-tu]]
 - **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
 

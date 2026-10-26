@@ -8,10 +8,11 @@ effective_date: 2025-01-15
 last_amended: 2025-01-15
 amendment_history: Luật 57/2024/QH15
 status: active
-summary: Điều khoản thi hành bổ sung của Luật sửa đổi 57/2024, quy định về trách nhiệm thi hành
+summary: Điều khoản thi hành bổ sung của Luật sửa đổi 57/2024, quy định về trách nhiệm
+  thi hành
 related_articles: [1, 2, 3, 4, 95, 96, 98]
+tags: [luat-dau-thau, dieu-khoan, thi-hanh, hieu-luc]
 ---
-
 # Điều 97. Điều khoản thi hành bổ sung (Luật 57/2024)
 
 **Thuộc:** [[chuong-10-dieu-khoan-thi-hanh]]
@@ -35,4 +36,3 @@ related_articles: [1, 2, 3, 4, 95, 96, 98]
 
 - [[các-trường-hợp-không-đấu-thầu-qua-mạng-9e9e1122f104b5c8]] - Các trường hợp không đấu thầu qua mạng
 - [[nhà-thầu-có-được-thanh-toán-phần-chênh-lệch-khối-lượng-công-việc-b98273872c4d0baf]] - Nhà thầu có được thanh toán phần chênh lệch khối lượng công việc?
-

@@ -8,10 +8,11 @@ effective_date: 2024-01-01
 last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15, Luật 90/2025/QH15
 status: active
-summary: Quy định về quyền kiến nghị, điều kiện xem xét, quy trình giải quyết kiến nghị và vai trò của Hội đồng giải quyết kiến nghị trong hoạt động đấu thầu
+summary: Quy định về quyền kiến nghị, điều kiện xem xét, quy trình giải quyết kiến
+  nghị và vai trò của Hội đồng giải quyết kiến nghị trong hoạt động đấu thầu
 related_articles: [1, 4, 86, 87, 88, 90]
+tags: [luat-dau-thau, dieu-khoan, kien-nghi, giai-quyet-tranh-chap]
 ---
-
 # Điều 89. Giải quyết kiến nghị trong hoạt động đấu thầu
 
 **Thuộc:** [[chuong-9-kien-nghi-khoi-kien]]
@@ -70,4 +71,3 @@ Chính phủ quy định chi tiết về điều kiện xem xét giải quyết 
 - [[có-được-chỉ-định-thầu-cho-nhà-thầu-đã-cung-cấp-dịch-vụ-tư-vấn-f5cb725af5b43615]] - Có được chỉ định thầu cho nhà thầu đã cung cấp dịch vụ tư vấn?
 - [[có-được-nêu-tên-nhà-thầu-phụ-trong-hồ-sơ-mời-thầu-1f30cf73ffac94fe]] - Có được nêu tên nhà thầu phụ trong Hồ sơ mời thầu?
 - *...và 39 tình huống khác trong [[INDEX-QA#dieu-89|Mục lục Q&A Điều 89]].*
-

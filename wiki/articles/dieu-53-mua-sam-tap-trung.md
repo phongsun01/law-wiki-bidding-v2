@@ -9,29 +9,15 @@ last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: amended
 summary: 'Mua sắm tập trung được áp dụng khi đáp ứng đủ các điều kiện sau đây:'
-related_articles: [4, 10, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 29, 54]
+related_articles: [4, 10, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 54]
 clauses: 7
 threshold_vnd: null
 method: mua-sắm-tập-trung
-applies_to:
-- đơn-vị-mua-sắm
-- cơ-quan
-- tổ-chức
-tags:
-- mua-sắm-tập-trung
-- danh-mục
-- thỏa-thuận-khung
+applies_to: [đơn-vị-mua-sắm, cơ-quan, tổ-chức]
+tags: [mua-sắm-tập-trung, danh-mục, thỏa-thuận-khung]
 total_clauses: 7
-anchors:
-- khoan-1
-- khoan-2
-- khoan-3
-- khoan-4
-- khoan-5
-- khoan-6
-- khoan-7
+anchors: [khoan-1, khoan-2, khoan-3, khoan-4, khoan-5, khoan-6, khoan-7]
 ---
-
 # Điều 53. Mua sắm tập trung
 
 **Thuộc:** [[chuong-5-mua-sam-tap-trung]]

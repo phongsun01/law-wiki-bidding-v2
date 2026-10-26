@@ -1,19 +1,21 @@
 ---
 law_id: luat-dau-thau-2023
 article_number: 1
-title: "Phạm vi điều chỉnh"
+title: Phạm vi điều chỉnh
 chapter: 1
-chapter_title: "Quy định chung"
+chapter_title: Quy định chung
 effective_date: 2024-01-01
 last_amended: 2024-01-01
 amendment_history: Luật 22/2023/QH15
 status: active
-summary: "Luật này quy định về quản lý nhà nước đối với hoạt động đấu thầu; thẩm quyền và trách nhiệm của các cơ quan, tổ chức, cá nhân trong hoạt động đấu thầu; hoạt động lựa chọn nhà thầu thực hiện gói thầu, "
+summary: 'Luật này quy định về quản lý nhà nước đối với hoạt động đấu thầu; thẩm quyền
+  và trách nhiệm của các cơ quan, tổ chức, cá nhân trong hoạt động đấu thầu; hoạt
+  động lựa chọn nhà thầu thực hiện gói thầu, '
 related_articles: [2, 3, 4]
 clauses: 1
-tags: ['phạm-vi', 'quy-định-chung']
+tags: [phạm-vi, quy-định-chung]
+total_clauses: 1
 ---
-
 # Điều 1. Phạm vi điều chỉnh
 
 **Thuộc:** [[chuong-1-quy-dinh-chung]]

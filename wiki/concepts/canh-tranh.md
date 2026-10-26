@@ -88,7 +88,7 @@ Cạnh tranh là nguyên tắc quan trọng nhất trong đấu thầu, có vai 
 
 - [[dieu-6-bao-dam-canh-tranh]] - Bảo đảm cạnh tranh
 - [[dieu-16-hanh-vi-cam]] - Các hành vi bị cấm
-- [[dieu-20-hinh-thuc]] - Các hình thức lựa chọn nhà thầu
+- [[dieu-20-hinh-thuc-lua-chon]] - Các hình thức lựa chọn nhà thầu
 
 ## Tham khảo
 

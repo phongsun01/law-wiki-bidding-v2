@@ -1,20 +1,30 @@
 ---
 law_id: luat-dau-thau-2023
 article_number: 4
-title: "Giải thích từ ngữ"
+title: Giải thích từ ngữ
 chapter: 1
-chapter_title: "Quy định chung"
+chapter_title: Quy định chung
 effective_date: 2024-01-01
 last_amended: 2025-07-01
 amendment_history: Luật 22/2023/QH15, Luật 57/2024/QH15, Luật 90/2025/QH15
 status: amended
-summary: "Định nghĩa 33 thuật ngữ cơ bản trong Luật Đấu thầu 2023, bao gồm các chủ thể (bên mời thầu, chủ đầu tư, nhà thầu, nhà đầu tư), loại hình dịch vụ (tư vấn, phi tư vấn), hồ sơ đấu thầu, và các khái niệm về giá, gói thầu"
-related_articles: [1, 2, 3, 5, 6, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]
+summary: Định nghĩa 33 thuật ngữ cơ bản trong Luật Đấu thầu 2023, bao gồm các chủ
+  thể (bên mời thầu, chủ đầu tư, nhà thầu, nhà đầu tư), loại hình dịch vụ (tư vấn,
+  phi tư vấn), hồ sơ đấu thầu, và các khái niệm về giá, gói thầu
+related_articles: [1, 2, 3, 5, 6, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22,
+  23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42,
+  43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62,
+  64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83,
+  84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]
 total_clauses: 33
-anchors: ["#khoan-1", "#khoan-2", "#khoan-2a", "#khoan-3", "#khoan-4", "#khoan-5", "#khoan-6", "#khoan-7", "#khoan-8", "#khoan-9", "#khoan-10", "#khoan-11", "#khoan-12", "#khoan-13", "#khoan-14", "#khoan-15", "#khoan-16", "#khoan-17", "#khoan-18", "#khoan-19", "#khoan-20", "#khoan-21", "#khoan-22", "#khoan-23", "#khoan-24", "#khoan-25", "#khoan-26", "#khoan-27", "#khoan-28", "#khoan-29", "#khoan-30", "#khoan-31", "#khoan-32", "#khoan-33"]
-tags: ['định-nghĩa', 'giải-thích-từ-ngữ', 'thuật-ngữ']
+anchors: ['#khoan-1', '#khoan-2', '#khoan-2a', '#khoan-3', '#khoan-4', '#khoan-5',
+  '#khoan-6', '#khoan-7', '#khoan-8', '#khoan-9', '#khoan-10', '#khoan-11', '#khoan-12',
+  '#khoan-13', '#khoan-14', '#khoan-15', '#khoan-16', '#khoan-17', '#khoan-18', '#khoan-19',
+  '#khoan-20', '#khoan-21', '#khoan-22', '#khoan-23', '#khoan-24', '#khoan-25', '#khoan-26',
+  '#khoan-27', '#khoan-28', '#khoan-29', '#khoan-30', '#khoan-31', '#khoan-32', '#khoan-33']
+tags: [định-nghĩa, giải-thích-từ-ngữ, thuật-ngữ]
+clauses: 33
 ---
-
 # Điều 4. Giải thích từ ngữ
 
 **Thuộc:** [[chuong-1-quy-dinh-chung]]
@@ -178,7 +188,7 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 - [[ho-so-du-thau]] - Khoản 23
 - [[nha-dau-tu]] - Khoản 25
 - [[co-quan-co-tham-quyen]] - Khoản 2a
-- [[danh-sach-ngan]] - Khoản 3
+- [[lua-chon-nha-thau]] - Khoản 3
 - [[dich-vu-tu-van]] - Khoản 4
 - [[dich-vu-phi-tu-van]] - Khoản 5
 
@@ -214,7 +224,7 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 - [[dieu-5-tu-cach-hop-le]] - Tư cách hợp lệ của nhà thầu, nhà đầu tư
 - [[dieu-6-bao-dam-canh-tranh]] - Bảo đảm cạnh tranh trong đấu thầu
-- [[dieu-7-thong-tin-ve-dau-thau]] - Thông tin về đấu thầu
+- [[dieu-7-thong-tin]] - Thông tin về đấu thầu
 
 ## Ghi chú
 

@@ -14,7 +14,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-mua-sam-thuong-xuyen-tap-trung]
 > Giúp cán bộ quản lý dự án, chủ đầu tư và nhà thầu nắm bắt nhanh các nguyên tắc áp dụng, phòng tránh sai phạm.
 
 ## Căn cứ pháp lý & Khái niệm liên quan
-- **Điều luật chi phối:** [[dieu-55-*|Điều 55]], [[dieu-56-*|Điều 56]], [[dieu-57-*|Điều 57]], [[dieu-58-*|Điều 58]], [[dieu-59-*|Điều 59]], [[dieu-60-*|Điều 60]], [[dieu-61-*|Điều 61]], [[dieu-62-*|Điều 62]]
+- **Điều luật chi phối:** [[dieu-55-mua-thuoc|Điều 55]], [[dieu-56-uu-dai-mua-thuoc|Điều 56]], [[dieu-57-san-pham-dich-vu-cong|Điều 57]], [[dieu-58-phuong-phap-phi-tu-van|Điều 58]], [[dieu-59-phuong-phap-tu-van|Điều 59]], [[dieu-60-xet-duyet-tu-van|Điều 60]], [[dieu-61-xet-duyet-trung-thau-phi-tu-van|Điều 61]], [[dieu-62-phuong-phap-danh-gia-nha-dau-tu|Điều 62]]
 - **Khái niệm trọng tâm:** [[hang-hoa]], [[mua-sam-truc-tuyen]]
 - **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
 

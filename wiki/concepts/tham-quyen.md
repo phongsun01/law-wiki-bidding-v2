@@ -88,7 +88,7 @@ Thẩm quyền xác định ai có quyền quyết định gì trong đấu th�
 ## Điều liên quan
 
 - [[dieu-4-giai-thich-tu-ngu]] - Giải thích từ ngữ
-- [[dieu-36-ke-hoach]] - Phê duyệt kế hoạch
+- [[dieu-36-ke-hoach-tong-the]] - Phê duyệt kế hoạch
 - [[dieu-87-xu-ly-vi-pham]] - Xử lý vi phạm
 
 ## Tham khảo

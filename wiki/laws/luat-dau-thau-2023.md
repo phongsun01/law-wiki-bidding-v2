@@ -82,7 +82,7 @@ Chương X: Điều khoản thi hành (Điều 95-98)
 
 - [Cổng thông tin điện tử Quốc hội](https://quochoi.vn)
 - [Hệ thống mạng đấu thầu quốc gia](https://muasamcong.mpi.gov.vn)
-- File gốc: `/Users/xitrum/law-wiki-bidding-v2/raw/luat-dau-thau-22-57-90.md`
+- File gốc: `raw/luat-dau-thau-22-57-90.md`
 
 ---
 

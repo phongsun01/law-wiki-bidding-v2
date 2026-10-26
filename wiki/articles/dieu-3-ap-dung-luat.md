@@ -119,4 +119,3 @@ d1) Lựa chọn nhà thầu để thực hiện các gói thầu thuộc dự �
 
 - [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
 - [[chuong-01]] - Áp dụng Luật Đấu thầu trong trường hợp điều ước quốc tế, thỏa thuận vay
-

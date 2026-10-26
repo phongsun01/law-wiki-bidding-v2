@@ -103,7 +103,7 @@ Hồ sơ dự thầu phi tư vấn được đánh giá theo:
 ## Điều liên quan
 
 - [[dieu-4-giai-thich-tu-ngu#khoan-5]] - Định nghĩa
-- [[dieu-35-phuong-thuc-gia-thap-nhat]] - Phương thức giá thấp nhất (phi tư vấn)
+- [[dieu-35-phuong-thuc-nha-dau-tu]] - Phương thức giá thấp nhất (phi tư vấn)
 - [[dieu-24-chao-hang-canh-tranh]] - Chào hàng cạnh tranh (thường dùng cho phi tư vấn)
 - [[dieu-25-mua-sam-truc-tiep]] - Mua sắm trực tiếp (gói thầu nhỏ)
 

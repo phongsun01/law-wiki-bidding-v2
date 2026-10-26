@@ -133,4 +133,3 @@ Nhà thầu, nhà đầu tư có tư cách hợp lệ theo quy định tại cá
 
 - [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
 - [[chuong-01]] - Điều kiện tư cách hợp lệ và nguyên tắc áp dụng
-

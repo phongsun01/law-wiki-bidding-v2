@@ -31,7 +31,7 @@ c) Công khai thông tin trong hoạt động đấu thầu;
 
 d) Quản lý nhà thầu.
 
-**Điều 2. Giải thích từ ngữ**
+## Điều 2. Giải thích từ ngữ {#dieu-2-giai-thich-tu-ngu}
 
 1.Chào giá trực tuyến là một quá trình lặp lại nhiều lần việc nhà thầu sử dụng phương tiện điện tử để đưa ra mức giá mới hoặc giá trị mới cho yếu tố ngoài giá có thể định lượng được theo các tiêu chuẩn đánh giá trong hồ sơ mời thầu để làm cơ sở cho việc xếp hạng hoặc xếp hạng lại hồ sơ dự thầu trên Hệ thống mạng đấu thầu quốc gia.
 

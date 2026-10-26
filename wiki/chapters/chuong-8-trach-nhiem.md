@@ -20,4 +20,4 @@ Chương VIII quy định trách nhiệm của chủ đầu tư, nhà thầu, c�
 ## Liên quan
 
 - [[chuong-7-hop-dong]] - Hợp đồng
-- [[chuong-9-quan-ly-nha-nuoc]] - Quản lý nhà nước
+- [[chuong-9-kien-nghi-khoi-kien]] - Quản lý nhà nước

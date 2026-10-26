@@ -77,7 +77,7 @@ Theo [[dieu-39-noi-dung-ke-hoach]], kế hoạch phải bao gồm:
 - Điều ước quốc tế, thỏa thuận vay (ODA)
 
 ### Phê duyệt
-**Thẩm quyền:** Theo [[dieu-40-tham-quyen-phe-duyet]]
+**Thẩm quyền:** Theo [[dieu-40-phe-duyet-du-an]]
 
 **Nguyên tắc:** Phải căn cứ theo:
 - Tính chất kỹ thuật
@@ -97,7 +97,7 @@ Theo [[dieu-39-noi-dung-ke-hoach]], kế hoạch phải bao gồm:
 - [[dieu-37-nguyen-tac-lap-ke-hoach]] - Nguyên tắc lập kế hoạch
 - [[dieu-38-lap-ke-hoach]] - Căn cứ lập kế hoạch
 - [[dieu-39-noi-dung-ke-hoach]] - Nội dung kế hoạch
-- [[dieu-40-tham-quyen-phe-duyet]] - Thẩm quyền phê duyệt
+- [[dieu-40-phe-duyet-du-an]] - Thẩm quyền phê duyệt
 - [[dieu-64-loai-hop-dong]] - Loại hợp đồng
 
 ## Tham khảo

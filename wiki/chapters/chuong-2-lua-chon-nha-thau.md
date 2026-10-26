@@ -29,8 +29,8 @@ Chương II quy định các hình thức và phương thức lựa chọn nhà 
 7. Tham gia cộng đồng - [[dieu-27-tham-gia-cong-dong]]
 8. Đàm phán giá - [[dieu-28-dam-phan-gia]]
 9. Trường hợp đặc biệt - [[dieu-29-truong-hop-dac-biet]]
-10. Đặt hàng - [[dieu-29a]] (mới)
-11. Nguyên tắc áp dụng - [[dieu-29b]] (mới)
+10. Đặt hàng - [[dieu-29a-dat-hang]] (mới)
+11. Nguyên tắc áp dụng - [[dieu-29b-nguyen-tac-ap-dung]] (mới)
 
 ### Mục 2: Phương thức lựa chọn nhà thầu (Điều 30-33)
 

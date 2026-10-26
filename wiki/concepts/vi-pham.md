@@ -4,7 +4,7 @@ category: legal-concept
 name: "Vi phạm"
 defined_in: "[[dieu-16-hanh-vi-cam]]"
 domain: procurement-law
-related_concepts: ["[[xu-ly-vi-pham]]", "[[hanh-vi-cam]]", "[[kien-nghi]]"]
+related_concepts: ["[[vi-pham]]", "[[dieu-16-hanh-vi-cam]]", "[[kien-nghi]]"]
 tags: [vi-phạm, xử-lý, hành-vi-cấm]
 ---
 
@@ -97,9 +97,9 @@ Vi phạm là cơ sở để xử lý, xử phạt trong đấu thầu, có vai 
 
 - [[dieu-16-hanh-vi-cam]] - Các hành vi bị cấm
 - [[dieu-87-xu-ly-vi-pham]] - Xử lý vi phạm
-- [[dieu-88-xu-phat-hanh-chinh]] - Xử phạt vi phạm hành chính
+- [[dieu-88-xu-ly-tinh-huong]] - Xử phạt vi phạm hành chính
 
 ## Tham khảo
 
 - [[kien-nghi]] - Kiến nghị
-- [[to-cao]] - Tố cáo
+- [[kien-nghi]] - Tố cáo

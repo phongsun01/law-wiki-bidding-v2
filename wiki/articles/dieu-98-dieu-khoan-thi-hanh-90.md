@@ -8,10 +8,11 @@ effective_date: 2025-07-01
 last_amended: 2025-07-01
 amendment_history: Luật 90/2025/QH15
 status: active
-summary: Điều khoản thi hành bổ sung của Luật sửa đổi 90/2025, quy định về trách nhiệm thi hành
+summary: Điều khoản thi hành bổ sung của Luật sửa đổi 90/2025, quy định về trách nhiệm
+  thi hành
 related_articles: [1, 2, 3, 4, 95, 96, 97]
+tags: [luat-dau-thau, dieu-khoan, thi-hanh, hieu-luc]
 ---
-
 # Điều 98. Điều khoản thi hành bổ sung (Luật 90/2025)
 
 **Thuộc:** [[chuong-10-dieu-khoan-thi-hanh]]
@@ -34,4 +35,3 @@ related_articles: [1, 2, 3, 4, 95, 96, 97]
 > Tổng cộng có **1 tình huống thực tế** được giải đáp liên quan đến Điều 98.
 
 - [[hướng-dẫn-xây-dựng-e-hsmt-gói-mua-sắm-vật-tư-y-tế-dbe606927b330ff7]] - Hướng dẫn xây dựng E-HSMT gói mua sắm vật tư y tế
-

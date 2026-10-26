@@ -103,4 +103,3 @@ Chính phủ quy định chi tiết về năng lực, kinh nghiệm của thành
 
 - [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
 - [[chuong-02]] - Đấu thầu trước, điều kiện và quy trình liên quan
-

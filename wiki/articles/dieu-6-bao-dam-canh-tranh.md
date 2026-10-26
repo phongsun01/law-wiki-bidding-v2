@@ -127,4 +127,3 @@ Chính phủ quy định chi tiết Điều này.
 
 - [[nd-214-2025]] - Tổng quan nghị định hướng dẫn Luật Đấu thầu
 - [[chuong-01]] - Bảo đảm cạnh tranh và độc lập giữa các bên
-

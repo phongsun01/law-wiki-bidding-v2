@@ -10,24 +10,14 @@ amendment_history: Luật 22/2023/QH15
 status: amended
 summary: Đấu thầu rộng rãi là hình thức lựa chọn nhà thầu trong đó không hạn chế số
   lượng nhà thầu tham dự.
-related_articles:
-- 20
-- 22
-- 29
+related_articles: [20, 22, 29]
 clauses: 2
 method: đấu-thầu-rộng-rãi
-applies_to:
-- gói-thầu
-- nhà-thầu
-tags:
-- đấu-thầu-rộng-rãi
-- hình-thức-lựa-chọn
-- cạnh-tranh
-total_clauses: 1
-anchors:
-- khoan-1
+applies_to: [gói-thầu, nhà-thầu]
+tags: [đấu-thầu-rộng-rãi, hình-thức-lựa-chọn, cạnh-tranh]
+total_clauses: 2
+anchors: [khoan-1]
 ---
-
 # Điều 21. Đấu thầu rộng rãi
 
 **Thuộc:** [[chuong-2-lua-chon-nha-thau]]

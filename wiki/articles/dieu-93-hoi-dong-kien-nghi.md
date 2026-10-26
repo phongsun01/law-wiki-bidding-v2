@@ -10,8 +10,8 @@ amendment_history: Luật 22/2023/QH15, Luật 90/2025/QH15
 status: repealed
 summary: Điều này đã bị bãi bỏ theo Luật 90/2025/QH15
 related_articles: [1, 4, 89, 90, 91, 92, 94]
+tags: [luat-dau-thau, dieu-khoan, kien-nghi, giai-quyet-tranh-chap]
 ---
-
 # ~~Điều 93~~. ~~Thành phần, trách nhiệm và hoạt động của Hội đồng tư vấn giải quyết kiến nghị~~
 
 **Thuộc:** [[chuong-9-kien-nghi-khoi-kien]]
@@ -35,4 +35,3 @@ Nội dung về thành phần, trách nhiệm và hoạt động của Hội đ�
 - [[bổ-sung-hạng-mục-có-phải-làm-lại-kế-hoạch-đấu-thầu-c607bdb2a98af4e3]] - Bổ sung hạng mục có phải làm lại kế hoạch đấu thầu?
 - [[mua-sắm-dưới-50-triệu-có-cần-kế-hoạch-lựa-chọn-nhà-thầu-8af67940eb23ed43]] - Mua sắm dưới 50 triệu có cần kế hoạch lựa chọn nhà thầu?
 - [[phải-hình-thành-gói-thầu-mới-với-phần-công-việc-phát-sinh-f7d6fe3d3ad8d34c]] - Phải hình thành gói thầu mới với phần công việc phát sinh?
-

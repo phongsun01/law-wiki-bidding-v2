@@ -130,7 +130,7 @@ tags: [hình-thức, đấu-thầu, cạnh-tranh]
 
 - [[dieu-21-dau-thau-rong-rai]] - Đấu thầu rộng rãi
 - [[dieu-22-dau-thau-han-che]] - Đấu thầu hạn chế
-- [[dieu-20-hinh-thuc]] - Các hình thức lựa chọn nhà thầu
+- [[dieu-20-hinh-thuc-lua-chon]] - Các hình thức lựa chọn nhà thầu
 
 ## Tham khảo
 

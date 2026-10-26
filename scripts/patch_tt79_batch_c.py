@@ -1,3 +1,4 @@
+from pathlib import Path
 #!/usr/bin/env python3
 """
 Patch Law articles (Điều 61-98) to add TT-79 guidance links.
@@ -15,7 +16,7 @@ ARTICLE_TO_TT79 = {
     82: ["documents/tt-79-2025/chuong-01", "documents/tt-79-2025/chuong-03"],
 }
 
-WIKI_DIR = "/Users/xitrum/law-wiki-bidding-v2/wiki/articles"
+WIKI_DIR = str(Path(__file__).resolve().parent.parent / "wiki" / "articles")
 
 def find_article_file(article_num):
     """Find article file by number."""

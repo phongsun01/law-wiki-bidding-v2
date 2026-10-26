@@ -14,7 +14,7 @@ tags: [tong-hop, thuc-tien, thuc-tien-kien-nghi-va-giai-quyet-tranh-chap]
 > Giúp cán bộ quản lý dự án, chủ đầu tư và nhà thầu nắm bắt nhanh các nguyên tắc áp dụng, phòng tránh sai phạm.
 
 ## Căn cứ pháp lý & Khái niệm liên quan
-- **Điều luật chi phối:** [[dieu-89-*|Điều 89]], [[dieu-90-*|Điều 90]], [[dieu-91-*|Điều 91]], [[dieu-92-*|Điều 92]], [[dieu-93-*|Điều 93]], [[dieu-94-*|Điều 94]]
+- **Điều luật chi phối:** [[dieu-89-giai-quyet-kien-nghi|Điều 89]], [[dieu-90-dieu-kien-kien-nghi|Điều 90]], [[dieu-91-quy-trinh-nha-thau|Điều 91]], [[dieu-92-quy-trinh-nha-dau-tu|Điều 92]], [[dieu-93-hoi-dong-kien-nghi|Điều 93]], [[dieu-94-khoi-kien|Điều 94]]
 - **Khái niệm trọng tâm:** [[kien-nghi]], [[nha-thau]], [[chu-dau-tu]], [[nguoi-co-tham-quyen]]
 - **Văn bản hướng dẫn:** [[nd-24-2024]], [[nd-214-2025]], [[tt-79-2025]], [[tt-80-2025]]
 

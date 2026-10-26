@@ -10,8 +10,8 @@ amendment_history: Luật 22/2023/QH15, Luật 90/2025/QH15
 status: repealed
 summary: Điều này đã bị bãi bỏ theo Luật 90/2025/QH15
 related_articles: [1, 4, 82, 89, 90, 92]
+tags: [luat-dau-thau, dieu-khoan, kien-nghi, giai-quyet-tranh-chap]
 ---
-
 # ~~Điều 91~~. ~~Quy trình giải quyết kiến nghị về lựa chọn nhà thầu~~
 
 **Thuộc:** [[chuong-9-kien-nghi-khoi-kien]]
@@ -42,4 +42,3 @@ Nội dung quy trình giải quyết kiến nghị hiện được quy định c
 - [[thẩm-quyền-duyệt-kế-hoạch-chọn-nhà-thầu-mua-sắm-thuốc-890e21ff0ebad2be]] - Thẩm quyền duyệt kế hoạch chọn nhà thầu mua sắm thuốc
 - [[thẩm-quyền-quyết-định-việc-mua-sắm-hàng-hóa-dịch-vụ-dưới-200-triệu-3116b30c78daf99b]] - Thẩm quyền quyết định việc mua sắm hàng hóa, dịch vụ dưới 200 triệu
 - [[trường-hợp-nào-áp-dụng-quy-định-mua-sắm-tài-sản-công-e0c7e32e95088c05]] - Trường hợp nào áp dụng quy định mua sắm tài sản công?
-
